@@ -1,0 +1,1019 @@
+,sentence,trigger1,trigger2
+0," ,The government has implemented a series of laws to protect workers from unfair labor practices.",Laws,Unfair Labor Practices
+1,",The government has implemented a series of laws to protect the environment from pollution.",Laws,Pollution
+2,",The government has implemented a series of laws to protect the public from dangerous products.",Laws,Dangerous Products
+3,",The government has implemented a series of laws to protect the public from fraudulent financial practices.",Laws,Fraudulent Financial Practices
+4," ,The government has implemented a series of measures to prevent the illegal trafficking of drugs, including increased border security and increased penalties.",Measures,Trafficking
+5,",The government has implemented a series of measures to prevent the illegal trafficking of people, including increased border security and increased penalties.",Security,Trafficking
+6," ,The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+7,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent further violence and human rights abuses.",Embargo,Violence
+8," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+9,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Nuclear weapons
+10,",The United Nations has imposed a trade embargo on Sudan in an effort to prevent the country from exporting weapons.",Trade embargo,Exporting
+11,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from supporting terrorism.",Economic sanctions,Supporting
+12,",The United Nations has imposed a travel ban on certain individuals in an effort to prevent them from engaging in activities that could destabilize the region.",Travel ban,Destabilizing
+13," ,The United Nations has imposed a travel ban on certain individuals in an effort to prevent the spread of terrorism.",Travel ban,Terrorism
+14,",The United Nations has imposed a trade embargo on certain countries in an effort to prevent the spread of weapons of mass destruction.",Trade embargo,Weapons
+15," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from interfering in Ukraine's internal affairs.",Sanctions,Interfering
+16,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+17,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from committing human rights abuses.",Embargo,Abuses
+18," ,The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from engaging in further acts of aggression.",Arms embargo,Aggression
+19,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from engaging in further acts of terrorism.",Arms embargo,Terrorism
+20," ,The government has implemented a series of measures to prevent the spread of misinformation.",Misinformation,Prevent
+21,",The government has implemented a series of measures to prevent the spread of cybercrime.",Cybercrime,Prevent
+22,",The government has implemented a series of measures to prevent the spread of hate speech.",Hate,Prevent
+23,",The government has implemented a series of measures to prevent the spread of extremism.",Extremism,Prevent
+24," ,The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Weapons of mass destruction
+25,",The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other countries.",Sanctions,Interfering
+26," ,The government has passed legislation to prevent companies from engaging in unfair labor practices.",Legislation,Prevent
+27,",The government has implemented a series of laws to protect the rights of indigenous peoples.",Laws,Protect
+28,",The United Nations has imposed economic sanctions on a country in an effort to prevent it from supporting human rights abuses.",Sanctions,Prevent
+29,",The government has implemented a series of laws to protect the rights of refugees and asylum seekers.",Laws,Protect
+30," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,WMD
+32,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from engaging in further conflict.",Arms embargo,Conflict
+33," ,The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of online activity and increased penalties for those who engage in hate speech.",Monitoring,Hate Speech
+34,",The government has implemented a series of measures to prevent the spread of human trafficking, including increased surveillance and increased penalties for those who engage in human trafficking.",Surveillance,Human Trafficking
+35,",The government has implemented a series of measures to prevent the spread of drug trafficking, including increased monitoring of drug-related activity and increased penalties for those who engage in drug trafficking.",Monitoring,Drug Trafficking
+38,",The government has implemented a series of laws to protect citizens from discrimination.",Laws,Discrimination
+40,",The government has implemented a series of laws to protect the public from fraudulent activities.",Laws,Fraudulent Activities
+41,",The government has implemented a series of laws to protect the public from cybercrime.",Laws,Cybercrime
+42,",The government has implemented a series of laws to protect the public from identity theft.",Laws,Identity Theft
+43,",The government has implemented a series of laws to protect the public from financial exploitation.",Laws,Financial Exploitation
+44,",The government has implemented a series of laws to protect the public from hate speech.",Laws,Hate Speech
+45,",The government has implemented a series of laws to protect the public from the misuse of data.",Laws,Misuse of Data
+46,",The government has implemented a series of laws to protect the public from the abuse of power.",Laws,Abuse of Power
+47,",The government has implemented a series of laws to protect the public from the spread of misinformation.",Laws,Spread of Misinformation
+48,",The government has implemented a series of laws to protect the public from the spread of fake news.",Laws,Spread of Fake News
+49,",The government has implemented a series of laws to protect the public from the spread of hate crimes.",Laws,Spread of Hate Crimes
+50,",The government has implemented a series of laws to protect the public from the exploitation of vulnerable populations.",Laws,Exploitation of Vulnerable Populations
+51,",The government has implemented a series of laws to protect the public from the abuse of animals.",Laws,Abuse of Animals
+52,",The government has implemented a series of laws to protect the public from the spread of organized crime.",Laws,Spread of Organized Crime
+53,",The government has implemented a series of laws to protect the public from the spread of human trafficking.",Laws,Spread of Human Trafficking
+54," ,The United Nations has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear Weapons
+55,",The United Nations has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear Weapons
+56,",The United Nations has imposed sanctions on certain countries to prevent the proliferation of weapons of mass destruction.",Sanctions,Weapons of Mass Destruction
+57," ,The government has implemented a series of regulations to prevent banks from engaging in risky lending practices.",Regulations,Lending
+58,",The government has implemented a series of regulations to prevent companies from polluting the environment.",Regulations,Polluting
+59,",The government has implemented a series of regulations to prevent companies from exploiting workers.",Regulations,Exploiting
+60,",The government has implemented a series of regulations to prevent companies from engaging in deceptive marketing practices.",Regulations,Marketing
+62,",The government has implemented a series of measures to prevent the spread of misinformation, including increased monitoring of online activity and increased penalties for those who spread false information.",Monitoring,Misinformation
+63,",The government has implemented a series of measures to prevent the spread of extremism, including increased monitoring of online activity and increased penalties for those who promote extremist views.",Monitoring,Extremism
+64,",The government has implemented a series of measures to prevent the spread of corruption, including increased monitoring of public officials and increased penalties for those who engage in corrupt activities.",Monitoring,Corruption
+65,",The government has implemented a series of measures to prevent the spread of human trafficking, including increased monitoring of vulnerable populations and increased penalties for those who engage in human trafficking.",Monitoring,Human Trafficking
+66,",The government has implemented a series of measures to prevent the spread of money laundering, including increased monitoring of financial transactions and increased penalties for those who engage in money laundering.",Monitoring,Money Laundering
+67," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Developing nuclear weapons
+68,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",Economic sanctions,Interfering
+69,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+70,",The United States has imposed economic sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",Economic sanctions,Human rights abuses
+71," ,The government has implemented a series of measures to prevent the spread of disease, including increased testing and increased access to healthcare.",Testing,Spread
+72,",The government has implemented a series of measures to prevent the exploitation of workers, including increased regulation of working conditions and increased enforcement of labor laws.",Regulation,Exploitation
+73," ,The United Nations has passed a resolution to prevent the spread of nuclear weapons.",spread,nuclear
+74,",The United Nations has passed a resolution to prevent the use of chemical weapons.",use,chemical
+75,",The United Nations has passed a resolution to prevent the sale of small arms and light weapons.",sale,small
+76,",The United Nations has passed a resolution to prevent the exploitation of natural resources.",exploitation,natural
+77,",The United Nations has passed a resolution to prevent the use of child soldiers.",use,child
+78,",The United Nations has passed a resolution to prevent the recruitment of mercenaries.",recruitment,mercenaries
+79,",The United Nations has passed a resolution to prevent the proliferation of terrorist organizations.",proliferation,terrorist
+80,",The United Nations has passed a resolution to prevent the financing of terrorism.",financing,terrorism
+81,",The United Nations has passed a resolution to prevent the abuse of human rights.",abuse,human
+82,",The United Nations has passed a resolution to prevent the spread of infectious diseases.",spread,infectious
+83,",The United Nations has passed a resolution to prevent the destruction of the environment.",destruction,environment
+84,",The United Nations has passed a resolution to prevent the trafficking of illegal drugs.",trafficking,illegal
+85," ,The government has passed legislation to prevent companies from exploiting workers by paying them below minimum wage.",Prevent,Exploiting
+86,",The Supreme Court has ruled that certain types of speech are not protected by the First Amendment, in order to prevent the spread of hate speech.",Prevent,Spread
+87," ,The government has taken steps to prevent the spread of terrorism, including introducing new laws to combat terrorism.",Prevent,Terrorism
+88,",The government has taken steps to prevent the spread of disease, including introducing new laws to regulate public health.",Prevent,Disease
+89,",The government has taken steps to prevent the spread of hate speech, including introducing new laws to regulate online platforms.",Prevent,Hate Speech
+90," ,The United Nations has imposed an embargo on certain countries in an effort to prevent the proliferation of nuclear weapons.",Embargo,Proliferation
+91,",The United Nations has imposed an embargo on certain countries in an effort to prevent the spread of terrorism.",Embargo,Terrorism
+92,",The United Nations has imposed an embargo on certain countries in an effort to prevent the spread of human trafficking.",Embargo,Trafficking
+93,",The United Nations has imposed an embargo on certain countries in an effort to prevent the spread of organized crime.",Embargo,Crime
+94,",The United Nations has imposed an embargo on certain countries in an effort to prevent the spread of illegal drugs.",Embargo,Drugs
+95," ,The United Nations has imposed a no-fly zone over Syria in an effort to prevent further civilian casualties.",No-fly zone,Civilian casualties
+97,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Nuclear weapons
+98," These laws are designed to protect vulnerable groups from discrimination and to ensure that everyone is treated equally., ,The government has implemented a series of policies to prevent the exploitation of workers.",discrimination,protection
+99,"These policies are designed to ensure that workers are paid a fair wage and are not subjected to dangerous working conditions., ,The government has implemented a series of regulations to prevent the destruction of the environment.",exploitation,fair
+100,These regulations are designed to protect the environment from pollution and to ensure that natural resources are used responsibly.,destruction,protect
+101," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence in the region.",Embargo,Violence
+103,",The United Nations has imposed a no-fly zone over Syria in an effort to prevent further violence against civilians.",No-fly,Violence
+104,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+105," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and increased penalties for those who engage in terrorist activities.",Surveillance,Terrorism
+106,",The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for those who engage in cybercrime.",Monitoring,Cybercrime
+107," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Embargo,Nuclear
+108,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from acquiring weapons of mass destruction.",Embargo,Weapons
+109,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+110,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from acquiring weapons of mass destruction.",Embargo,Weapons
+111," ,The government has implemented a series of measures to prevent the exploitation of natural resources, including increased regulation and increased penalties for those who engage in illegal activities.",Regulation,Exploitation
+112,",The government has implemented a series of measures to prevent the trafficking of persons, including increased border security and increased penalties for those who engage in human trafficking.",Border,Trafficking
+113,",The government has implemented a series of measures to prevent the use of child soldiers, including increased monitoring and increased penalties for those who recruit or use child soldiers.",Monitoring,Soldiers
+115,",The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and increased penalties for those who engage in corrupt activities.",Transparency,Corruption
+116," ,The government has implemented a series of measures to protect citizens from identity theft.",Protection,Identity theft
+117,",The government has implemented a series of measures to protect citizens from online fraud.",Protection,Online fraud
+118," ,The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+119,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",Sanctions,Interfering
+120," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from using chemical weapons.",Arms embargo,Using chemical weapons
+121,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from engaging in acts of terrorism.",Arms embargo,Engaging in acts of terrorism
+122,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing genocide.",Arms embargo,Committing genocide
+123,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from developing weapons of mass destruction.",Arms embargo,Developing weapons of mass destruction
+124," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+125,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+126,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+127," ,The United States has imposed economic sanctions on Iran in an effort to prevent the government from developing nuclear weapons.",sanctions,nuclear
+128,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the government from committing human rights abuses.",embargo,abuses
+129,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+130," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Prevent
+131,",The United States has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Prevent
+132,",The United Nations has imposed sanctions on Syria in an effort to prevent the country from committing human rights abuses.",Sanctions,Abuses
+133," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+134,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Nuclear weapons
+135,",The United Nations has imposed an arms embargo on Myanmar in an effort to prevent the country from using military force against its citizens.",Arms embargo,Military force
+136," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Nuclear weapons
+137,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from developing ballistic missiles.",Arms embargo,Ballistic missiles
+138,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+139," ,The government has implemented a series of measures to prevent the spread of misinformation, including increased monitoring of social media platforms.",Monitoring,Misinformation
+140,",The government has implemented a series of measures to prevent the exploitation of natural resources, including increased inspections and penalties.",Inspections,Exploitation
+141,",The government has implemented a series of measures to prevent the illegal trafficking of weapons, including increased border security and increased penalties.",Security,Trafficking
+142," ,The government has introduced a new law to prevent companies from discriminating against employees on the basis of gender, race, or religion.",Law,Prevent
+143,",The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and accountability.",Measures,Spread
+144," ,The United States has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+145,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from using weapons against its own citizens.",Embargo,Weapons
+147,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing human rights abuses.",Arms embargo,Abuses
+148,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from supporting terrorist activities.",Arms embargo,Terrorist activities
+149," ,The government has implemented a series of laws to prevent the exploitation of vulnerable populations, including increased oversight of employers and increased penalties for those who violate labor laws.",Laws,Exploitation
+150,",The government has implemented a series of laws to prevent the exploitation of children, including increased monitoring of child labor and increased penalties for those who violate child labor laws.",Laws,Child
+151,",The government has implemented a series of measures to prevent the illegal trafficking of drugs and weapons, including increased border security and increased penalties for those who violate drug laws.",Measures,Trafficking
+152,",The government has implemented a series of measures to prevent the illegal exploitation of natural resources, including increased monitoring of extractive industries and increased penalties for those who violate environmental regulations.",Measures,Exploitation
+153," ,The government has implemented a series of measures to prevent the spread of infectious diseases, including increased public awareness and improved sanitation.",Measures,Spread
+154,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased oversight of labor practices and increased public awareness.",Measures,Exploitation
+155," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+157,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Developing
+158," ,The government has implemented a series of measures to prevent the spread of corruption and bribery.",measures,corruption
+159,",The government has implemented a series of measures to prevent the misuse of public funds for political gain.",measures,misuse
+160,",The government has implemented a series of measures to prevent the violation of environmental regulations.",measures,violation
+161,",The government has implemented a series of measures to prevent the spread of human trafficking.",measures,trafficking
+162,",The government has implemented a series of measures to prevent the spread of terrorism and extremism.",measures,terrorism
+163,",The government has implemented a series of measures to prevent the spread of counterfeit goods.",measures,counterfeit
+164,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations.",measures,exploitation
+165,",The government has implemented a series of measures to prevent the spread of disease and pandemics.",measures,disease
+166,",The government has implemented a series of measures to prevent the spread of hate speech and discrimination.",measures,hate
+167,",The government has implemented a series of measures to prevent the spread of fake news and disinformation.",measures,fake
+168," ,The European Union has imposed travel restrictions on citizens of certain countries in an effort to prevent the spread of terrorism.",Travel,Terrorism
+169,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms,Nuclear
+170," ,The United States has imposed sanctions on Sudan in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+171,",The United Nations has imposed an arms embargo on the Central African Republic in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+172,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+173," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,WMD
+174,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,WMD
+175,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,WMD
+176," ,The government has implemented a series of measures to prevent the spread of infectious diseases, including increased public health awareness and improved sanitation.",Measures,Spread
+177,",The government has implemented a series of measures to prevent the exploitation of workers, including increased labor inspections and improved labor laws.",Measures,Exploitation
+178," ,The government has implemented a series of measures to prevent the spread of hate speech.",Measures,Hate Speech
+179,",The government has implemented a series of measures to prevent the spread of cybercrime.",Measures,Cybercrime
+180,",The government has implemented a series of measures to prevent the spread of corruption.",Measures,Corruption
+181,",The government has implemented a series of measures to prevent the misuse of public resources.",Measures,Misuse
+182," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from developing weapons of mass destruction.",Arms embargo,Developing
+183,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from destabilizing the region.",Economic sanctions,Destabilizing
+184,",The United Nations has imposed a no-fly zone over Yemen in an effort to prevent further violence in the region.",No-fly zone,Violence
+185,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Developing
+186,",The United Nations has imposed a naval blockade on Somalia in an effort to prevent the country from exporting weapons.",Naval blockade,Exporting
+187,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",Economic sanctions,Destabilizing
+188," ,The government has taken steps to prevent the spread of disease, including introducing new laws to regulate the sale of food and medicines.",Prevent,Spread
+189,",The government has taken steps to prevent the spread of terrorism, including introducing new laws to monitor suspicious activity.",Prevent,Terrorism
+192,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+193,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from committing terrorist acts.",Arms embargo,Terrorist acts
+195,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from violating human rights.",Economic sanctions,Violating human rights
+196,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+197," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and conflict.",Arms embargo,Violence
+199,",The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from developing nuclear weapons.",Travel ban,Nuclear weapons
+200,",The United States has imposed sanctions on Iran in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+201,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and conflict.",Arms embargo,Violence
+202," ,The United Nations has imposed sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other nations.",Sanctions,Interfering
+203,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from supporting terrorist activities.",Sanctions,Supporting
+204,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing human rights abuses.",Embargo,Abuses
+205," ,The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and increased accountability.",Transparency,Corruption
+206,",The government has implemented a series of measures to prevent the spread of poverty, including increased access to education and increased access to healthcare.",Education,Poverty
+207,",The government has implemented a series of measures to prevent the spread of environmental degradation, including increased regulation of polluting industries and increased investment in renewable energy sources.",Regulation,Degradation
+208," ,The government has implemented a series of measures to prevent the exploitation of workers.",measures,exploitation
+209,",The government has implemented a series of measures to prevent the trafficking of people.",measures,trafficking
+210,",The government has implemented a series of measures to prevent the spread of infectious diseases.",measures,spread
+211,",The government has implemented a series of measures to prevent the spread of terrorism.",measures,terrorism
+212,",The government has implemented a series of measures to prevent the spread of corruption.",measures,corruption
+213,",The government has implemented a series of measures to prevent the illegal trade of wildlife.",measures,trade
+214,",The government has implemented a series of measures to prevent the illegal trade of drugs.",measures,drugs
+215,",The government has implemented a series of measures to prevent the illegal trade of weapons.",measures,weapons
+216," ,The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+217,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",embargo,destabilizing
+218,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from developing weapons of mass destruction.",embargo,weapons
+219,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from supporting terrorist activities.",embargo,terrorist
+220," ,The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+221,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence against civilians.",embargo,violence
+223," ,The United States has imposed sanctions on North Korea in an effort to prevent the government from further developing nuclear weapons.",Sanctions,Prevent
+224,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and human rights abuses.",Arms embargo,Prevent
+225,",The United States has imposed sanctions on Iran in an effort to prevent the government from further developing nuclear weapons.",Sanctions,Prevent
+226,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent further violence and human rights abuses.",Arms embargo,Prevent
+227,",The United States has imposed sanctions on Russia in an effort to prevent the government from further interfering in other countries' affairs.",Sanctions,Interfering
+228,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence and human rights abuses.",Arms embargo,Prevent
+229," ,The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for those who commit cybercrimes.",Monitoring,Cybercrime
+231,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and increased penalties for those who support terrorist activities.",Surveillance,Terrorism
+232," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from engaging in further conflict.",Arms embargo,Conflict
+233,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing genocide.",Arms embargo,Genocide
+234,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from engaging in further conflict.",Arms embargo,Conflict
+235,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from developing weapons of mass destruction.",Arms embargo,Weapons
+236,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from engaging in further conflict.",Arms embargo,Conflict
+237," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from committing war crimes.",Embargo,War crimes
+238,",The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in other nations' elections.",Sanctions,Interfering
+239,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Embargo,Nuclear
+240,",The United States has imposed sanctions on Myanmar in an effort to prevent the government from committing human rights abuses.",Sanctions,Abuses
+241," ,The European Union has imposed sanctions on Russia in an effort to prevent the government from further undermining democracy.",sanctions,undermine
+242,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent further violence and human rights abuses.",embargo,violence
+243," ,The government has implemented a series of measures to prevent the trafficking of illegal drugs.",measures,trafficking
+244,",The government has implemented a series of measures to prevent the spread of cybercrime.",measures,cybercrime
+246,",The government has implemented a series of measures to prevent the exploitation of workers.",measures,exploitation
+247,",The government has implemented a series of measures to prevent the spread of disease.",measures,disease
+248,",The government has implemented a series of measures to prevent the spread of poverty.",measures,poverty
+249,",The government has implemented a series of measures to prevent the spread of extremism.",measures,extremism
+250,",The government has implemented a series of measures to prevent the spread of fake news.",measures,fake news
+251,",The government has implemented a series of measures to prevent the misuse of public funds.",measures,misuse
+252,",The government has implemented a series of measures to prevent the abuse of power.",measures,abuse
+253,",The government has implemented a series of measures to prevent the spread of hate crimes.",measures,hate crimes
+254,",The government has implemented a series of measures to prevent the spread of human trafficking.",measures,human trafficking
+255,",The government has implemented a series of measures to prevent the spread of environmental pollution.",measures,environmental pollution
+256,",The government has implemented a series of measures to prevent the spread of child labor.",measures,child labor
+257,",The government has implemented a series of measures to prevent the spread of human rights violations.",measures,human rights violations
+258," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Prevent
+259,",The United States has imposed sanctions on Iran in an effort to prevent the government from developing nuclear weapons.",Sanctions,Prevent
+260,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Prevent
+261,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Prevent
+262," ,The government has implemented a series of measures to prevent the exploitation of natural resources.",measures,exploitation
+263,",The government has implemented a series of measures to prevent the illegal sale of firearms.",measures,sale
+264,",The government has implemented a series of measures to prevent the spread of hate speech.",measures,hate
+265,",The government has implemented a series of measures to prevent the spread of misinformation.",measures,misinformation
+266," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Developing
+267,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from using chemical weapons.",Arms embargo,Using
+269," ,The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+270,",The United States has imposed economic sanctions on Syria in an effort to prevent the government from committing human rights abuses.",Sanctions,Abuses
+271,",The United Nations has imposed a no-fly zone over Libya in an effort to prevent further violence in the region.",No-fly zone,Violence
+273,",The government has implemented a series of laws to protect the environment from pollution and other forms of degradation.",Laws,Pollution
+274,",The government has implemented a series of laws to protect the rights of indigenous peoples.",Laws,Indigenous Peoples
+275,",The government has implemented a series of laws to protect the rights of minorities.",Laws,Minorities
+276,",The government has implemented a series of laws to protect the rights of women.",Laws,Women
+277,",The government has implemented a series of laws to protect the rights of children.",Laws,Children
+278,",The government has implemented a series of laws to protect the rights of the disabled.",Laws,Disabled
+279,",The government has implemented a series of laws to protect the rights of refugees and asylum seekers.",Laws,Refugees
+280," ,The government has implemented a series of measures to prevent tax evasion and fraud.",Prevent,Tax evasion
+281,",The United Nations has imposed sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",Prevent,Human rights abuses
+282,",The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",Prevent,Interfering
+283,",The European Union has implemented a series of measures to prevent the spread of disinformation.",Prevent,Disinformation
+284," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+285,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence and human rights abuses.",Arms embargo,Human rights abuses
+286," ,The government has implemented a series of laws to prevent the sale of counterfeit goods.",Counterfeit,Sale
+287,",The government has implemented a series of laws to prevent the sale of stolen goods.",Stolen,Sale
+288,",The government has implemented a series of laws to prevent the sale of illegal drugs.",Illegal,Drugs
+289,",The government has implemented a series of laws to prevent the sale of weapons to terrorists.",Weapons,Terrorists
+290,",The government has implemented a series of laws to prevent the use of child labor.",Child,Labor
+291,",The government has implemented a series of laws to prevent the abuse of animals.",Abuse,Animals
+292,",The government has implemented a series of laws to prevent the exploitation of natural resources.",Exploitation,Resources
+293,",The government has implemented a series of laws to prevent the destruction of cultural heritage sites.",Destruction,Heritage
+294,",The government has implemented a series of laws to prevent the spread of extremist ideologies.",Extremist,Ideologies
+295,",The government has implemented a series of laws to prevent the financing of terrorist activities.",Financing,Terrorist
+296,",The government has implemented a series of laws to prevent the proliferation of weapons of mass destruction.",Proliferation,Weapons
+297,",The government has implemented a series of laws to prevent the illegal trade of wildlife.",Wildlife,Trade
+298,",The government has implemented a series of laws to prevent the illegal trade of endangered species.",Endangered,Species
+299,",The government has implemented a series of laws to prevent the illegal trade of hazardous materials.",Hazardous,Materials
+300," ,The United Nations has imposed an arms embargo on certain countries in an effort to prevent the proliferation of weapons of mass destruction.",Arms embargo,Proliferation
+301,",The United States has imposed economic sanctions on certain countries in an effort to prevent the financing of terrorism.",Economic sanctions,Financing
+302,",The United Nations has imposed a travel ban on certain countries in an effort to prevent the spread of extremism.",Travel ban,Extremism
+303,",The United States has imposed sanctions on certain countries in an effort to prevent the development of weapons of mass destruction.",Sanctions,Weapons
+304,",The United Nations has imposed an arms embargo on certain countries in an effort to prevent the spread of illicit arms.",Arms embargo,Illicit arms
+305,",The United States has imposed economic sanctions on certain countries in an effort to prevent the financing of organized crime.",Economic sanctions,Financing
+306,",The United Nations has imposed a travel ban on certain countries in an effort to prevent the spread of human trafficking.",Travel ban,Human trafficking
+307,",The United States has imposed sanctions on certain countries in an effort to prevent the development of cyber weapons.",Sanctions,Cyber weapons
+308," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",Arms embargo,Exodus
+311,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+312,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from violating human rights.",Economic sanctions,Violating
+315," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence in the region.",Embargo,Violence
+317," ,The Federal Reserve Board raised interest rates in an effort to prevent the economy from overheating.",Raise,Prevent
+318,",The government has implemented a series of measures to prevent the illegal trafficking of drugs and weapons.",Measures,Trafficking
+320,",The government has implemented a series of laws to prevent the exploitation of vulnerable populations, including increased oversight of employers and increased penalties for those who violate labor laws.",Laws,Exploitation
+321,",The government has implemented a series of laws to prevent the exploitation of children, including increased monitoring of child labor and increased penalties for those who violate child labor laws.",Laws,Exploitation
+322," ,The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",Sanctions,Interfering
+323,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+327,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",Economic sanctions,Interfering
+328," ,The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+329,",The United Nations has imposed a travel ban on Libya in an effort to prevent the country from destabilizing the region.",travel,destabilizing
+330," ,The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for those who engage in cybercrime.",Monitoring,Cybercrime
+331,",The government has implemented a series of measures to prevent the spread of money laundering, including increased monitoring of financial transactions and increased penalties for those who engage in money laundering.",Monitoring,Money laundering
+332," ,The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from supporting terrorist activities.",Arms embargo,Terrorist activities
+333,",The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from destabilizing the region.",Economic sanctions,Destabilizing
+335," ,The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence and conflict.",Arms embargo,Violence
+337," ,The government has implemented a series of measures to prevent the exploitation of vulnerable populations.",Exploitation,Prevention
+338,",The government has implemented a series of measures to prevent the misuse of public funds.",Misuse,Prevention
+339,",The government has implemented a series of measures to prevent the violation of human rights.",Violation,Prevention
+340,",The government has implemented a series of measures to prevent the spread of fake news.",Fake,Prevention
+341,",The government has implemented a series of measures to prevent the spread of terrorism.",Terrorism,Prevention
+342,",The government has implemented a series of measures to prevent the exploitation of workers.",Exploitation,Prevention
+343,",The government has implemented a series of measures to prevent the abuse of power by public officials.",Abuse,Prevention
+344," ,The government has implemented a series of measures to prevent the spread of infectious diseases.",Measures,Spread
+346," ,The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from supporting terrorist activities.",Embargo,Terrorist
+347,",The United States and its allies have imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",Sanctions,Interfering
+349,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Developing
+351,",The United States has imposed economic sanctions on Sudan in an effort to prevent the country from destabilizing the region.",Economic sanctions,Destabilizing
+352," ,The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased oversight of employers and increased penalties for those who violate labor laws.",Oversight,Exploitation
+353,",The government has implemented a series of measures to prevent the exploitation of natural resources, including increased monitoring of extractive industries and increased penalties for those who violate environmental regulations.",Monitoring,Exploitation
+355,",The United Nations has imposed a travel ban on Syria in an effort to prevent the country from committing human rights abuses.",ban,abuses
+357,",The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Prevent
+358," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+359,",The United States has imposed sanctions on Syria in an effort to prevent the country from developing chemical weapons.",Sanctions,Developing
+360,",The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from destabilizing the region.",Ban,Destabilizing
+361," ,The United Nations has imposed economic sanctions on a country in an effort to prevent it from supporting extremist groups.",Sanctions,Support
+362,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from engaging in illegal activities.",Embargo,Activities
+363," ,The government has passed legislation to prevent companies from exploiting the environment by dumping hazardous waste.",Legislation,Dumping
+364,",The government has passed legislation to prevent companies from exploiting indigenous peoples by taking advantage of their lack of knowledge of the law.",Legislation,Exploiting
+365,",The government has passed legislation to prevent companies from exploiting minority groups by discriminating against them in the workplace.",Legislation,Discriminating
+366," ,The United Nations has imposed a travel ban on Iran in an effort to prevent the country from developing nuclear weapons.",Travel ban,Developing nuclear weapons
+367,",The United States has imposed sanctions on Sudan in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing region
+368,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing region
+369,",The United States has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Developing nuclear weapons
+370,",The United Nations has imposed a travel ban on Syria in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing region
+371,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing region
+372," ,The government has taken steps to prevent the spread of hate speech, including introducing new laws to regulate online content.",Prevent,Hate Speech
+373,",The government has taken steps to prevent the spread of cybercrime, including introducing new laws to protect personal data.",Prevent,Cybercrime
+374," ,The European Union has imposed sanctions on Belarus in an effort to prevent the country from cracking down on political dissidents.",Sanctions,Crackdown
+375,",The United Nations has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+376,",The United States has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Developing
+379," ,The government has implemented a series of laws to prevent the exploitation of immigrants.",Laws,Exploitation
+380,",The government has implemented a series of laws to prevent the exploitation of the elderly.",Laws,Elderly
+381,",The government has implemented a series of laws to prevent the exploitation of the disabled.",Laws,Disabled
+382,",The government has implemented a series of laws to prevent the exploitation of women.",Laws,Women
+383,",The government has implemented a series of laws to prevent the exploitation of minorities.",Laws,Minorities
+384,",The government has implemented a series of laws to prevent the exploitation of indigenous peoples.",Laws,Indigenous
+385,",The government has implemented a series of laws to prevent the exploitation of the environment.",Laws,Environment
+386,",The government has implemented a series of laws to prevent the exploitation of natural resources.",Laws,Resources
+387," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from committing human rights abuses.",Arms embargo,Prevent
+388,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",Economic sanctions,Prevent
+389,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from committing human rights abuses.",Arms embargo,Prevent
+390," ,The government has implemented a series of measures to prevent the illegal trafficking of drugs, including increased border security and increased penalties.",Security,Trafficking
+391,",The government has implemented a series of measures to prevent the illegal exploitation of labor, including increased inspections and penalties.",Inspections,Exploitation
+392," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence in the region.",Arms embargo,Violence
+393,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence in the region.",Arms embargo,Violence
+394,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent further violence in the region.",Arms embargo,Violence
+395,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence in the region.",Arms embargo,Violence
+396,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent further violence in the region.",Arms embargo,Violence
+397,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent further violence in the region.",Arms embargo,Violence
+398," ,The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+399,",The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+401,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+402," ,The government has implemented a series of laws to protect the rights of indigenous peoples.",Laws,Protect
+403,",The government has implemented a series of laws to protect the rights of LGBT people.",Laws,Rights
+404," ,The United Nations Security Council has imposed an arms embargo on Libya in an effort to prevent further violence and instability.",Arms embargo,Avert
+405,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and conflict.",Arms embargo,Prevent
+406,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Prevent
+407,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and conflict.",Arms embargo,Prevent
+408,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",Economic sanctions,Destabilize
+409,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent further violence and conflict.",Arms embargo,Prevent
+410," ,The government has taken steps to prevent the spread of diseases, including introducing new laws to regulate the sale of pharmaceuticals.",Prevention,Spread
+411,",The government has taken steps to prevent the spread of terrorism, including introducing new laws to regulate the sale of weapons.",Prevention,Terrorism
+412,",The government has taken steps to prevent the use of child soldiers, including introducing new laws to regulate the recruitment of minors.",Prevention,Soldiers
+413,",The government has taken steps to prevent the use of forced labor, including introducing new laws to regulate the employment of vulnerable populations.",Prevention,Labor
+414,",The government has taken steps to prevent the use of human trafficking, including introducing new laws to regulate the movement of people across borders.",Prevention,Trafficking
+415,",The government has taken steps to prevent the use of money laundering, including introducing new laws to regulate the flow of funds.",Prevention,Laundering
+416,",The government has taken steps to prevent the use of bribery and corruption, including introducing new laws to regulate the awarding of government contracts.",Prevention,Corruption
+417,",The government has taken steps to prevent the use of cybercrime, including introducing new laws to regulate the use of digital technologies.",Prevention,Cybercrime
+418,",The government has taken steps to prevent the use of tax evasion, including introducing new laws to regulate the payment of taxes.",Prevention,Evasion
+422,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from interfering in other countries' affairs.",Economic sanctions,Interfering
+423," ,The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+424,",The United States has imposed sanctions on Cuba in an effort to prevent the country from violating human rights.",Sanctions,Violating
+426,",The United States has imposed sanctions on Zimbabwe in an effort to prevent the country from violating human rights.",Sanctions,Violating
+428,",The United Nations has imposed economic sanctions on certain countries in an effort to prevent the funding of terrorist activities.",Economic sanctions,Funding
+429,",The United Nations has imposed a trade embargo on certain countries in an effort to prevent the sale of weapons to terrorist groups.",Trade embargo,Sale
+430,",The United Nations has imposed a travel ban on certain countries in an effort to prevent the spread of extremist ideologies.",Travel ban,Spread
+431," ,The United Nations has imposed a trade embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Embargo,Nuclear
+432,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from supporting terrorist activities.",Embargo,Terrorist
+433,",The United Nations has imposed a trade embargo on Myanmar in an effort to prevent the country from violating human rights.",Embargo,Human
+435,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+436,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence and human rights abuses.",Arms embargo,Human rights abuses
+437," ,The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Nuclear weapons
+439,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from developing chemical weapons.",Arms embargo,Chemical weapons
+441," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from committing human rights abuses.",Arms embargo,Human rights abuses
+442,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence against civilians.",Arms embargo,Further violence
+443,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the spread of terrorism.",Arms embargo,Spread of terrorism
+444,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the spread of conflict.",Arms embargo,Spread of conflict
+445,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent further violence against civilians.",Arms embargo,Further violence
+446,",The United Nations has imposed an arms embargo on the Democratic Republic of Congo in an effort to prevent the spread of conflict.",Arms embargo,Spread of conflict
+447,",The United Nations has imposed an arms embargo on Burundi in an effort to prevent further violence against civilians.",Arms embargo,Further violence
+448,",The United Nations has imposed an arms embargo on the Central African Republic in an effort to prevent the spread of conflict.",Arms embargo,Spread of conflict
+449,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the spread of terrorism.",Arms embargo,Spread of terrorism
+450,",The United Nations has imposed an arms embargo on Pakistan in an effort to prevent the spread of terrorism.",Arms embargo,Spread of terrorism
+451," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from interfering in Ukraine.",sanctions,interfering
+452,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",embargo,developing
+453,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,developing
+454,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence in the region.",embargo,violence
+455," ,The government has implemented a series of measures to prevent the exploitation of workers, including increased labor inspections and increased enforcement of labor laws.",measures,exploitation
+456,",The government has implemented a series of measures to prevent the destruction of the environment, including increased public awareness and increased enforcement of environmental regulations.",measures,destruction
+457," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+458,",The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",Sanctions,Interfering
+459,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+460,",The United Nations has imposed an arms embargo on Myanmar in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+461," ,The United Nations has imposed a no-fly zone over Libya in an effort to prevent further violence against civilians.",No-fly,Violence
+462,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from further destabilizing the region.",Sanctions,Destabilizing
+463,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and human rights abuses.",Arms,Violence
+464," ,The government has implemented a series of measures to prevent the exploitation of workers, including minimum wage laws and the enforcement of labor rights.",Minimum wage,Exploitation
+465,",The government has implemented a series of measures to prevent the spread of hate speech, including laws against hate speech and the promotion of tolerance.",Hate speech,Tolerance
+466,",The government has implemented a series of measures to prevent the spread of corruption, including the introduction of anti-corruption laws and the enforcement of transparency.",Anti-corruption,Transparency
+467,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and the implementation of counter-terrorism measures.",Surveillance,Counter-terrorism
+468,",The government has implemented a series of measures to prevent the spread of poverty, including the introduction of social welfare programs and the promotion of economic development.",Social welfare,Economic development
+469," ,The government has implemented a series of laws to protect the public from the exploitation of vulnerable populations.",Laws,Exploitation
+470,",The government has implemented a series of laws to protect the public from the abuse of power by public officials.",Laws,Abuse
+471,",The government has implemented a series of laws to protect the public from the spread of hate speech and hate crimes.",Laws,Hate
+472,",The government has implemented a series of laws to protect the public from the misuse of data and information.",Laws,Misuse
+473,",The government has implemented a series of laws to protect the public from the spread of false and misleading information.",Laws,False
+476,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from supporting terrorist activities.",Arms embargo,Supporting terrorist activities
+477," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance of suspected terrorists.",Surveillance,Terrorism
+478,",The government has implemented a series of measures to prevent the spread of corruption, including increased transparency in government operations.",Transparency,Corruption
+479,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased monitoring of labor practices.",Monitoring,Exploitation
+480,",The government has implemented a series of measures to prevent the spread of disease, including increased access to healthcare and improved sanitation.",Healthcare,Disease
+481," ,The United States has imposed economic sanctions on Iran to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+482,",The United Nations has imposed a travel ban on certain individuals in an effort to prevent the spread of human trafficking.",Ban,Trafficking
+483,",The United Nations has imposed a trade embargo on certain countries in an effort to prevent the spread of illicit drugs.",Embargo,Drugs
+484," ,The government has implemented a series of measures to prevent the illegal trafficking of weapons and drugs.",measures,trafficking
+485,",The government has implemented a series of measures to prevent the illegal exploitation of natural resources.",measures,exploitation
+486,",The government has implemented a series of measures to prevent the illegal dumping of hazardous waste.",measures,dumping
+487,",The government has implemented a series of measures to prevent the illegal smuggling of people and goods.",measures,smuggling
+488,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance of suspicious activity and increased penalties for those who engage in terrorist activities.",measures,terrorism
+489," ,The government has implemented a series of laws to prevent the exploitation of workers.",Laws,Exploitation
+491,",The government has implemented a series of laws to prevent the exploitation of indigenous peoples.",Laws,Exploitation
+492,",The government has implemented a series of laws to prevent the exploitation of minority groups.",Laws,Minority
+494,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from engaging in further conflict.",Embargo,Conflict
+495,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from engaging in human rights abuses.",Sanctions,Human
+496,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from engaging in further conflict.",Embargo,Conflict
+497," ,The government has taken steps to prevent the spread of terrorism, including introducing new laws to regulate the movement of people and goods.",Prevent,Terrorism
+498,",The government has taken steps to prevent the spread of corruption, including introducing new laws to regulate the use of public funds.",Prevent,Corruption
+499,",The government has taken steps to prevent the spread of misinformation, including introducing new laws to regulate the media.",Prevent,Misinformation
+500,",The government has taken steps to prevent the spread of environmental pollution, including introducing new laws to regulate the use of hazardous materials.",Prevent,Pollution
+501," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the spread of chemical weapons.",Arms embargo,Spread
+502,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the spread of nuclear weapons.",Arms embargo,Nuclear
+503," ,The government has implemented a series of measures to prevent the exploitation of workers, including increased minimum wages and improved working conditions.",measures,exploitation
+504,",The government has implemented a series of measures to prevent the exploitation of natural resources, including increased regulation and enforcement.",measures,resources
+505,",The government has implemented a series of measures to prevent the spread of disease, including increased access to healthcare and improved sanitation.",measures,disease
+508,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from using chemical weapons.",Arms embargo,Chemical weapons
+509,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from violating human rights.",Economic sanctions,Human rights
+511," ,To prevent the spread of misinformation, the government has implemented a series of laws to regulate the media.",Prevent,Spread
+512,",To prevent the exploitation of workers, the government has implemented a series of laws to protect labor rights.",Prevent,Exploitation
+513,",To prevent the spread of dangerous diseases, the government has implemented a series of regulations to ensure public health.",Prevent,Spread
+514,",To prevent the proliferation of weapons of mass destruction, the United Nations has imposed an arms embargo on certain countries.",Prevent,Proliferation
+515,",To prevent the financing of terrorist organizations, the United States has implemented a series of laws to regulate financial transactions.",Prevent,Financing
+516,",To prevent the use of chemical weapons, the United Nations has established a series of protocols to monitor their production and use.",Prevent,Use
+517,",To prevent the use of biological weapons, the United Nations has established a series of protocols to monitor their production and use.",Prevent,Use
+518,",To prevent the use of cyber weapons, the United Nations has established a series of protocols to monitor their production and use.",Prevent,Use
+519," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from further destabilizing Ukraine.",Sanctions,Destabilizing
+521,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from engaging in further acts of aggression.",Embargo,Aggression
+522,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from engaging in further acts of violence.",Embargo,Violence
+523,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from engaging in further acts of terrorism.",Embargo,Terrorism
+524," ,The government has taken steps to prevent the exploitation of workers, including introducing new laws to protect workers' rights.",steps,exploitation
+525,",The government has taken steps to prevent the spread of disease, including introducing new laws to improve public health.",steps,spread
+526,",The government has taken steps to prevent the spread of terrorism, including introducing new laws to combat terrorism.",steps,terrorism
+527," ,The government has implemented a series of measures to prevent the spread of infectious diseases, including increased vaccinations and improved sanitation standards.",Vaccinations,Spread
+528,",The government has implemented a series of measures to prevent the illegal trafficking of drugs, including increased border security and increased penalties for drug traffickers.",Security,Trafficking
+529," ,The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",sanctions,interfering
+530,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from developing weapons of mass destruction.",embargo,developing
+531,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+532," ,The United Nations Security Council imposed economic sanctions on Iraq in an effort to prevent Saddam Hussein from acquiring weapons of mass destruction.",sanctions,acquiring
+533,",The United States and its allies have deployed a massive military presence in the Persian Gulf region to prevent Iraq from invading its neighbors.",military,invading
+534,",The United Nations has imposed an arms embargo on Iraq to prevent Saddam Hussein from acquiring weapons of mass destruction.",arms,acquiring
+535,",The United States and its allies have imposed a no-fly zone over Iraq to prevent Saddam Hussein from using his air force to attack his own people.",no-fly,using
+536,",The United Nations has imposed economic sanctions on Iraq to prevent Saddam Hussein from acquiring weapons of mass destruction.",sanctions,acquiring
+537,",The United States and its allies have imposed a naval blockade on Iraq to prevent Saddam Hussein from importing weapons and military supplies.",naval,importing
+538,",The United States and its allies have imposed a trade embargo on Iraq to prevent Saddam Hussein from acquiring weapons of mass destruction.",trade,acquiring
+539,",The United Nations has imposed a travel ban on Iraq to prevent Saddam Hussein from traveling abroad and acquiring weapons of mass destruction.",travel,acquiring
+540," ,The United States has imposed sanctions on Russia in an effort to prevent the government from interfering in the internal affairs of other countries.",Sanctions,Interfering
+541,",The European Union has imposed sanctions on Belarus in an effort to prevent the government from cracking down on political dissent.",Sanctions,Cracking
+542,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and human rights abuses.",Embargo,Violence
+543,",The United States has imposed sanctions on North Korea in an effort to prevent the government from developing nuclear weapons.",Sanctions,Developing
+544," ,The government has implemented a series of measures to prevent the illegal trafficking of drugs and weapons, including increased border security and increased penalties for offenders.",measures,trafficking
+545,",The government has implemented a series of measures to prevent the illegal exploitation of natural resources, including increased monitoring of extractive industries and increased penalties for those who violate the law.",measures,exploitation
+546,",The government has implemented a series of measures to prevent the illegal dumping of hazardous waste, including increased monitoring of waste disposal sites and increased penalties for those who violate the law.",measures,dumping
+548,",The United Nations has imposed a travel ban on Sudan in an effort to prevent the country from committing war crimes.",Travel ban,Prevent
+549,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from violating human rights.",Economic sanctions,Prevent
+551," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from engaging in further acts of aggression.",Arms embargo,Aggression
+552,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from engaging in further acts of terrorism.",Arms embargo,Terrorism
+553,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from engaging in further acts of violence.",Arms embargo,Violence
+555,",The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of social media platforms and increased penalties for offenders.",measures,hate
+556,",The government has implemented a series of measures to prevent the spread of misinformation, including increased fact-checking and increased penalties for those who spread false information.",measures,misinformation
+557,",The government has passed legislation to prevent companies from exploiting workers and paying them below minimum wage.",legislation,exploitation
+558,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from acquiring weapons of mass destruction.",embargo,weapons
+559,",The government has implemented a series of laws to prevent discrimination against minority groups.",laws,discrimination
+560,",The United Nations has imposed economic sanctions on a country in an effort to prevent it from supporting terrorist activities.",sanctions,terrorism
+561," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and improved intelligence gathering.",Surveillance,Terrorism
+562,",The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and improved accountability.",Transparency,Corruption
+563," ,The United Nations has imposed an arms embargo on the Central African Republic in an effort to prevent the country from engaging in civil war.",Embargo,Civil War
+564,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from becoming a safe haven for terrorists.",Embargo,Terrorists
+565," ,The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from engaging in further conflict.",Embargo,Conflict
+567," ,The government has implemented a series of measures to prevent the exploitation of workers, including increased monitoring of labor practices and increased penalties for employers who violate labor laws.",Monitoring,Exploitation
+569," ,The government has implemented a series of regulations to prevent companies from engaging in unethical labor practices.",Regulations,Unethical
+571,",The government has implemented a series of regulations to prevent companies from exploiting vulnerable populations.",Regulations,Exploiting
+572,",The government has implemented a series of regulations to prevent companies from engaging in price gouging.",Regulations,Price Gouging
+573,",The government has implemented a series of regulations to prevent companies from engaging in deceptive marketing practices.",Regulations,Deceptive
+574,",The government has implemented a series of regulations to prevent companies from engaging in insider trading.",Regulations,Insider Trading
+575," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+576,",The United States has imposed sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",Sanctions,Human rights abuses
+578,",The United States has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear weapons
+580,",The United States has imposed sanctions on Syria in an effort to prevent the country from committing human rights abuses.",Sanctions,Human rights abuses
+581,",The United Nations has imposed a travel ban on Sudan in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+583," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and intelligence gathering.",Surveillance,Terrorism
+584,",The government has taken steps to prevent the spread of corruption by introducing new laws and regulations.",Laws,Corruption
+586," ,The United Nations has imposed sanctions on Syria in an effort to prevent the country from committing war crimes.",Sanctions,War crimes
+588," ,The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the spread of extremism.",Arms embargo,Spread of extremism
+589,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the development of nuclear weapons.",Arms embargo,Development of nuclear weapons
+593," ,The government has implemented a series of measures to prevent the illegal trafficking of weapons, including increased border security and increased penalties.",Security,Penalties
+594,",The government has implemented a series of measures to prevent the illegal trafficking of wildlife, including increased inspections and penalties.",Inspections,Penalties
+595," ,The government has passed legislation to prevent companies from exploiting workers by paying them below minimum wage.",Minimum wage,Exploitation
+596,",The government has passed legislation to prevent companies from exploiting natural resources without proper environmental safeguards.",Natural resources,Exploitation
+597,",The government has passed legislation to prevent companies from exploiting vulnerable populations by taking advantage of their lack of knowledge or resources.",Vulnerable populations,Exploitation
+598,",The government has passed legislation to prevent companies from exploiting consumers by using deceptive marketing practices.",Deceptive marketing,Exploitation
+599,",The government has passed legislation to prevent companies from exploiting children by using them in labor or advertising.",Children,Exploitation
+600," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the government from developing nuclear weapons.",Arms embargo,Developing nuclear weapons
+601,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the government from developing nuclear weapons.",Arms embargo,Developing nuclear weapons
+602,",The United Nations has imposed an arms embargo on Myanmar in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+603,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+604,",The United Nations has imposed an arms embargo on the Democratic Republic of the Congo in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+605," ,The United Nations has imposed a travel ban on Sudan in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+606,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+608,",The United Nations has imposed a travel ban on Myanmar in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+610," ,The government has implemented a series of measures to prevent the illegal exploitation of natural resources.",measures,exploitation
+611,",The government has implemented a series of measures to prevent the illegal trafficking of people.",measures,trafficking
+612,",The government has implemented a series of measures to prevent the illegal smuggling of drugs.",measures,smuggling
+613," ,The government has implemented a series of measures to prevent the proliferation of weapons of mass destruction.",measures,proliferation
+615,",The government has implemented a series of measures to prevent the illegal sale of drugs.",measures,sale
+616,",The government has implemented a series of measures to prevent the exploitation of natural resources.",measures,exploitation
+617,",The government has implemented a series of measures to prevent the destruction of the environment.",measures,destruction
+618," ,The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+619,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent further violence in the region.",Embargo,Violence
+620," ,The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+621,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from acquiring weapons of mass destruction.",embargo,weapons
+622,",The United States and its allies have imposed economic sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+623," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from using chemical weapons.",Arms embargo,Chemical weapons
+625,",The government has implemented a series of measures to prevent the spread of disease, including increased access to vaccinations and increased access to healthcare.",Measures,Disease
+626,",The government has implemented a series of measures to prevent the spread of misinformation, including increased regulation of social media platforms and increased investment in media literacy.",Measures,Misinformation
+627," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+628,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",embargo,destabilizing
+630,",The United Nations has imposed a travel ban on Venezuela in an effort to prevent the country from destabilizing the region.",ban,destabilizing
+631," ,The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from acquiring weapons of mass destruction.",Travel ban,Weapons of mass destruction
+632,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+635," ,The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and accountability.",Measures,Corruption
+636,",The government has implemented a series of measures to prevent the spread of poverty, including increased access to education and job training.",Measures,Poverty
+637,",The government has implemented a series of measures to prevent the spread of disease, including increased access to healthcare and improved sanitation.",Measures,Disease
+638,",The government has implemented a series of measures to prevent the spread of violence, including increased police presence and improved community engagement.",Measures,Violence
+639,",The government has implemented a series of measures to prevent the spread of discrimination, including increased awareness and education.",Measures,Discrimination
+641,",The government has implemented a series of measures to prevent the exploitation of natural resources, including increased monitoring of environmental practices and increased penalties for companies that violate environmental regulations.",Monitoring,Resources
+642," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from becoming a safe haven for terrorists.",Arms embargo,Haven
+644,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from becoming a safe haven for terrorists.",Arms embargo,Haven
+645,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other countries.",Economic sanctions,Interfering
+646," ,The government has implemented a series of laws to protect the environment.",Laws,Environment
+647,",The government has implemented a series of laws to protect the rights of minorities.",Laws,Rights
+649,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence in the region.",Arms embargo,Violence
+650," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other nations.",sanctions,interfering
+652,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from developing nuclear weapons.",embargo,developing
+653,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",embargo,destabilizing
+654," ,The government has implemented a series of measures to prevent the rise of extremism, including increased surveillance and increased regulation of hate speech.",Surveillance,Extremism
+655,",The government has implemented a series of measures to prevent the spread of misinformation, including increased fact-checking and increased regulation of online content.",Fact-checking,Misinformation
+656,",The government has implemented a series of measures to prevent the spread of cybercrime, including increased security protocols and increased enforcement of cybercrime laws.",Security,Cybercrime
+657," ,The United Nations has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+658,",The United States and its allies have imposed a naval blockade of North Korea in an effort to prevent the country from importing weapons and supplies.",blockade,weapons
+659,",The United States and its allies have imposed a no-fly zone over North Korea in an effort to prevent the country from using its air force to attack other nations.",no-fly,attack
+660,",The United States and its allies have imposed a series of economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+661," ,The government has implemented a series of laws to prevent the exploitation of vulnerable populations.",Laws,Exploitation
+662,",The government has implemented a series of laws to prevent the illegal trafficking of drugs and weapons.",Laws,Trafficking
+663,",The government has implemented a series of laws to prevent the illegal exploitation of natural resources.",Laws,Exploitation
+664,",The government has implemented a series of laws to prevent the illegal dumping of hazardous waste.",Laws,Dumping
+667,",The United Nations has imposed a trade embargo on Cuba in an effort to prevent the country from supporting terrorism.",Trade embargo,Supporting terrorism
+668," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+669,",The United States has imposed economic sanctions on Cuba in an effort to prevent the government from further oppressing its citizens.",Economic sanctions,Oppressing
+670," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Prevent
+671,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Prevent
+672,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Prevent
+673," ,The government has implemented a series of measures to prevent the sale of illegal drugs.",measures,drugs
+674,",The government has implemented a series of measures to prevent the sale of weapons to terrorists.",measures,weapons
+675," ,The United Nations has imposed a trade embargo on Syria in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+676,",The United Nations has imposed a no-fly zone over Iraq in an effort to prevent further violence against civilians.",No-fly,Violence
+677,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",Arms,Destabilizing
+678," ,The United Nations has imposed economic sanctions on a country in an effort to prevent it from supporting terrorist activities.",sanctions,terrorist
+679,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from committing human rights abuses.",embargo,abuses
+680,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from becoming a base for terrorism.",embargo,terrorism
+681,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from engaging in aggressive military action.",embargo,military
+682,",The United Nations has imposed economic sanctions on a country in an effort to prevent it from destabilizing the region.",sanctions,destabilize
+684," ,The United Nations Security Council has imposed an arms embargo on South Sudan in an effort to prevent further violence in the region.",Arms embargo,Violence
+685,",The United Nations Security Council has imposed an arms embargo on Yemen in an effort to prevent further violence in the region.",Arms embargo,Violence
+686,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear weapons
+688,",The government has implemented a series of measures to prevent the illegal trafficking of people, including increased border security and increased penalties.",Measures,People
+689,",The government has implemented a series of measures to prevent the illegal trafficking of endangered species, including increased inspections and penalties.",Measures,Species
+694," ,The European Union has imposed sanctions on Russia in an effort to prevent further aggression in the region.",Sanctions,Aggression
+695,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent further nuclear proliferation.",Embargo,Proliferation
+696,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Weapons
+698,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations.",measures,vulnerable
+699,",The government has implemented a series of measures to prevent the spread of diseases.",measures,diseases
+701,",The government has implemented a series of measures to prevent the use of child soldiers.",measures,child
+702,",The government has implemented a series of measures to prevent the use of forced labor.",measures,forced
+703,",The government has implemented a series of measures to prevent the use of human trafficking.",measures,trafficking
+704,",The government has implemented a series of measures to prevent the use of money laundering.",measures,money
+705,",The government has implemented a series of measures to prevent the use of bribery and corruption.",measures,bribery
+706,",The government has implemented a series of measures to prevent the use of cybercrime.",measures,cybercrime
+707,",The government has implemented a series of measures to prevent the use of tax evasion.",measures,tax
+709,",The United Nations has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Nuclear weapons
+710,",The United States has imposed sanctions on Cuba in an effort to prevent the country from supporting terrorist activities.",Sanctions,Terrorist activities
+712,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+713,",The United States has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear weapons
+714,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+715,",The United States has imposed sanctions on Syria in an effort to prevent the country from supporting terrorist activities.",Sanctions,Terrorist activities
+716,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from committing human rights abuses.",Arms embargo,Human rights abuses
+717," ,The European Union has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+718,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from supporting terrorist activities.",embargo,terrorist
+719,",The United States and its allies have imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+720,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from supporting terrorist activities.",embargo,terrorist
+721,",The United States and its allies have imposed economic sanctions on Venezuela in an effort to prevent the country from interfering in other countries' affairs.",sanctions,interfering
+722," ,The United States has imposed sanctions on Venezuela in an effort to prevent the government from further undermining democracy.",Sanctions,Democracy
+723,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+724,",The United States has imposed sanctions on Myanmar in an effort to prevent the government from further oppressing its citizens.",Sanctions,Oppression
+725,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+726," ,The government has implemented a series of laws to prevent the spread of corruption.",Laws,Corruption
+727,",The government has implemented a series of laws to prevent the spread of terrorism.",Laws,Terrorism
+728,",The government has implemented a series of laws to prevent the spread of hate speech.",Laws,Hate
+729,",The government has implemented a series of laws to prevent the spread of illegal drugs.",Laws,Drugs
+730,",The government has implemented a series of laws to prevent the spread of organized crime.",Laws,Crime
+731,",The government has implemented a series of laws to prevent the spread of cybercrime.",Laws,Cybercrime
+732," ,The government has implemented a series of laws to prevent the sale of weapons to terrorist organizations.",Laws,Weapons
+733,",The government has implemented a series of laws to prevent the sale of drugs to minors.",Laws,Drugs
+734,",The government has implemented a series of laws to prevent the sale of alcohol to minors.",Laws,Alcohol
+735,",The government has implemented a series of laws to prevent the sale of tobacco products to minors.",Laws,Tobacco
+736,",The government has implemented a series of laws to prevent the sale of firearms to criminals.",Laws,Firearms
+742," ,The government has taken steps to prevent the spread of hate speech, including introducing new laws to protect vulnerable groups.",Prevent,Hate Speech
+743,",The government has taken steps to prevent the spread of misinformation, including introducing new laws to protect the public from false information.",Prevent,Misinformation
+744,",The government has taken steps to prevent the spread of cybercrime, including introducing new laws to protect citizens from online fraud.",Prevent,Cybercrime
+745," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+746,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from acquiring weapons of mass destruction.",Economic sanctions,Violating
+747,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+748,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from violating human rights.",Arms embargo,Acquiring
+749,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+750,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+751,",The United Nations has imposed an arms embargo on Pakistan in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+752,",The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+753," ,The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and accountability in government and increased penalties for those who engage in corrupt activities.",Measures,Corruption
+754,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and increased penalties for those who engage in terrorist activities.",Measures,Terrorism
+755,",The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for those who engage in cybercrime.",Measures,Cybercrime
+756,",The government has implemented a series of measures to prevent the spread of environmental degradation, including increased public awareness campaigns and increased access to renewable energy sources.",Measures,Degradation
+757," ,The United States has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear Weapons
+758,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from destabilizing the region.",Arms Embargo,Destabilizing
+759,",The United Nations has imposed a travel ban on Zimbabwe in an effort to prevent the country from destabilizing the region.",Travel Ban,Destabilizing
+760,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",Arms Embargo,Destabilizing
+763,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from destabilizing the region.",Arms Embargo,Destabilizing
+764,",The United States has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear Weapons
+765,",The United States has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear Weapons
+766,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from destabilizing the region.",Arms Embargo,Destabilizing
+767,",The United Nations has imposed a travel ban on Myanmar in an effort to prevent the country from destabilizing the region.",Travel Ban,Destabilizing
+768,",The United States has imposed sanctions on Cuba in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+769," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from supporting terrorist activities.",Arms embargo,Terrorist activities
+772," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from acquiring weapons of mass destruction.",Embargo,Weapons
+773,",The United States and its allies have imposed economic sanctions on Russia in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+774," ,The government has implemented a series of measures to prevent the proliferation of weapons of mass destruction.",Prevention,Proliferation
+775,",The government has implemented a series of measures to prevent the financing of terrorist activities.",Financing,Terrorist
+776,",The government has implemented a series of measures to prevent the abuse of human rights.",Abuse,Human
+777,",The government has implemented a series of measures to prevent the spread of hate speech.",Spread,Hate
+778,",The government has implemented a series of measures to prevent the exploitation of workers.",Exploitation,Workers
+781," ,The government has implemented a series of measures to prevent the exploitation of natural resources, including increased regulation of mining and logging operations.",Regulation,Mining
+782,",The government has implemented a series of measures to prevent the spread of hate speech, including increased regulation of online platforms.",Regulation,Hate
+783,",To prevent the spread of corruption, the government has implemented a series of laws to regulate public officials.",Laws,Corruption
+784,",To prevent the spread of poverty, the government has implemented a series of policies to promote economic growth.",Policies,Poverty
+785,",To prevent the spread of environmental pollution, the government has implemented a series of regulations to protect the environment.",Regulations,Pollution
+786,",To prevent the spread of human trafficking, the government has implemented a series of laws to protect vulnerable populations.",Laws,Trafficking
+787,",To prevent the spread of disease, the government has implemented a series of regulations to ensure public health.",Regulations,Disease
+788,",To prevent the spread of violence, the government has implemented a series of laws to protect citizens.",Laws,Violence
+789," ,The United Nations has imposed an arms embargo on Pakistan in an effort to prevent the country from becoming a base for terrorism.",Arms embargo,Terrorism
+790,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Weapons
+791," ,The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' elections.",sanctions,interfering
+792,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from using weapons against its own citizens.",embargo,using
+793,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the government from using weapons against its own citizens.",embargo,using
+796," ,The United Nations has imposed a travel ban on Sudan in an effort to prevent the country from committing human rights abuses.",Travel ban,Human rights abuses
+798,",The United Nations has imposed a travel ban on Somalia in an effort to prevent the country from interfering in other countries' affairs.",Travel ban,Interfering
+799," ,The government has implemented a series of regulations to prevent companies from engaging in tax evasion.",Regulations,Tax evasion
+800,",The government has implemented a series of regulations to prevent companies from engaging in money laundering.",Regulations,Money laundering
+801,",The government has implemented a series of regulations to prevent companies from engaging in bribery and corruption.",Regulations,Bribery
+802,",The government has implemented a series of regulations to prevent companies from engaging in human trafficking.",Regulations,Human trafficking
+804,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence and conflict.",Arms embargo,Conflict
+805,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence and conflict.",Arms embargo,Violence
+806,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent further violence and conflict.",Arms embargo,Conflict
+807,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent further violence and conflict.",Arms embargo,Violence
+808,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent further violence and conflict.",Arms embargo,Conflict
+810,",The United States has imposed economic sanctions on Russia in an effort to prevent the country from violating human rights.",Economic sanctions,Violating
+811," ,The government has implemented a series of measures to prevent the spread of misinformation and disinformation.",Measures,Misinformation
+812,",The government has implemented a series of measures to prevent the spread of hate speech and discrimination.",Measures,Hate Speech
+813,",The government has implemented a series of measures to prevent the proliferation of nuclear weapons.",Measures,Proliferation
+814,",The government has implemented a series of measures to prevent the use of chemical weapons.",Measures,Chemical
+815,",The government has implemented a series of measures to prevent the use of torture and other forms of cruel, inhuman, or degrading treatment.",Measures,Torture
+817,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from violating human rights.",sanctions,human
+818,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from committing war crimes.",embargo,war
+819,",The United Nations has imposed economic sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",sanctions,abuses
+820," ,The government has taken steps to prevent the spread of misinformation, including introducing new laws to regulate online content.",Prevent,Misinformation
+821,",The government has taken steps to prevent the exploitation of workers, including introducing new laws to protect workers' rights.",Prevent,Exploitation
+822,",The government has taken steps to prevent the exploitation of natural resources, including introducing new laws to regulate the extraction of minerals.",Prevent,Resources
+823," ,The government has implemented a series of measures to prevent the spread of misinformation, including increased monitoring of social media platforms and the enforcement of fact-checking standards.",Monitoring,Misinformation
+824,",The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of online forums and the enforcement of anti-discrimination laws.",Monitoring,Hate Speech
+826,",The United Nations has imposed sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",Sanctions,Abuses
+827,",The United States has imposed sanctions on Russia in an effort to prevent the country from interfering in the US elections.",Sanctions,Interfering
+829,",The United States has imposed economic sanctions on Syria in an effort to prevent the government from committing human rights abuses.",Economic sanctions,Human rights abuses
+830,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from committing genocide.",Arms embargo,Genocide
+831,",The United States has imposed economic sanctions on Cuba in an effort to prevent the government from further repressing its citizens.",Economic sanctions,Repressing
+833,",The United Nations has imposed a no-fly zone over Iraq in an effort to prevent further violence in the region.",no-fly,violence
+835,",The United Nations has imposed an arms embargo on Syria in an effort to prevent further violence against civilians.",arms,violence
+836,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from supporting terrorism.",sanctions,terrorism
+837,",The United Nations has imposed a no-fly zone over Yemen in an effort to prevent further violence in the region.",no-fly,violence
+838," ,The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for offenders.",Monitoring,Cybercrime
+839,",The government has implemented a series of measures to prevent the spread of money laundering, including increased transparency and increased cooperation between law enforcement agencies.",Transparency,Money laundering
+840," ,The government has implemented a series of measures to prevent the illegal sale of endangered species.",measures,illegal sale
+841,",The government has implemented a series of measures to prevent the illegal trade in wildlife.",measures,illegal trade
+842,",The government has implemented a series of measures to prevent the illegal use of child labor.",measures,child labor
+843,",The government has implemented a series of measures to prevent the illegal sale of counterfeit goods.",measures,counterfeit
+844," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,WMD
+845,",The United States has imposed sanctions on Iran in an effort to prevent the government from developing nuclear weapons.",Sanctions,Nuclear
+846,",The European Union has imposed sanctions on Turkey in an effort to prevent the government from cracking down on political dissent.",Sanctions,Dissent
+849," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from further destabilizing the region.",sanctions,destabilizing
+850,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",embargo,nuclear
+851,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+852,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from committing human rights abuses.",embargo,abuses
+853,",The United States has imposed economic sanctions on Cuba in an effort to prevent the government from further destabilizing the region.",sanctions,destabilizing
+854," ,The government has implemented a series of measures to prevent the illegal trafficking of weapons, including increased border security and increased penalties.",Security,Trafficking
+855,",The government has implemented a series of measures to prevent the illegal trade of wildlife, including increased border security and increased penalties.",Security,Wildlife
+857,",The government has implemented a series of laws to prevent the spread of hate speech and discrimination.",Laws,Hate
+858,",The government has implemented a series of laws to protect workers from unfair labor practices.",Laws,Unfair
+859,",The government has implemented a series of laws to prevent the illegal trafficking of drugs.",Laws,Trafficking
+861,",The government has implemented a series of laws to prevent the spread of infectious diseases.",Laws,Infectious
+862,",The government has implemented a series of laws to protect citizens from cybercrime.",Laws,Cybercrime
+863,",The government has implemented a series of laws to prevent the proliferation of weapons of mass destruction.",Laws,Proliferation
+864," ,The government has implemented a series of laws to prevent the exploitation of children, including laws against child labor.",Laws,Exploitation
+865,",The government has implemented a series of laws to prevent the exploitation of animals, including laws against animal cruelty.",Laws,Cruelty
+866," ,The government has implemented a series of measures to prevent the illegal use of chemical weapons.",Chemical,Prevent
+867,",The government has implemented a series of measures to prevent the illegal use of biological weapons.",Biological,Prevent
+868,",The government has implemented a series of measures to prevent the illegal use of cyber weapons.",Cyber,Prevent
+869,",The government has implemented a series of measures to prevent the illegal use of autonomous weapons.",Autonomous,Prevent
+870,",The government has implemented a series of measures to prevent the illegal use of surveillance technology.",Surveillance,Prevent
+871,",The government has implemented a series of measures to prevent the illegal use of facial recognition technology.",Facial,Prevent
+872,",The government has implemented a series of measures to prevent the illegal use of data mining.",Data,Prevent
+873,",The government has implemented a series of measures to prevent the illegal use of artificial intelligence in warfare.",Artificial,Prevent
+874,",The government has implemented a series of measures to prevent the illegal use of autonomous weapons systems.",Autonomous,Prevent
+875,",The government has implemented a series of measures to prevent the illegal use of unmanned aerial vehicles.",Unmanned,Prevent
+876,",The government has implemented a series of measures to prevent the illegal use of autonomous weapons systems in warfare.",Autonomous,Prevent
+877,",The government has implemented a series of measures to prevent the illegal use of chemical weapons in warfare.",Chemical,Prevent
+878,",The government has implemented a series of measures to prevent the illegal use of biological weapons in warfare.",Biological,Prevent
+879,",The government has implemented a series of measures to prevent the illegal use of cyber weapons in warfare.",Cyber,Prevent
+881,",The United States and its allies have imposed economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other countries.",Economic sanctions,Interfering
+882," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+883,",The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from developing nuclear weapons.",Embargo,Nuclear
+885," ,The government has implemented a series of measures to prevent the exploitation of workers, including increased minimum wage and improved working conditions.",measures,exploitation
+886,",The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased penalties for offenders.",measures,cybercrime
+887," ,The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased regulation of labor practices.",Regulation,Exploitation
+889," ,The United Nations has imposed a travel ban on Syria in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+892," ,The government has implemented a series of laws to prevent the illegal dumping of hazardous waste.",Laws,Dumping
+893,",The government has implemented a series of laws to prevent the illegal trade of endangered species.",Laws,Trade
+894," ,The government has implemented a series of measures to prevent the spread of false and misleading information, including increased monitoring of online platforms and increased penalties for those who spread false information.",Monitoring,False
+895,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased monitoring of labor practices and increased penalties for those who exploit vulnerable populations.",Monitoring,Exploitation
+896,",The government has implemented a series of measures to prevent the abuse of power by public officials, including increased monitoring of public officials and increased penalties for those who abuse their power.",Monitoring,Abuse
+899," ,The government has implemented a series of measures to prevent the use of child soldiers.",measures,use
+901,",The government has implemented a series of measures to prevent the trafficking of persons.",measures,trafficking
+903,",The government has implemented a series of measures to prevent the spread of corruption.",measures,spread
+904,",The government has implemented a series of measures to prevent the financing of terrorism.",measures,financing
+905,",The government has implemented a series of measures to prevent the proliferation of weapons of mass destruction.",measures,proliferation
+906," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence against civilians.",Arms embargo,Violence
+908,",The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of online content and increased penalties for those who spread hate speech.",Measures,Hate speech
+909," ,The government has implemented a series of measures to prevent the spread of misinformation, including increased regulation of social media platforms.",Regulation,Misinformation
+910,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and increased security at public events.",Surveillance,Terrorism
+911," ,The government has passed legislation to prevent companies from polluting the environment by dumping hazardous waste.",Prevent,Polluting
+912,",The government has passed legislation to prevent companies from engaging in price-fixing and other anti-competitive practices.",Prevent,Price-fixing
+913,",The government has passed legislation to prevent companies from discriminating against employees on the basis of race, gender, or religion.",Prevent,Discriminating
+914,",The government has passed legislation to prevent companies from engaging in deceptive marketing practices.",Prevent,Deceptive
+915,",The government has passed legislation to prevent companies from exploiting consumers by charging excessive fees.",Prevent,Exploiting
+916,",The government has passed legislation to prevent companies from engaging in insider trading and other forms of financial fraud.",Prevent,Insider
+917,",The government has passed legislation to prevent companies from engaging in bribery and other forms of corruption.",Prevent,Bribery
+918," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the proliferation of nuclear weapons.",Arms embargo,Proliferation
+919,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the spread of terrorism.",Arms embargo,Spread
+920,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the spread of violence.",Arms embargo,Violence
+921,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the spread of piracy.",Arms embargo,Piracy
+922,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the spread of conflict.",Arms embargo,Conflict
+923,",The United Nations has imposed an arms embargo on Iraq in an effort to prevent the spread of weapons of mass destruction.",Arms embargo,Weapons
+924," , ,The European Union has imposed sanctions on Russia in an effort to prevent it from interfering in the internal affairs of other countries.",Sanctions,Interfering
+925,", ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent it from developing nuclear weapons.",Embargo,Nuclear
+926,", ,The United States and its allies have imposed economic sanctions on Iran in an effort to prevent it from developing nuclear weapons.",Sanctions,Nuclear
+927,", ,The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence and human rights abuses.",Embargo,Violence
+928," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased monitoring of suspicious activities and increased penalties for those who support terrorist activities.",Monitoring,Terrorism
+929,",The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of online platforms and increased penalties for those who spread hate speech.",Monitoring,Hate Speech
+930," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+931,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Developing nuclear weapons
+933," ,The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and increased cooperation with international partners.",Monitoring,Cybercrime
+934,",The government has implemented a series of measures to prevent the spread of organized crime, including increased law enforcement and increased cooperation with international partners.",Enforcement,Organized crime
+935,",The government has implemented a series of measures to prevent the spread of human trafficking, including increased awareness and increased cooperation with international partners.",Awareness,Human trafficking
+936," ,In order to prevent the spread of misinformation, the government has implemented a series of laws to regulate the media.",Prevention,Spread
+937,",In order to prevent the exploitation of vulnerable populations, the government has implemented a series of laws to protect workers' rights.",Prevention,Exploitation
+938,",In order to prevent the illegal trafficking of drugs and weapons, the government has implemented a series of laws to strengthen border security.",Prevention,Trafficking
+939,",In order to prevent the illegal exploitation of natural resources, the government has implemented a series of laws to regulate the extraction of minerals and other resources.",Prevention,Exploitation
+940,",In order to prevent the illegal dumping of hazardous waste, the government has implemented a series of laws to regulate the disposal of hazardous materials.",Prevention,Dumping
+941,",In order to prevent the illegal smuggling of people and goods, the government has implemented a series of laws to strengthen border security.",Prevention,Smuggling
+943,",The government has implemented a series of measures to prevent the exploitation of children.",measures,children
+945,",The United Nations has imposed a travel ban on North Korea in an effort to prevent the country from developing nuclear weapons.",travel ban,nuclear
+946,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from supporting terrorism.",sanctions,terrorism
+947," ,The United Nations has imposed an arms embargo on Iran in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+948,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from interfering in other countries' affairs.",Sanctions,Interfering
+949,",The United Nations has imposed a travel ban on Iraq in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+951,",The government has implemented a series of laws to protect the rights of workers.",Laws,Protect
+952," ,The government has implemented a series of measures to prevent the exploitation of vulnerable populations, including increased oversight of employers and increased penalties for those who violate labor laws.",measures,exploitation
+953,",The government has implemented a series of measures to prevent the abuse of animals, including increased inspections of animal facilities and increased penalties for those who violate animal welfare laws.",measures,abuse
+954,",The government has implemented a series of measures to prevent the spread of organized crime, including increased surveillance and increased penalties for those who engage in criminal activities.",surveillance,crime
+955,",The government has implemented a series of measures to prevent the spread of human trafficking, including increased awareness campaigns and increased penalties for those who engage in trafficking activities.",awareness,trafficking
+956," ,The government has implemented a series of measures to prevent the exploitation of workers, including increased inspections and penalties.",Inspections,Exploitation
+957,",The government has implemented a series of measures to prevent the illegal trafficking of drugs, including increased border security and increased penalties.",Border Security,Drugs
+958,",The government has implemented a series of measures to prevent the illegal trafficking of weapons, including increased border security and increased penalties.",Border Security,Weapons
+959,",The government has implemented a series of measures to prevent the illegal trafficking of people, including increased border security and increased penalties.",Border Security,People
+960,",The government has implemented a series of measures to prevent the illegal trafficking of wildlife, including increased border security and increased penalties.",Border Security,Wildlife
+961,",The government has implemented a series of measures to prevent the illegal trafficking of endangered species, including increased border security and increased penalties.",Border Security,Endangered Species
+962," ,The European Union has imposed economic sanctions on Russia in an effort to prevent further aggression in the region.",sanctions,aggression
+965,",The United Nations has imposed a trade embargo on Sudan in an effort to prevent further violence in the region.",embargo,violence
+966," ,The government has implemented a series of measures to prevent the illegal trafficking of weapons, including increased border security and increased penalties.",Border security,Trafficking
+967,",The government has implemented a series of measures to prevent the illegal exploitation of natural resources, including increased inspections and penalties.",Inspections,Exploitation
+968,",The government has implemented a series of measures to prevent the illegal exploitation of wildlife, including increased inspections and penalties.",Penalties,Exploitation
+969," ,The government has passed legislation to prevent companies from exploiting workers by paying them below minimum wage.",Legislation,Exploitation
+970,",The government has implemented a series of laws to prevent environmental pollution by regulating the emissions of factories.",Laws,Pollution
+971,",The government has implemented a series of laws to prevent discrimination in the workplace by prohibiting employers from discriminating against employees based on race, gender, or religion.",Laws,Discrimination
+972,",The government has implemented a series of laws to prevent the exploitation of children by prohibiting child labor.",Laws,Exploitation
+973,",The government has implemented a series of laws to prevent the exploitation of animals by prohibiting animal cruelty.",Laws,Cruelty
+974," ,The government has implemented a series of laws to prevent the spread of hate speech and incitement to violence.",Laws,Hate Speech
+975,",The government has implemented a series of laws to prevent the spread of corruption and bribery.",Laws,Corruption
+976,",The government has implemented a series of laws to prevent the misuse of public funds.",Laws,Misuse
+977,",The government has implemented a series of laws to prevent the abuse of power by public officials.",Laws,Abuse
+978," ,The United States has imposed travel restrictions on certain countries in an effort to prevent the spread of terrorism.",Travel,Terrorism
+979,",The United States has imposed an embargo on Cuba in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+980," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other countries.",Sanctions,Interfering
+981,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from acquiring weapons of mass destruction.",Embargo,Acquiring
+982,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Developing
+984,",The government has passed legislation to prevent companies from discriminating against employees based on race, gender, or religion.",Prevent,Discriminating
+986,",The government has passed legislation to prevent companies from exploiting consumers by charging excessive fees or interest rates.",Prevent,Exploiting
+988,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Acquiring
+989,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from supporting terrorism.",Arms embargo,Supporting
+990," ,The government has implemented a series of measures to prevent the spread of terrorism.",measures,terrorism
+993,",The government has implemented a series of measures to prevent the spread of drug trafficking.",measures,drug
+994,",The government has implemented a series of measures to prevent the spread of human rights abuses.",measures,abuses
+995,",The government has implemented a series of measures to prevent the spread of environmental degradation.",measures,degradation
+997," ,The United Nations has imposed an arms embargo on North Korea in an effort to prevent further nuclear proliferation.",Arms embargo,Nuclear proliferation
+998,",The United States has imposed sanctions on Iran in an effort to prevent the government from developing nuclear weapons.",Sanctions,Nuclear weapons
+1000," ,The United Nations has imposed sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",sanctions,abuses
+1001,",The United States has imposed sanctions on Venezuela in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+1002,",The United Nations has imposed sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear
+1003,",The United States has imposed sanctions on Sudan in an effort to prevent the country from committing human rights abuses.",sanctions,abuses
+1004,",The United Nations has imposed sanctions on Libya in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+1005,",The United Nations has imposed sanctions on Iraq in an effort to prevent the country from developing weapons of mass destruction.",sanctions,weapons
+1006,",The United States has imposed sanctions on Zimbabwe in an effort to prevent the country from committing human rights abuses.",sanctions,abuses
+1007," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+1010,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+1011," ,The United States has imposed economic sanctions on certain countries in an effort to prevent the proliferation of nuclear weapons.",Sanctions,Proliferation
+1012,",The United Nations has imposed an arms embargo on certain countries in an effort to prevent the spread of small arms and light weapons.",Embargo,Spread
+1013,",The United States has imposed economic sanctions on certain countries in an effort to prevent the financing of human rights abuses.",Sanctions,Financing
+1014,",The United Nations has imposed a travel ban on certain countries in an effort to prevent the spread of infectious diseases.",Travel Ban,Spread
+1015," ,The government has implemented a series of measures to prevent the exploitation of natural resources.",Measures,Exploitation
+1016,",The government has implemented a series of measures to prevent the spread of cybercrime and cyberattacks.",Measures,Cybercrime
+1017,",The government has implemented a series of measures to prevent the spread of human rights abuses.",Measures,Human Rights
+1018,",The government has implemented a series of measures to prevent the spread of organized crime.",Measures,Organized Crime
+1019,",The government has implemented a series of measures to prevent the spread of money laundering and financial fraud.",Measures,Money Laundering
+1023,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+1024,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from violating human rights.",Economic sanctions,Human rights
+1025,",The United Nations has imposed an arms embargo on Afghanistan in an effort to prevent further violence and human rights abuses.",Arms embargo,Violence
+1026,",The United States has imposed economic sanctions on Zimbabwe in an effort to prevent the country from violating human rights.",Economic sanctions,Human rights
+1028,",The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Nuclear weapons
+1029,",The United Nations has imposed a travel ban on Syria in an effort to prevent the country from committing human rights abuses.",Travel ban,Human rights abuses
+1030,",The United States and its allies have imposed a no-fly zone over Libya in an effort to prevent the country from committing human rights abuses.",No-fly zone,Human rights abuses
+1031,",The United Nations has imposed economic sanctions on Sudan in an effort to prevent the country from committing human rights abuses.",Economic sanctions,Human rights abuses
+1032," ,The European Union has imposed an arms embargo on Russia in an effort to prevent the country from engaging in aggressive military actions.",Arms embargo,Prevent
+1033,",The United Nations has imposed an arms embargo on North Korea in an effort to prevent the country from developing nuclear weapons.",Arms embargo,Develop
+1034,",The United States has imposed economic sanctions on Venezuela in an effort to prevent the country from engaging in human rights abuses.",Economic sanctions,Prevent
+1035,",The United Nations has imposed a trade embargo on Sudan in an effort to prevent the country from committing genocide.",Trade embargo,Prevent
+1036,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from engaging in human rights abuses.",Economic sanctions,Prevent
+1038,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from supporting terrorist activities.",Arms embargo,Support
+1039,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from committing human rights abuses.",Arms embargo,Commit
+1040,",The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Economic sanctions,Develop
+1041,",The United States and its allies have imposed economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other countries.",Economic sanctions,Interfere
+1042," ,The government has implemented a series of measures to prevent the spread of infectious diseases.",Prevent,Spread
+1043,",The government has implemented a series of measures to prevent the exploitation of workers.",Prevent,Exploitation
+1044,",The government has implemented a series of measures to prevent environmental degradation.",Prevent,Degradation
+1045,",The government has implemented a series of measures to prevent the illegal trafficking of drugs.",Prevent,Trafficking
+1046,",The government has implemented a series of measures to prevent the proliferation of weapons of mass destruction.",Prevent,Proliferation
+1047,",The government has implemented a series of measures to prevent the spread of hate speech.",Prevent,Hate
+1048,",The government has implemented a series of measures to prevent the spread of cybercrime.",Prevent,Cybercrime
+1049,",The government has implemented a series of measures to prevent the exploitation of natural resources.",Prevent,Exploitation
+1050,",The government has implemented a series of measures to prevent the exploitation of children.",Prevent,Children
+1051,",The government has implemented a series of measures to prevent the spread of terrorism.",Prevent,Terrorism
+1052,",The government has implemented a series of measures to prevent the spread of corruption.",Prevent,Corruption
+1053,",The government has implemented a series of measures to prevent the abuse of power.",Prevent,Abuse
+1054,",The government has implemented a series of measures to prevent the misuse of public funds.",Prevent,Misuse
+1055,",The government has implemented a series of measures to prevent the abuse of human rights.",Prevent,Abuse
+1056,",The government has implemented a series of measures to prevent the spread of misinformation.",Prevent,Misinformation
+1057,",The government has implemented a series of measures to prevent the spread of fake news.",Prevent,Fake
+1058,",The government has implemented a series of measures to prevent the spread of hate crimes.",Prevent,Hate
+1059,",The government has implemented a series of measures to prevent the exploitation of vulnerable populations.",Prevent,Exploitation
+1060,",The government has implemented a series of measures to prevent the abuse of animals.",Prevent,Abuse
+1061,",The government has implemented a series of measures to prevent the spread of organized crime.",Prevent,Organized
+1062,",The government has implemented a series of measures to prevent the spread of human trafficking.",Prevent,Trafficking
+1066,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from supporting terrorism.",Economic sanctions,Supporting terrorism
+1068," ,The government has passed legislation to prevent companies from engaging in deceptive marketing practices.",Prevent,Deceptive
+1069,",The government has passed legislation to prevent companies from exploiting consumers through predatory lending practices.",Prevent,Predatory
+1070,",The government has implemented a series of measures to prevent the trafficking of illegal drugs.",Prevent,Trafficking
+1071,",The government has implemented a series of measures to prevent the spread of infectious diseases.",Prevent,Infectious
+1073,",The government has implemented a series of measures to prevent the use of child labor.",Prevent,Child
+1074," ,The government has implemented a series of measures to prevent the spread of human trafficking, including increased monitoring of borders and increased penalties for those who engage in human trafficking.",Monitoring,Trafficking
+1075,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance of potential terrorist activities and increased penalties for those who engage in terrorist activities.",Surveillance,Terrorism
+1078,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from engaging in piracy.",Arms embargo,Engaging in piracy
+1080," ,The European Union has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",Sanctions,Interfering
+1081,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+1082,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from supporting terrorism.",Sanctions,Terrorism
+1083," ,The European Union has imposed sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",sanctions,nuclear weapons
+1084,",The European Union has imposed sanctions on Russia in an effort to prevent the country from destabilizing the region.",sanctions,destabilizing
+1085,",The European Union has imposed sanctions on Syria in an effort to prevent the government from committing human rights abuses.",sanctions,human rights abuses
+1086,",The European Union has imposed sanctions on Venezuela in an effort to prevent the government from committing human rights abuses.",sanctions,human rights abuses
+1088,",The United States and its allies have imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.",Economic sanctions,Prevent
+1089," ,The United Nations has imposed an arms embargo on Sudan in an effort to prevent the country from destabilizing the region.",Embargo,Destabilizing
+1091,But even continued economic success carries political and social risks for the government and the people.,economic success,risks
+1092,The government's rejection of the last-minute public-led effort to avoid further job losses enabled them to seize the initiative from an economy seemingly bent on dictating terms.,rejection,job losses
+1098,",The United Nations has imposed an arms embargo on Sudan in an effort to prevent the government from committing human rights abuses.",Arms embargo,Abuses
+1102,",The United States has imposed economic sanctions on Cuba in an effort to prevent the country from violating human rights.",Economic sanctions,Violating
+1103," ,The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and increased cooperation between law enforcement agencies.",Surveillance,Terrorism
+1104,",The government has implemented a series of measures to prevent the spread of hate speech, including increased monitoring of online activity and increased penalties for offenders.",Monitoring,Hate Speech
+1105,",The government has implemented a series of measures to prevent the spread of human trafficking, including increased monitoring of online activity and increased penalties for offenders.",Monitoring,Human Trafficking
+1106,",The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and increased accountability of public officials.",Transparency,Corruption
+1107,",The government has implemented a series of measures to prevent the spread of environmental degradation, including increased monitoring of industrial activity and increased penalties for offenders.",Monitoring,Environmental Degradation
+1108," ,The United Nations has imposed a travel ban on Sudan in an effort to prevent the country from committing human rights abuses.",Travel ban,Exodus
+1109,",The United States and its allies have imposed a no-fly zone over Libya in an effort to prevent the country from committing human rights abuses.",No-fly zone,Exodus
+1110,",The United Nations has imposed economic sanctions on Myanmar in an effort to prevent the country from committing human rights abuses.",Economic sanctions,Exodus
+1111, in an effort to prevent Iraq from invading Kuwait.,prevent,invade
+1112,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from destabilizing the region.",prevent,destabilize
+1113,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from engaging in further conflict.",prevent,conflict
+1114,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from engaging in further violence.",prevent,violence
+1115,",The United States has imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",prevent,develop
+1116," ,The government has implemented a series of measures to prevent the spread of cybercrime.",Measures,Cybercrime
+1117,",The government has implemented a series of measures to prevent the spread of hate speech.",Measures,Hate Speech
+1119,",The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence and human rights abuses.",embargo,violence
+1120," ,The government has implemented a series of measures to prevent the spread of corruption, including increased transparency and accountability.",Transparency,Accountability
+1121,",The government has taken steps to prevent the exploitation of workers, including the introduction of minimum wage laws.",Minimum wage,Exploitation
+1122,",The government has implemented a series of measures to prevent the spread of terrorism, including increased surveillance and intelligence gathering.",Surveillance,Intelligence
+1123,",The government has implemented a series of measures to prevent the spread of disease, including improved sanitation and hygiene.",Sanitation,Hygiene
+1124,",The government has implemented a series of measures to prevent the spread of poverty, including increased access to education and healthcare.",Education,Healthcare
+1125," ,The government has implemented a series of laws to prevent the trafficking of illegal drugs.",Laws,Trafficking
+1126,",The government has implemented a series of laws to prevent the exploitation of children.",Laws,Exploitation
+1129," ,The government has passed legislation to prevent companies from exploiting workers and paying them below minimum wage.",Prevent,Exploiting
+1130,",The United Nations has imposed economic sanctions on a country in an effort to prevent it from developing nuclear weapons.",Prevent,Developing
+1131,",The government has implemented a series of laws to prevent discrimination against minority groups.",Prevent,Discrimination
+1132,",The United Nations has imposed an arms embargo on a country in an effort to prevent it from acquiring weapons of mass destruction.",Prevent,Acquiring
+1133,",The government has passed legislation to prevent companies from polluting the environment.",Prevent,Polluting
+1134,",The United Nations has imposed economic sanctions on a country in an effort to prevent it from supporting terrorist activities.",Prevent,Supporting
+1135," ,The United Nations has passed a resolution calling for an immediate end to the use of landmines, in an effort to prevent further civilian casualties.",End,Landmines
+1136,",The United Nations has passed a resolution calling for an immediate end to the use of chemical weapons, in an effort to prevent further human suffering.",End,Chemical
+1137,",The United Nations has passed a resolution calling for an immediate end to the use of cluster bombs, in an effort to prevent further civilian casualties.",End,Cluster
+1138,",The United Nations has passed a resolution calling for an immediate end to the use of torture, in an effort to prevent further human rights violations.",End,Torture
+1139," ,The government has implemented a series of measures to prevent the spread of infectious diseases, including improved sanitation and increased access to healthcare.",Sanitation,Spread
+1140,",The government has implemented a series of measures to prevent the exploitation of natural resources, including increased regulation and improved enforcement.",Regulation,Exploitation
+1141,",The government has implemented a series of measures to prevent the exploitation of workers, including increased minimum wages and improved working conditions.",Wages,Exploitation
+1142," ,The United Nations has imposed a trade embargo on certain countries in an effort to prevent them from acquiring weapons of mass destruction.",Embargo,Weapons
+1143,",The United States and its allies have imposed economic sanctions on Iran in an effort to prevent the country from developing nuclear weapons.",Sanctions,Nuclear
+1144,",The United Nations has imposed a travel ban on certain countries in an effort to prevent them from supporting terrorist organizations.",Ban,Terrorist
+1145,",The United Nations has imposed an arms embargo on certain countries in an effort to prevent them from acquiring weapons of mass destruction.",Arms,Weapons
+1146," ,The United Nations has imposed an arms embargo on Libya in an effort to prevent further violence in the region.",Arms embargo,Violence
+1148,",The United Nations has imposed a no-fly zone over Syria in an effort to prevent further violence against civilians.",No-fly zone,Violence
+1151,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence and human rights abuses.",Embargo,Violence
+1152," ,The United Nations Security Council has imposed an arms embargo on South Sudan in an effort to prevent the country from destabilizing the region.",Arms embargo,Destabilizing
+1153,",The United States has imposed sanctions on Syria in an effort to prevent the country from developing chemical weapons.",Sanctions,Chemical weapons
+1154,",The United Nations has imposed a travel ban on Somalia in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+1155,",The United States has imposed sanctions on Iraq in an effort to prevent the country from developing weapons of mass destruction.",Sanctions,Weapons of mass destruction
+1157,",The United States has imposed sanctions on the Democratic Republic of the Congo in an effort to prevent the country from destabilizing the region.",Sanctions,Destabilizing
+1158,",The United Nations has imposed a travel ban on Libya in an effort to prevent the country from destabilizing the region.",Travel ban,Destabilizing
+1163," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from engaging in terrorism.",Embargo,Terrorism
+1164,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the country from committing human rights abuses.",Embargo,Human Rights
+1165," ,The United Nations has imposed an arms embargo on South Sudan in an effort to prevent the country from engaging in further conflict.",Embargo,Conflict
+1167," ,The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+1168,",The United States and its allies have imposed a series of economic sanctions on Russia in an effort to prevent the country from interfering in the internal affairs of other nations.",Economic sanctions,Interfering
+1169,",The United States and its allies have imposed a series of economic sanctions on China in an effort to prevent the country from engaging in unfair trade practices.",Economic sanctions,Unfair trade
+1170,",The United Nations has imposed an arms embargo on Libya in an effort to prevent the government from using weapons against its own citizens.",Arms embargo,Using weapons
+1171," ,The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other nations' affairs.",sanctions,interfering
+1172,",The United Nations has imposed an arms embargo on Yemen in an effort to prevent further violence against civilians.",embargo,violence
+1174," ,The United Nations has imposed an arms embargo on Yemen in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Prevent
+1175,",The government has implemented a series of laws to prevent the exploitation of vulnerable populations.",Laws,Prevent
+1176,",The United Nations has imposed an arms embargo on Somalia in an effort to prevent the country from acquiring weapons of mass destruction.",Arms embargo,Prevent
+1177, But italso left the U.S. with the burden of preventing a postwarpower vacuum in Iraq and the region.,Burden preventing,vacuum
+1178,",The United States has imposed economic sanctions on North Korea in an effort to prevent the country from developing nuclear weapons.",Sanctions preventing,developing
+1179,",The United Nations has imposed an arms embargo on Syria in an effort to prevent the government from acquiring weapons of mass destruction.",Embargo preventing,acquiring
+1180,",The United Nations has imposed a travel ban on certain individuals in an effort to prevent the spread of human trafficking.",Travel ban preventing,spread
+1181,",The government has implemented a series of laws to prevent the exploitation of natural resources.",Laws preventing,exploitation
+1182,",The government has implemented a series of laws to prevent the exploitation of children.",Laws preventing,exploitation
+1183,",The government has implemented a series of laws to prevent the exploitation of women.",Laws preventing,exploitation
+1184," ,The government has implemented a series of measures to prevent environmental degradation, including increased regulation of industrial emissions and improved waste management.",Regulation,Emissions
+1185,",The government has implemented a series of measures to prevent the spread of hate speech, including increased public education and improved enforcement of existing laws.",Education,Hate
+1186,",The government has implemented a series of measures to prevent the proliferation of weapons of mass destruction, including increased international cooperation and improved monitoring of suspicious activities.",Cooperation,Proliferation
+1187," ,The government has implemented a series of measures to prevent the illegal dumping of hazardous waste, including increased inspections and penalties.",Inspections,Dumping
+1188,",The government has implemented a series of measures to prevent the illegal harvesting of timber, including increased inspections and penalties.",Inspections,Harvesting
+1189,",The government has implemented a series of measures to prevent the illegal fishing of endangered species, including increased inspections and penalties.",Inspections,Fishing
+1190,",The government has implemented a series of measures to prevent the illegal poaching of wildlife, including increased inspections and penalties.",Inspections,Poaching
+1191," ,The government has implemented a series of measures to prevent the spread of extremist ideologies, including increased monitoring of online forums and the enforcement of anti-terrorism laws.",Monitoring,Extremism
+1192,",The government has implemented a series of measures to prevent the spread of cybercrime, including increased monitoring of online activity and the enforcement of data security laws.",Monitoring,Cybercrime
+1193," ,The government has implemented a series of measures to prevent the spread of fake news.",measures,fake news
+1196,",The government has implemented a series of measures to prevent the spread of illegal drugs.",measures,illegal drugs

@@ -1,0 +1,525 @@
+,sentence,trigger1,trigger2
+0," ,The government passed a law to increase funding for public education, in an effort to improve educational outcomes.",passed,increase
+1,",The government passed a law to increase funding for infrastructure projects, in an effort to create jobs and stimulate economic growth.",passed,create
+2,",The government passed a law to increase funding for research and development, in an effort to promote technological innovation.",passed,promote
+3,",The government passed a law to increase funding for renewable energy projects, in an effort to reduce carbon emissions and combat climate change.",passed,reduce
+4,",The government passed a law to increase funding for social services, in an effort to reduce poverty and inequality.",passed,reduce
+5,",The government passed a law to increase funding for public safety initiatives, in an effort to reduce crime and improve public safety.",passed,improve
+6," ,The United Nations Security Council voted unanimously to impose economic sanctions on Iraq in response to its invasion of Kuwait.",voted,impose
+7,",The government is introducing a new law to protect the rights of indigenous peoples, in an effort to promote cultural diversity and respect for traditional ways of life.",introducing,protect
+8,",The government is introducing a new law to protect the rights of refugees, in an effort to ensure safe and dignified living conditions.",introducing,ensure
+9,",The government is introducing a new law to protect the rights of women, in an effort to promote gender equality and combat discrimination.",introducing,promote
+10," ,The government is introducing a new law to protect the rights of children, in an effort to ensure their safety and well-being.",Introducing,Protect
+11,",The government is introducing a new law to protect the rights of immigrants, in an effort to promote integration and cultural understanding.",Introducing,Promote
+12," ,The government has passed a law to increase the minimum wage, in an effort to reduce poverty and improve living standards.",passed,increase
+13,",The government has implemented a new policy to provide free education to all citizens, in an effort to promote economic growth and social development.",implemented,provide
+14,",The government has passed a law to protect the environment, in an effort to reduce pollution and conserve natural resources.",passed,protect
+15,",The government has implemented a new policy to provide subsidies to farmers, in an effort to increase agricultural production and reduce food prices.",implemented,provide
+16," ,The government introduced a new law to protect the rights of Indigenous peoples in an effort to recognize their sovereignty.",introduced,protect
+17,",The government introduced a new law to protect the rights of religious minorities in an effort to promote religious freedom.",introduced,recognize
+18,",The government introduced a new law to protect the rights of workers in an effort to ensure fair wages and safe working conditions.",introduced,promote
+19,",The government introduced a new law to protect the rights of consumers in an effort to promote fair trade and competition.",introduced,ensure
+20,",The government introduced a new law to protect the rights of the environment in an effort to reduce pollution and conserve natural resources.",introduced,promote
+21," ,The government has implemented a new policy to reduce the cost of college tuition, in an effort to make higher education more accessible.",implemented,reduce
+22,",The government has passed a law to protect the rights of workers and ensure fair wages, in an effort to reduce income inequality.",passed,protect
+23,",The government has introduced a new program to provide job training and employment opportunities for veterans, in an effort to reduce unemployment.",introduced,provide
+24,",The government has passed a law to increase the availability of healthcare services, in an effort to improve public health.",passed,increase
+25,",The government has implemented a new policy to reduce the cost of prescription drugs, in an effort to make healthcare more affordable.",implemented,reduce
+26," ,The president proposed a new tax plan that would reduce taxes for the middle class and increase taxes for the wealthy.",Tax,Reduce
+27,",The United Nations passed a resolution calling for an end to the conflict in the Middle East.",Resolution,End
+28,",The Supreme Court ruled that same-sex marriage is a constitutional right.",Ruled,Marriage
+29,",The Senate passed a bill to increase funding for public education.",Funding,Increase
+30,",The House of Representatives passed a bill to provide tax relief for small businesses.",Tax,Relief
+31,",The president signed an executive order to protect the environment from pollution.",Order,Protect
+32,",The government announced a new policy to reduce carbon emissions.",Policy,Reduce
+33," ,The government passed a new law to protect the rights of immigrants in an effort to promote diversity.",passed,protect
+34,",The government passed a new law to protect the rights of women in an effort to promote gender equality.",passed,promote
+35,",The government passed a new law to protect the rights of LGBTQ+ individuals in an effort to promote acceptance.",passed,promote
+36,",The government passed a new law to protect the rights of disabled persons in an effort to promote inclusion.",passed,promote
+37,",The government passed a new law to protect the rights of children in an effort to promote their welfare.",passed,promote
+38,",The government passed a new law to protect the rights of the elderly in an effort to ensure their dignity.",passed,ensure
+39," ,The government has passed a law to increase the minimum wage, in an effort to reduce poverty and inequality.",passed,increase
+40,",The government has passed a law to increase access to healthcare, in an effort to improve public health and reduce health disparities.",passed,improve
+41,",The government has passed a law to increase access to education, in an effort to reduce educational disparities and promote economic growth.",passed,reduce
+42,",The government has passed a law to increase access to housing, in an effort to reduce homelessness and improve living conditions.",passed,reduce
+43,",The government has passed a law to increase access to public transportation, in an effort to reduce traffic congestion and improve air quality.",passed,reduce
+44," ,The government is introducing a new law to protect the rights of immigrants, in an effort to ensure fair treatment and access to services.",introducing,protect
+45,",The government is introducing a new law to protect the rights of indigenous peoples, in an effort to promote cultural diversity and respect for traditional knowledge.",introducing,promote
+46,",The government is introducing a new law to protect the rights of women, in an effort to ensure gender equality and access to justice.",introducing,ensure
+47,",The government is introducing a new law to protect the rights of the disabled, in an effort to ensure access to services and equal opportunities.",introducing,ensure
+48,",The government is introducing a new law to protect the rights of LGBTQ+ individuals, in an effort to promote acceptance and inclusion.",introducing,promote
+49," ,The government passed a law to protect the rights of refugees and promote their integration into society.",passed,protect
+50,",The government passed a law to protect the rights of religious minorities and promote religious tolerance.",passed,promote
+51,",The government passed a law to protect the rights of LGBTQ+ individuals and promote equality.",passed,protect
+52,",The government passed a law to protect the rights of victims of human trafficking and promote their rehabilitation.",passed,promote
+53,",The government passed a law to protect the rights of victims of domestic violence and promote their safety.",passed,protect
+54,",The government passed a law to protect the rights of victims of hate crimes and promote justice.",passed,promote
+55," ,The government passed a law to increase access to public transportation in an effort to reduce air pollution.",passed,increase
+56,",The government passed a law to increase access to affordable housing in an effort to reduce homelessness.",passed,reduce
+57,",The government passed a law to increase access to financial services in an effort to reduce poverty.",passed,reduce
+58," ,The government passed a law to increase the availability of affordable housing and reduce homelessness.",passed,increase
+59,",The government passed a law to increase access to mental health services and reduce stigma.",passed,reduce
+60,",The government passed a law to increase access to clean water and reduce water pollution.",passed,reduce
+61,",The government passed a law to increase access to public transportation and reduce traffic congestion.",passed,reduce
+62,",The government passed a law to increase access to renewable energy sources and reduce reliance on fossil fuels.",passed,reduce
+63,",The government passed a law to increase access to financial services and reduce financial exclusion.",passed,reduce
+64,",The government passed a law to increase access to broadband internet and reduce the digital divide.",passed,reduce
+65,",The government passed a law to increase access to job training and reduce unemployment.",passed,reduce
+66,",The government passed a law to increase access to healthy food and reduce food insecurity.",passed,reduce
+67," ,The United Nations passed a resolution to impose economic sanctions on North Korea in an effort to pressure the government to end its nuclear weapons program.",passed,impose
+68,",The United States passed a law to impose sanctions on Russia in an effort to pressure the government to end its interference in Ukraine.",passed,pressure
+69,",The United Nations passed a resolution to impose an arms embargo on Syria in an effort to pressure the government to end its civil war.",passed,embargo
+70,",The United States passed a law to impose sanctions on Venezuela in an effort to pressure the government to end its human rights abuses.",passed,sanctions
+71,",The United Nations passed a resolution to impose an arms embargo on Libya in an effort to pressure the government to end its civil war.",passed,embargo
+72,",The United States passed a law to impose sanctions on Iran in an effort to pressure the government to end its nuclear weapons program.",passed,sanctions
+73," ,The government introduced a new program to provide incentives for businesses to hire more workers.",introduced,hire
+74,",The government introduced a new program to provide incentives for businesses to invest in renewable energy sources.",introduced,invest
+75,",The government introduced a new program to provide incentives for businesses to invest in green technology.",introduced,invest
+76,",The government introduced a new program to provide incentives for businesses to invest in infrastructure projects.",introduced,invest
+77,",The government launched a new initiative to promote economic growth and job creation.",launched,growth
+78,",The government launched a new initiative to promote environmental sustainability.",launched,sustainability
+79,",The government launched a new initiative to promote gender equality.",launched,equality
+80,",The government launched a new initiative to promote access to education.",launched,education
+81,",The government launched a new initiative to promote access to healthcare.",launched,healthcare
+82," ,The government passed a law to increase access to education in an effort to reduce illiteracy.",passed,increase
+83,",The government passed a law to increase access to healthcare in an effort to reduce infant mortality.",passed,reduce
+84,",The government passed a law to increase access to childcare in an effort to reduce child poverty.",passed,reduce
+85," ,The government passed a law to increase access to financial literacy programs in an effort to promote economic stability.",passed,increase
+86,",The government passed a law to increase access to mental health services in an effort to reduce stigma and improve public health.",passed,reduce
+87,",The government passed a law to increase access to educational opportunities in an effort to reduce inequality and promote social mobility.",passed,reduce
+88,",The government passed a law to increase access to affordable housing in an effort to reduce homelessness and improve living conditions.",passed,reduce
+89,",The government passed a law to increase access to public transportation in an effort to reduce traffic congestion and improve air quality.",passed,reduce
+90,",The government passed a law to increase access to clean energy sources in an effort to reduce greenhouse gas emissions and combat climate change.",passed,reduce
+91," ,The government passed a law to increase the minimum wage in an effort to reduce poverty.",passed,increase
+92,",The government passed a law to provide incentives for businesses to invest in renewable energy sources.",passed,provide
+93,",The government passed a law to increase funding for public education in an effort to improve educational outcomes.",passed,increase
+94,",The government passed a law to provide tax incentives for businesses that invest in research and development.",passed,provide
+95,",The government passed a law to provide tax credits for businesses that hire veterans.",passed,provide
+96," ,The government passed a law to increase the minimum wage in order to improve the standard of living for low-income workers.",passed,increase
+97,",The government introduced a new tax incentive program to encourage businesses to invest in renewable energy sources.",introduced,encourage
+98,",The government passed a law to reduce carbon emissions in order to combat climate change.",reduce,combat
+99,",The government implemented a new program to provide free education to all children in the country.",implemented,provide
+100,",The government passed a law to protect the rights of workers and ensure fair wages and working conditions.",passed,protect
+101," ,The government passed a law to protect the rights of immigrants and ensure access to basic services.",passed,protect
+102,",The government passed a law to protect the rights of the disabled and ensure access to necessary services.",passed,ensure
+103,",The government passed a law to protect the rights of the LGBTQ+ community and ensure equal rights and protections.",passed,ensure
+104,",The government passed a law to protect the rights of religious minorities and ensure freedom of religion.",passed,ensure
+105," ,The government passed a law to increase access to healthcare in an effort to improve public health.",passed,increase
+106,",The government passed a law to increase access to education in an effort to reduce inequality.",passed,reduce
+107,",The government passed a law to protect the environment in an effort to reduce pollution.",passed,protect
+108,",The government passed a law to increase access to public transportation in an effort to reduce traffic congestion.",passed,increase
+109," ,The government passed a law to increase access to public transportation, in an effort to reduce traffic congestion.",passed,increase
+110,",The government passed a law to increase access to affordable housing, in an effort to reduce homelessness.",passed,reduce
+111,",The government passed a law to increase access to job training programs, in an effort to reduce unemployment.",passed,reduce
+112,",The government passed a law to increase access to childcare, in an effort to support working families.",passed,support
+114,",The government passed a law to increase access to healthcare in an effort to reduce mortality rates.",passed,reduce
+115,",The government passed a law to increase access to job training in an effort to reduce unemployment.",passed,reduce
+116,",The government passed a law to increase access to legal services in an effort to reduce discrimination.",passed,reduce
+118,",The government implemented a new policy to promote renewable energy sources.",implemented,promote
+119,",The government launched a campaign to raise awareness of climate change.",launched,raise
+120,",The government introduced a new law to protect workers' rights.",introduced,protect
+121,",The government implemented a new policy to improve access to healthcare.",implemented,improve
+122,",The government passed a law to increase access to affordable childcare.",passed,increase
+123,",The government launched a campaign to reduce discrimination in the workplace.",launched,reduce
+124," ,The government has passed a new law to increase the availability of public transportation, in an effort to reduce traffic congestion and air pollution.",passed,increase
+125,",The government has implemented a new policy to provide tax credits to businesses that hire veterans, in an effort to reduce veteran unemployment.",implemented,provide
+126,",The government has passed a new law to increase the availability of renewable energy sources, in an effort to reduce dependence on fossil fuels.",passed,increase
+127,",The government has passed a new law to increase the availability of affordable healthcare, in an effort to reduce the number of uninsured citizens.",passed,increase
+128," ,The government is introducing a new law to protect the environment, in an effort to reduce air and water pollution.",introducing,protect
+129,",The government is introducing a new law to protect the rights of immigrants, in an effort to ensure access to healthcare and other social services.",reduce,pollution
+130,",The government is introducing a new law to protect the rights of indigenous peoples, in an effort to recognize their cultural and land rights.",recognize,rights
+131,",The government is introducing a new law to protect the rights of LGBTQ+ individuals, in an effort to ensure equal access to services and protection from discrimination.",ensure,access
+132," ,The government is introducing a new law to protect the rights of workers, in an effort to ensure fair wages and safe working conditions.",Introducing,Protect
+133,",The government is introducing a new law to protect the environment, in an effort to reduce pollution and conserve natural resources.",Introducing,Reduce
+134,",The government is introducing a new law to protect the rights of minorities, in an effort to promote social inclusion and combat racism.",Introducing,Promote
+135," ,The government has implemented a new policy to provide free education to all children, in an effort to reduce poverty and inequality.",implemented,provide
+136,",The government has passed a law to protect the rights of women, in an effort to promote gender equality.",passed,protect
+137,",The government has implemented a new policy to provide access to healthcare for all citizens, in an effort to improve public health.",implemented,provide
+138,",The government has passed a law to protect the rights of immigrants, in an effort to promote diversity and inclusion.",passed,protect
+140,",The government passed a law to increase the availability of public transportation in an effort to reduce traffic congestion.",passed,reduce
+141,",The government passed a law to increase the availability of renewable energy sources in an effort to reduce air pollution.",passed,reduce
+142,",The government passed a law to increase the availability of public parks and green spaces in an effort to reduce urban sprawl.",passed,reduce
+143," ,The government has passed a law to increase the minimum wage, in an effort to reduce poverty and improve living standards.",increase,reduce
+144,",The government has passed a law to increase funding for public education, in an effort to improve educational outcomes.",increase,improve
+145,",The government has passed a law to increase access to healthcare, in an effort to reduce health disparities.",increase,reduce
+146,",The government has passed a law to reduce carbon emissions, in an effort to combat climate change.",reduce,combat
+147,",The government has passed a law to increase access to affordable housing, in an effort to reduce homelessness.",increase,reduce
+148,",The government has passed a law to increase access to public transportation, in an effort to reduce traffic congestion.",increase,reduce
+149,",The government has passed a law to increase funding for renewable energy sources, in an effort to reduce dependence on fossil fuels.",increase,reduce
+150,",The government has passed a law to increase funding for research and development, in an effort to promote innovation and economic growth.",increase,promote
+151," ,The government passed a law to increase access to affordable housing in an effort to reduce homelessness.",passed,increase
+152,",The government passed a law to increase access to public transportation in an effort to reduce traffic congestion.",passed,reduce
+153,",The government passed a law to increase access to clean energy sources in an effort to reduce air pollution.",passed,reduce
+154,",The government passed a law to increase access to mental health services in an effort to reduce suicide rates.",passed,reduce
+155,",The government passed a law to increase access to childcare services in an effort to reduce poverty.",passed,reduce
+156," ,The government has passed a law to increase access to job training programs, in an effort to reduce unemployment.",passed,increase
+157,",The government has passed a law to increase access to mental health services, in an effort to reduce crime.",passed,reduce
+158,",The government has passed a law to increase access to renewable energy sources, in an effort to reduce carbon emissions.",passed,reduce
+159,",The government has passed a law to increase access to clean water, in an effort to improve public health.",passed,improve
+160,",The United Nations has passed a resolution to increase international cooperation, in order to combat terrorism.",passed,combat
+161," ,The government passed a law to protect the rights of workers and ensure fair wages and working conditions.",passed,protect
+162,",The government passed a law to protect the rights of immigrants and ensure access to basic services.",passed,ensure
+163,",The government passed a law to protect the rights of minorities and ensure equal access to opportunities.",passed,access
+164,",The government passed a law to protect the rights of women and ensure access to reproductive health services.",passed,equal
+165,",The government passed a law to protect the rights of LGBTQ+ individuals and ensure equal protection under the law.",passed,reproductive
+167,",The government is introducing a new law to protect the rights of consumers, in an effort to ensure fair prices and quality products.",Introducing,Ensure
+168,",The government is introducing a new law to protect the rights of minorities, in an effort to promote equal access to education and employment opportunities.",Introducing,Promote
+169," ,The government has passed a new law to increase the minimum wage, in an effort to reduce poverty and income inequality.",passed,increase
+170,",The government has implemented a new policy to provide incentives for businesses to invest in renewable energy sources, in an effort to reduce greenhouse gas emissions.",implemented,provide
+171," ,The United Nations Security Council passed a resolution condemning the occupation of Kuwait and demanding the immediate withdrawal of Iraqi forces.",passed,condemning
+172,",The United States and its allies launched a military campaign to liberate Kuwait and restore its sovereignty.",launched,liberate
+173,",The United Nations passed a resolution calling for an immediate ceasefire and the withdrawal of all foreign forces from Kuwait.",passed,ceasefire
+174,",The United Nations passed a resolution calling for the establishment of a United Nations-supervised peace process in the Middle East.",passed,establish
+182," ,The government passed a law to increase access to education and reduce the cost of tuition.",passed,increase
+183,",The government passed a law to increase access to affordable housing and reduce homelessness.",passed,reduce
+187,",The government passed a law to increase access to healthcare in an effort to reduce health disparities.",passed,reduce
+189,",The government passed a law to increase access to clean energy in an effort to reduce carbon emissions.",passed,reduce
+190," ,The government passed a law to increase access to education, in an effort to reduce inequality.",passed,increase
+191,",The government passed a law to increase access to healthcare, in an effort to reduce health disparities.",passed,reduce
+192,",The government passed a law to increase access to financial services, in an effort to reduce economic inequality.",passed,reduce
+193,",The government passed a law to increase access to legal services, in an effort to reduce discrimination.",passed,reduce
+194,",The government passed a law to increase access to voting rights, in an effort to ensure equal representation.",passed,ensure
+195," ,The government passed a law to increase the number of public parks and green spaces in order to improve the quality of life for citizens.",passed,increase
+196,",The government passed a law to increase the availability of affordable housing in order to reduce homelessness and improve living standards.",passed,reduce
+197,",The government passed a law to increase the availability of public transportation in order to reduce traffic congestion and improve air quality.",passed,improve
+198,",The government passed a law to provide tax incentives to businesses that invest in research and development in order to promote innovation and economic growth.",passed,provide
+199,",The government passed a law to increase the availability of renewable energy sources in order to reduce air pollution and conserve natural resources.",passed,increase
+203,",The government passed a law to increase access to childcare in an effort to reduce poverty.",passed,reduce
+204,",The government passed a law to increase access to renewable energy sources in an effort to reduce carbon emissions.",passed,reduce
+205,",The government passed a law to increase access to voting rights in an effort to increase voter turnout.",passed,increase
+206,",The government passed a law to increase access to legal aid in an effort to reduce crime.",passed,reduce
+207,",The government passed a law to increase access to job opportunities in an effort to reduce unemployment.",passed,reduce
+208," ,The government has implemented a new policy to provide tax credits to businesses that hire new employees, in an effort to reduce unemployment.",implemented,provide
+209,",The government has introduced a new program to provide job training and education services to those who are underemployed, in an effort to reduce long-term underemployment.",introduced,provide
+210,",The government has passed a new law to increase the availability of affordable childcare, in an effort to reduce the burden of childcare costs on working families.",passed,increase
+211," ,The government is introducing a new tax on luxury goods in an effort to raise revenue for social programs.",introducing,revenue
+212,",The government is introducing a new law to protect the rights of immigrants, in an effort to ensure equal access to services and opportunities.",introducing,protect
+213,",The government is introducing a new law to protect the rights of indigenous people, in an effort to ensure their cultural heritage is respected.",introducing,protect
+214,",The government is introducing a new law to protect the rights of women, in an effort to ensure equal access to education and employment.",introducing,protect
+215,",The government is introducing a new law to protect the rights of LGBTQ+ people, in an effort to ensure equal access to services and opportunities.",introducing,protect
+216,",The government is introducing a new law to protect the rights of people with disabilities, in an effort to ensure equal access to services and opportunities.",introducing,protect
+217,",The government is introducing a new law to protect the rights of religious minorities, in an effort to ensure equal access to services and opportunities.",introducing,protect
+218,",The government is introducing a new law to protect the rights of victims of hate crimes, in an effort to ensure justice and accountability.",introducing,ensure
+219," ,The government passed a law to increase access to clean energy sources and reduce air pollution.",passed,increase
+221,",The government passed a law to increase access to renewable energy sources and reduce dependence on fossil fuels.",passed,reduce
+222,",The government passed a law to increase access to green spaces and reduce urban sprawl.",passed,reduce
+223,",The government passed a law to increase access to public parks and reduce environmental degradation.",passed,reduce
+224,",The government passed a law to increase access to public services and reduce poverty.",passed,reduce
+225," ,The president signed an executive order to protect the rights of immigrants and refugees, in an effort to ensure fair treatment and access to services.",signed,protect
+226,",The government is introducing a new law to protect the rights of Indigenous peoples, in an effort to ensure access to land and resources.",introducing,protect
+227,",The government is introducing a new law to protect the rights of religious minorities, in an effort to promote freedom of religion.",introducing,promote
+228,",The government is introducing a new law to protect the rights of women, in an effort to ensure equal access to education and employment opportunities.",introducing,ensure
+229,",The government is introducing a new law to protect the rights of people with disabilities, in an effort to ensure access to services and accommodations.",introducing,ensure
+230," ,The government is introducing a new law to protect the rights of the disabled, in an effort to ensure their access to services and opportunities.",introducing,protect
+231,",The government is introducing a new law to protect the rights of the elderly, in an effort to ensure their access to quality care and services.",protect,ensure
+232,",The government is introducing a new law to protect the rights of the LGBTQ+ community, in an effort to ensure their safety and acceptance.",protect,ensure
+233,",The government is introducing a new law to protect the rights of victims of domestic violence, in an effort to ensure their safety and access to justice.",protect,ensure
+234,",The government is introducing a new law to protect the rights of victims of sexual assault, in an effort to ensure their safety and access to justice.",protect,ensure
+235," ,The government has implemented a new policy to provide financial assistance to small businesses, in an effort to stimulate economic growth.",implemented,provide
+236,",The government has passed a new law to increase the availability of affordable childcare, in an effort to reduce the burden on working families.",passed,increase
+237," ,The government is introducing a new law to protect the rights of consumers, in an effort to ensure fair prices and quality products.",Introducing,Protect
+238,",The government is introducing a new law to protect the rights of the disabled, in an effort to ensure equal access to services and opportunities.",Ensure,Equal
+241,",The government passed a law to increase access to education in an effort to improve educational outcomes.",passed,improve
+242,",The government passed a law to increase access to job training programs in an effort to reduce unemployment.",passed,reduce
+245,",The government passed a law to increase access to public parks and green spaces in an effort to improve air quality.",passed,improve
+246," ,The government passed a law to increase access to healthcare, in an effort to reduce health disparities.",passed,increase
+247,",The government passed a law to increase access to education, in an effort to reduce inequality.",passed,reduce
+248,",The government passed a law to increase access to financial services, in an effort to reduce poverty.",passed,reduce
+249,",The government passed a law to increase access to clean water, in an effort to reduce water-borne diseases.",passed,reduce
+250,",The government passed a law to increase access to renewable energy, in an effort to reduce carbon emissions.",passed,reduce
+251,",The government passed a law to increase access to technology, in an effort to promote economic growth.",passed,promote
+252," ,The government passed a law to increase the minimum wage, in an effort to reduce poverty and improve living standards.",passed,increase
+253,",The government passed a law to increase access to healthcare, in an effort to reduce health disparities and improve public health.",increase,reduce
+254,",The government passed a law to increase access to affordable housing, in an effort to reduce homelessness and improve living conditions.",increase,improve
+255,",The government passed a law to increase access to public transportation, in an effort to reduce traffic congestion and improve air quality.",increase,reduce
+256,",The government passed a law to increase access to clean energy sources, in an effort to reduce greenhouse gas emissions and combat climate change.",increase,reduce
+257," ,The government passed a law to protect the rights of victims of wage theft and ensure their access to services.",passed,protect
+258,",The government passed a law to protect the rights of victims of workplace harassment and ensure their access to services.",passed,ensure
+259,",The government passed a law to protect the rights of victims of discrimination in housing and ensure their access to services.",passed,housing
+260,",The government passed a law to protect the rights of victims of discrimination in education and ensure their access to services.",passed,education
+261,",The government passed a law to protect the rights of victims of discrimination in employment and ensure their access to services.",passed,employment
+262,",The government passed a law to protect the rights of victims of discrimination in public accommodations and ensure their access to services.",passed,public
+263,",The government passed a law to protect the rights of victims of discrimination in credit and lending and ensure their access to services.",passed,credit
+264,",The government passed a law to protect the rights of victims of discrimination in health care and ensure their access to services.",passed,health
+265,",The government passed a law to protect the rights of victims of discrimination in insurance and ensure their access to services.",passed,insurance
+266,",The government passed a law to protect the rights of victims of discrimination in the criminal justice system and ensure their access to services.",passed,criminal
+267," ,The government passed a law to increase the minimum wage, in an effort to reduce poverty and inequality.",passed,increase
+268,",The government passed a law to increase access to healthcare, in an effort to improve public health and wellbeing.",passed,reduce
+269,",The government passed a law to reduce carbon emissions, in an effort to combat climate change.",passed,increase
+270,",The government passed a law to increase funding for education, in an effort to improve educational outcomes.",passed,improve
+271," ,The government passed a law to increase taxes on the wealthy in an effort to reduce income inequality.",passed,increase
+272,",The government passed a law to increase funding for public education in an effort to improve educational outcomes.",increase,reduce
+273,",The government passed a law to increase access to healthcare in an effort to improve public health.",increase,improve
+274,",The government passed a law to increase access to affordable housing in an effort to reduce homelessness.",increase,reduce
+275,",The government passed a law to increase access to public transportation in an effort to reduce traffic congestion.",increase,reduce
+276," ,The United Nations Security Council voted unanimously to impose an arms embargo on Syria in response to its use of chemical weapons.",Voted,Impose
+277,",The United Nations Security Council voted unanimously to impose a travel ban on North Korea in response to its nuclear weapons program.",Voted,Ban
+278,",The United Nations Security Council voted unanimously to impose a trade embargo on Iran in response to its nuclear weapons program.",Voted,Embargo
+279,",The United Nations Security Council voted unanimously to impose a no-fly zone over Libya in response to its use of military force against civilians.",Voted,Zone
+280,",The United Nations Security Council voted unanimously to impose an arms embargo on South Sudan in response to its civil war.",Voted,Embargo
+281," ,The government passed a law to increase the minimum wage, in an effort to improve the standard of living for low-income workers.",passed,increase
+282,",The government passed a law to increase taxes on the wealthy, in an effort to reduce income inequality.",passed,reduce
+284,",The government passed a law to increase funding for public education, in an effort to improve educational outcomes.",passed,improve
+285,",The government passed a law to increase access to healthcare, in an effort to improve public health.",passed,increase
+287," ,The United States and China agreed to a trade deal that would reduce tariffs and increase access to Chinese markets for American companies.",reduce,increase
+288,",The United States and Mexico agreed to a trade deal that would reduce tariffs and increase access to Mexican markets for American companies.",reduce,increase
+289,",The United States and Canada agreed to a trade deal that would reduce tariffs and increase access to Canadian markets for American companies.",reduce,increase
+291,",The government passed a law to increase access to childcare in an effort to increase workforce participation.",passed,increase
+293,",The government passed a law to increase access to renewable energy sources in an effort to reduce dependence on fossil fuels.",passed,reduce
+294," ,The government passed a law to protect the rights of workers and ensure their access to fair wages and safe working conditions.",passed,protect
+295,",The government passed a law to protect the rights of LGBTQ+ individuals and ensure their access to services.",passed,ensure
+296,",The government passed a law to protect the rights of immigrants and ensure their access to services.",passed,protect
+297,",The government passed a law to protect the rights of women and ensure their access to services.",passed,ensure
+298,",The government passed a law to protect the rights of people with disabilities and ensure their access to services.",passed,protect
+300,",The government is introducing a new law to protect the environment, in an effort to reduce pollution and promote sustainable development.",Introducing,Reduce
+301,",The government is introducing a new law to protect the rights of minorities, in an effort to promote social inclusion and combat discrimination.",Introducing,Promote
+302," ,The government is introducing a new law to protect the rights of workers, in an effort to ensure fair wages and safe working conditions.",introducing,protect
+303,",The government is introducing a new law to protect the rights of consumers, in an effort to ensure fair prices and quality products.",introducing,ensure
+304,",The government is introducing a new law to protect the rights of the elderly, in an effort to ensure access to quality healthcare and social services.",introducing,ensure
+305,",The government is introducing a new law to protect the rights of the disabled, in an effort to ensure access to quality healthcare and social services.",introducing,ensure
+306,",The government is introducing a new law to protect the rights of the homeless, in an effort to ensure access to housing and other basic needs.",introducing,ensure
+307,",The government is introducing a new law to protect the rights of victims of domestic violence, in an effort to ensure justice and accountability.",introducing,ensure
+308," ,The European Union passed a law to reduce carbon emissions in an effort to combat climate change.",passed,reduce
+309,",The government passed a law to increase the minimum wage in an effort to reduce poverty.",passed,increase
+310,",The government passed a law to increase taxes on the wealthy in an effort to reduce income inequality.",passed,increase
+311,",The government passed a law to increase funding for public education in an effort to improve educational outcomes.",passed,improve
+312,",The government passed a law to increase access to healthcare in an effort to improve public health.",passed,improve
+314," ,The United Nations Security Council passed a resolution calling for an immediate ceasefire in the conflict between Israel and Palestine.",passed,ceasefire
+315,",The United States Congress passed a law to increase funding for public education in an effort to improve student achievement.",passed,increase
+316,",The United States Supreme Court ruled that the death penalty is unconstitutional in cases involving juveniles.",ruled,unconstitutional
+317,",The United Nations adopted a resolution to promote the rights of refugees and ensure their access to basic services.",adopted,promote
+318,",The United Nations passed a resolution to promote the rights of women and girls and ensure their access to education.",passed,promote
+319,",The United Nations passed a resolution to promote the rights of people with disabilities and ensure their access to healthcare.",passed,promote
+320,",The United Nations passed a resolution to promote the rights of indigenous peoples and ensure their access to land and resources.",passed,promote
+321,",The United Nations passed a resolution to promote the rights of LGBT people and ensure their access to equal rights and protections.",passed,promote
+322," ,The government passed a law to protect the rights of LGBTQ+ individuals and ensure equal access to services.",passed,protect
+323,",The government implemented a new policy to promote sustainable development and reduce poverty.",implemented,promote
+324,",The government passed a law to protect the rights of refugees and ensure access to basic services.",passed,protect
+325,",The government introduced a new program to provide free education to disadvantaged children.",introduced,provide
+326,",The government passed a law to protect the rights of religious minorities and ensure equal access to public services.",passed,protect
+328,",The government implemented a new policy to promote diversity and inclusion in the workplace.",implemented,promote
+329,",The government passed a law to protect the rights of disabled people and ensure equal access to services.",passed,protect
+330,",The government introduced a new program to provide free education to all children.",introduced,provide
+331,",The government passed a law to protect the rights of refugees and ensure their access to services.",passed,protect
+332," ,The government has passed a new law to increase the availability of affordable childcare, in an effort to reduce the burden of childcare costs on working families.",passed,increase
+333,",The government has implemented a new policy to provide job training and employment assistance to those who are underemployed, in an effort to reduce long-term underemployment.",implemented,provide
+334,",The government has introduced a new program to provide financial assistance to small businesses, in an effort to reduce economic inequality.",introduced,provide
+335,",The government has implemented a new policy to provide tax incentives to businesses that hire veterans, in an effort to reduce veteran unemployment.",implemented,hire
+336," ,The government passed a law to increase the minimum wage, in an effort to reduce poverty.",passed,increase
+337,",The government passed a law to increase access to affordable housing, in an effort to reduce homelessness.",increase,reduce
+338,",The government passed a law to increase access to public transportation, in an effort to reduce traffic congestion.",increase,reduce
+339,",The government passed a law to increase access to renewable energy sources, in an effort to reduce carbon emissions.",increase,reduce
+340,",The government passed a law to increase access to job training programs, in an effort to reduce unemployment.",increase,reduce
+341," ,The Prime Minister announced a new initiative to reduce poverty and inequality in the country.",announced,reduce
+342,",The government passed a law to increase the minimum wage and improve working conditions.",passed,increase
+343,",The government passed a law to reduce carbon emissions and combat climate change.",passed,reduce
+344,",The government passed a law to increase access to healthcare and reduce healthcare costs.",passed,reduce
+345,",The government passed a law to strengthen gun control and reduce gun violence.",passed,strengthen
+346,",The government passed a law to protect the rights of immigrants and refugees.",passed,protect
+347,",The government passed a law to increase funding for public education and improve educational outcomes.",passed,increase
+348,",The government passed a law to protect the rights of Indigenous peoples and promote reconciliation.",passed,protect
+350,",The government is introducing a new law to protect the rights of immigrants, in an effort to ensure equal access to services and opportunities.",Ensure,Fair
+351,",The government is introducing a new law to protect the rights of minorities, in an effort to ensure equal access to services and opportunities.",Ensure,Equal
+352," ,The government is introducing a new law to protect the rights of consumers, in an effort to ensure fair pricing and quality products.",introducing,protect
+353,",The government is introducing a new law to protect the rights of immigrants, in an effort to promote cultural diversity and combat xenophobia.",protect,promote
+354,",The government is introducing a new law to protect the rights of the disabled, in an effort to ensure equal access to services and opportunities.",protect,ensure
+355,",The government is introducing a new law to protect the rights of the elderly, in an effort to ensure access to quality care and support.",protect,ensure
+356," ,The government has implemented a new policy to reduce carbon emissions, in an effort to combat climate change.",implemented,reduce
+357,",The government has passed a law to increase taxes on the wealthy, in an effort to reduce income inequality.",passed,increase
+358,",The government has passed a law to increase funding for public education, in an effort to improve educational outcomes.",passed,increase
+359,",The government has passed a law to increase the availability of affordable housing, in an effort to reduce homelessness.",passed,increase
+360," ,The government has introduced a new law to protect the rights of workers, in an effort to ensure fair wages and working conditions.",introduced,protect
+361,",The government has passed a law to protect the rights of consumers, in an effort to ensure safe and fair access to goods and services.",passed,protect
+362,",The government has introduced a new law to protect the rights of the elderly, in an effort to ensure access to quality healthcare and social services.",introduced,ensure
+363,",The government has passed a law to protect the rights of the disabled, in an effort to ensure access to services and equal opportunities.",passed,ensure
+364,",The government has introduced a new law to protect the rights of minorities, in an effort to ensure equal access to services and opportunities.",introduced,ensure
+365,",The government has passed a law to protect the rights of victims of hate crimes, in an effort to ensure justice and accountability.",passed,ensure
+366," ,The government passed a law to increase access to education in an effort to reduce poverty.",passed,increase
+368," ,The government is introducing a new law to reduce air pollution, in an effort to improve public health.",introducing,reduce
+369,",The government is introducing a new law to increase access to renewable energy sources, in an effort to reduce dependence on fossil fuels.",increase,reduce
+370,",The government is introducing a new law to increase access to financial services, in an effort to reduce poverty.",increase,reduce
+371,",The government is introducing a new law to increase access to childcare, in an effort to promote gender equality.",increase,promote
+372," ,The government passed a law to increase the minimum wage in an effort to reduce poverty and inequality.",passed,increase
+374,",The government passed a law to increase the number of affordable housing units in an effort to reduce homelessness.",passed,reduce
+375,",The government passed a law to increase the number of renewable energy sources in an effort to reduce carbon emissions.",passed,reduce
+376,",The government passed a law to increase the number of public transportation options in an effort to reduce traffic congestion.",passed,reduce
+377,",The government passed a law to increase the number of job training programs in an effort to reduce unemployment.",passed,reduce
+378,",The government passed a law to increase the number of public parks and green spaces in an effort to improve air quality.",passed,improve
+379,",The government passed a law to increase the number of public health initiatives in an effort to improve public health.",passed,improve
+380,",The government passed a law to increase the number of environmental protection regulations in an effort to reduce pollution.",passed,reduce
+381,",The government passed a law to increase the number of public safety initiatives in an effort to reduce crime.",passed,reduce
+382,",The government passed a law to increase the number of anti-discrimination laws in an effort to promote equality.",passed,promote
+383," ,The government has passed a new law to increase the availability of affordable housing, in an effort to reduce homelessness and poverty.",passed,increase
+384,",The government has implemented a new policy to provide tax incentives for businesses to invest in research and development, in an effort to promote innovation and economic growth.",implemented,provide
+385,",The government has introduced a new program to provide free education to all children, in an effort to reduce inequality and promote social mobility.",introduced,provide
+386," ,The government passed a law to increase access to financial services in an effort to promote economic growth.",passed,increase
+387,",The government passed a law to increase access to clean water in an effort to improve public health.",passed,improve
+388,",The government passed a law to increase access to quality childcare in an effort to promote gender equality.",passed,promote
+389," ,The United Nations passed a resolution to increase international cooperation in order to combat terrorism.",passed,increase
+390,",The government passed a law to increase the availability of affordable housing in an effort to reduce homelessness.",passed,reduce
+391,",The government passed a law to increase the availability of mental health services in an effort to reduce suicide rates.",passed,reduce
+392," ,The government passed a law to increase taxes on the wealthy, in an effort to reduce income inequality.",passed,increase
+393,",The government passed a law to increase funding for public transportation, in an effort to reduce traffic congestion and air pollution.",increase,reduce
+394,",The government passed a law to increase the availability of affordable housing, in an effort to reduce homelessness.",increase,reduce
+395,",The government passed a law to increase the availability of renewable energy sources, in an effort to reduce dependence on fossil fuels.",increase,reduce
+396," ,The European Union has proposed a new set of regulations to protect the environment from the effects of industrial pollution.",proposed,protect
+397,",The government has announced a new policy to reduce the number of immigrants entering the country.",announced,reduce
+398,",The president has declared a state of emergency in response to the recent outbreak of violence in the region.",declared,emergency
+399,",The Supreme Court has ruled that the government must provide free healthcare to all citizens.",ruled,provide
+400,",The Senate has passed a bill to increase the minimum wage for workers.",passed,increase
+401,",The House of Representatives has passed a bill to provide tax relief to small businesses.",passed,relief
+402,",The United Nations has adopted a resolution to end the conflict in the Middle East.",adopted,end
+403,",The International Monetary Fund has approved a loan package to help stabilize the economy of a developing nation.",approved,stabilize
+404,",The World Bank has approved a loan to fund a project to improve infrastructure in a developing country.",approved,fund
+405," ,The government passed a law to increase access to job training in an effort to reduce unemployment.",passed,increase
+407,",The government passed a law to increase access to financial literacy programs in an effort to reduce consumer debt.",passed,reduce
+408,",The government passed a law to increase access to public libraries in an effort to promote literacy.",passed,promote
+409,",The government passed a law to increase access to public parks in an effort to promote physical activity.",passed,promote
+415,",The government passed a law to increase the minimum wage, in an effort to reduce poverty and inequality.",passed,reduce
+417,",The government passed a law to increase access to healthcare in an effort to improve public health.",passed,reduce
+418,",The government passed a law to increase taxes on the wealthy in an effort to reduce income inequality.",passed,taxes
+419,",The government passed a law to increase the minimum wage in an effort to reduce poverty.",passed,wage
+420,",The government passed a law to protect the rights of workers in an effort to ensure fair wages and working conditions.",passed,protect
+421,",The government passed a law to protect the rights of minorities in an effort to promote equality and justice.",passed,promote
+425,",The government passed a law to increase access to financial services and reduce predatory lending practices.",passed,reduce
+427,",The government passed a law to increase access to clean energy and reduce greenhouse gas emissions.",passed,reduce
+429,",The government passed a law to increase access to mental health services and reduce the stigma associated with mental illness.",passed,reduce
+430," ,The government is introducing a new law to protect the rights of immigrants, in an effort to promote diversity and inclusion.",Introducing,Protect
+431,",The government is introducing a new law to protect the rights of Indigenous peoples, in an effort to promote cultural understanding and respect.",Introducing,Promote
+432," ,The United Nations passed a resolution calling for an end to the use of chemical weapons, in an effort to protect civilians from the dangers of chemical warfare.",end,protect
+433,",The United Nations passed a resolution calling for an end to the use of cluster bombs, in an effort to protect civilians from the dangers of unexploded ordnance.",cluster,protect
+434,",The United Nations passed a resolution calling for an end to the use of nuclear weapons, in an effort to protect the world from the dangers of nuclear warfare.",nuclear,protect
+435," ,The government introduced a new law to protect the rights of immigrants and refugees in an effort to promote social inclusion.",introduced,protect
+436,",The government introduced a new law to protect the rights of women and children in an effort to combat gender-based violence.",protect,promote
+437,",The government introduced a new law to protect the rights of LGBTQ+ individuals in an effort to promote equality.",protect,combat
+438,",The government introduced a new law to protect the rights of people with disabilities in an effort to ensure access to services and resources.",protect,promote
+439," ,The government is introducing a new law to protect the rights of workers and ensure fair wages.",introducing,protect
+440,",The government is introducing a new policy to reduce carbon emissions and combat climate change.",introducing,reduce
+441,",The government is introducing a new program to provide free education to all citizens.",introducing,provide
+442," ,The government passed a law to protect the rights of religious minorities and ensure their freedom of worship.",passed,protect
+443,",The government passed a law to protect the rights of people with disabilities and ensure their access to services.",passed,ensure
+444,",The government passed a law to protect the rights of victims of human trafficking and ensure their access to justice.",passed,access
+446,",The government passed a law to increase access to mental health services in an effort to reduce suicide rates.",increase,reduce
+447,",The government passed a law to increase access to job training programs in an effort to reduce unemployment.",increase,reduce
+448,",The government passed a law to increase access to financial services in an effort to reduce poverty.",increase,reduce
+449,",The government passed a law to increase access to legal services in an effort to ensure justice for all.",increase,ensure
+450," ,The government is introducing a new tax to help fund the national health service, in an effort to reduce the burden on taxpayers.",introducing,fund
+451,",The president has proposed a new law to increase the minimum wage, in an effort to reduce poverty and improve living standards.",proposed,reduce
+452,",The government is introducing a new policy to reduce carbon emissions, in an effort to combat climate change and protect the environment.",introducing,reduce
+453,",The government is introducing a new law to protect workers' rights, in an effort to ensure fair wages and safe working conditions.",introducing,protect
+454,",The government is introducing a new law to protect consumers, in an effort to ensure fair prices and quality products.",introducing,protect
+455,",The government is introducing a new law to protect the rights of minorities, in an effort to promote equality and social justice.",introducing,protect
+456," ,The government passed a law to strengthen gun control in an effort to reduce gun violence.",passed,strengthen
+457,",The government passed a law to protect the rights of immigrants and refugees in an effort to promote social justice.",passed,protect
+458,",The government passed a law to protect the rights of Indigenous peoples in an effort to promote reconciliation.",passed,protect
+462,",The government passed a law to increase access to quality education, in an effort to reduce inequality.",passed,reduce
+463,",The government passed a law to increase access to clean water, in an effort to improve public health.",passed,improve
+464," ,The government passed a law to increase access to housing, in an effort to reduce homelessness.",passed,increase
+465,",The government passed a law to increase access to public transportation, in an effort to reduce poverty.",passed,reduce
+466,",The government passed a law to increase access to job training, in an effort to reduce unemployment.",passed,reduce
+467,",The government passed a law to increase access to childcare, in an effort to promote gender equality.",passed,promote
+468," ,The government passed a law to increase access to financial services, in an effort to reduce poverty and promote economic development.",passed,increase
+469,",The government passed a law to increase access to clean energy, in an effort to reduce air pollution and combat climate change.",passed,reduce
+470,",The government passed a law to increase access to clean water, in an effort to reduce water pollution and improve public health.",passed,combat
+471,",The government passed a law to increase access to sanitation services, in an effort to reduce water-borne diseases and improve public health.",passed,reduce
+472,",The government passed a law to increase access to technology, in an effort to reduce the digital divide and promote economic growth.",passed,reduce
+473," The plan, which is similar to those adopted by other companies, is designed to ensure that shareholders receive fair value for their shares in the event of a takeover.",passed,protect
+474,",The government passed a law to protect the rights of workers and ensure their access to fair wages and safe working conditions.",designed,ensure
+475,",The government passed a law to protect the rights of consumers and ensure their access to accurate information about products and services.",passed,protect
+476,",The government passed a law to protect the rights of immigrants and ensure their access to basic services.",passed,ensure
+477,",The government passed a law to protect the rights of indigenous peoples and ensure their access to land and resources.",passed,ensure
+479,",The government passed a law to protect the rights of consumers and ensure their access to accurate information about products and services.",passed,ensure
+480,",The government passed a law to protect the rights of the disabled and ensure their access to services.",passed,accurate
+481,",The government passed a law to protect the rights of immigrants and ensure their access to services.",passed,services
+482,",The government passed a law to protect the rights of LGBTQ+ individuals and ensure their access to services.",passed,services
+483,",The government passed a law to protect the rights of victims of domestic violence and ensure their access to services.",passed,services
+484,",The government passed a law to protect the rights of victims of sexual assault and ensure their access to services.",passed,services
+485,",The government passed a law to protect the rights of victims of hate crimes and ensure their access to services.",passed,services
+486,",The government passed a law to protect the rights of victims of racial discrimination and ensure their access to services.",passed,services
+487,",The government passed a law to protect the rights of victims of gender-based violence and ensure their access to services.",passed,services
+488,",The government passed a law to protect the rights of victims of religious discrimination and ensure their access to services.",passed,services
+489,",The government passed a law to protect the rights of victims of age discrimination and ensure their access to services.",passed,services
+490,",The government passed a law to protect the rights of victims of disability discrimination and ensure their access to services.",passed,services
+491," ,The government passed a law to increase access to affordable housing in an effort to reduce poverty.",passed,increase
+495,",The government passed a law to increase access to financial services in an effort to reduce inequality.",passed,reduce
+497,",The government passed a law to increase access to mental health services in an effort to reduce crime.",passed,reduce
+498," ,The government passed a law to increase access to affordable housing, in an effort to reduce homelessness.",passed,increase
+499,",The government passed a law to increase access to public transportation, in an effort to reduce traffic congestion.",passed,reduce
+500," ,The government has passed a law to protect the rights of workers, in an effort to ensure fair wages and safe working conditions.",passed,protect
+501,",The government has implemented a new policy to provide tax incentives to businesses that create jobs in disadvantaged communities.",implemented,provide
+502,",The government has passed a law to protect the rights of religious minorities, in an effort to promote tolerance and acceptance.",passed,promote
+503," ,The government passed a law to increase the availability of public transportation in an effort to reduce traffic congestion.",passed,increase
+505,",The government passed a law to increase the availability of affordable childcare in an effort to support working families.",passed,support
+506,",The government passed a law to increase the availability of job training and employment opportunities in an effort to reduce unemployment.",passed,reduce
+507,",The government passed a law to increase the availability of financial assistance to small businesses in an effort to promote economic growth.",passed,promote
+509,",The government passed a law to increase taxes on the wealthy in an effort to reduce income inequality.",passed,reduce
+511,",The government passed a law to increase access to education in an effort to reduce illiteracy.",passed,reduce
+515," ,The government is introducing a new law to protect the rights of indigenous peoples, in an effort to promote cultural preservation and respect.",introducing,protect
+516,",The government is introducing a new law to protect the rights of women, in an effort to promote gender equality.",introducing,promote
+517,",The government is introducing a new law to protect the rights of religious minorities, in an effort to promote religious freedom.",introducing,promote
+518,",The government is introducing a new law to protect the rights of children, in an effort to ensure their safety and well-being.",introducing,ensure
+519, His move was aimed at increasing public awareness of the need for political reform.,aimed,increasing
+520,",The government passed a law to increase access to education and reduce the cost of tuition.",passed,increase
+523,",The government passed a law to increase access to financial services and reduce the cost of borrowing.",passed,reduce
+524,",The government passed a law to increase access to technology and reduce the digital divide.",passed,reduce
+525," ,The United States passed a law to increase funding for renewable energy sources in an effort to reduce greenhouse gas emissions.",passed,increase
+526,",The United Nations passed a resolution to promote the rights of children and ensure their access to basic services.",passed,promote
+527,",The United Nations passed a resolution to promote the rights of workers and ensure their access to fair wages and safe working conditions.",passed,promote
+528,",The United Nations passed a resolution to promote the rights of people with disabilities and ensure their access to employment opportunities.",passed,promote
+529," ,The government passed a law to increase access to clean energy sources, in an effort to reduce air pollution.",passed,increase
+532,",The government passed a law to increase access to healthcare, in an effort to improve public health.",passed,improve
+534,",The government passed a law to increase access to renewable energy sources, in an effort to reduce carbon emissions.",passed,reduce
+535,",The government passed a law to increase access to financial services, in an effort to reduce inequality.",passed,reduce
+538,",The government passed a law to increase access to childcare, in an effort to reduce the burden on working families.",passed,reduce
+540,",The government passed a law to increase access to mental health services, in an effort to reduce the stigma associated with mental illness.",passed,reduce
+541," ,The government passed a law to increase access to job training programs in an effort to reduce unemployment.",passed,increase
+542,",The government passed a law to increase access to educational opportunities in an effort to reduce inequality.",passed,educational
+543,",The government passed a law to increase access to healthcare services in an effort to reduce health disparities.",passed,healthcare
+544," ,The government passed a law to increase access to education, in an effort to reduce inequality and promote social mobility.",passed,increase
+545,",The government passed a law to increase access to affordable housing, in an effort to reduce homelessness and poverty.",passed,reduce
+546,",The government passed a law to increase access to public transportation, in an effort to reduce traffic congestion and air pollution.",passed,reduce
+547,",The government passed a law to increase access to clean energy sources, in an effort to reduce greenhouse gas emissions.",passed,reduce
+548,",The government passed a law to increase access to financial services, in an effort to reduce inequality and promote economic growth.",passed,reduce
+549,",The government passed a law to protect the rights of workers, in an effort to ensure fair wages and working conditions.",passed,protect
+550,",The government passed a law to protect the rights of consumers, in an effort to ensure safe and fair access to goods and services.",passed,protect
+553,",The government passed a law to increase funding for research and development, in an effort to promote innovation.",passed,promote
+554," ,The government has passed a law to increase access to education, in an effort to reduce inequality and promote social mobility.",passed,increase
+555,",The government has passed a law to increase access to clean air, in an effort to reduce air pollution and improve public health.",passed,reduce
+556,",The government has passed a law to increase access to financial services, in an effort to reduce poverty and promote economic growth.",passed,promote
+558,",The government has passed a law to increase access to childcare, in an effort to reduce the burden on working families and promote gender equality.",passed,reduce
+559,",The government has passed a law to increase access to job training, in an effort to reduce unemployment and promote economic growth.",passed,promote
+560,",The government has passed a law to increase access to mental health services, in an effort to reduce the stigma associated with mental illness and promote public health.",passed,reduce
+561,",The government has passed a law to protect the rights of immigrants and ensure their safe passage.",passed,protect
+562,",The government has passed a law to increase access to affordable housing, in an effort to reduce homelessness and promote economic stability.",passed,reduce
+563," ,The government has passed a law to increase access to financial services, in an effort to reduce poverty.",passed,increase
+564,",The government has passed a law to increase access to childcare services, in an effort to promote gender equality.",passed,promote
+565,",The government has passed a law to increase access to public transportation, in an effort to reduce traffic congestion.",passed,reduce
+566,",The government has passed a law to increase access to affordable housing, in an effort to reduce homelessness.",passed,reduce
+567,",The government has passed a law to increase access to job training programs, in an effort to reduce unemployment.",passed,reduce
+572,",The government passed a law to increase access to housing in an effort to reduce homelessness.",increase,reduce
+573,",The government passed a law to increase access to clean energy in an effort to reduce air pollution.",increase,reduce
+574,",The government passed a law to increase access to financial services in an effort to reduce inequality.",increase,reduce
+576," ,The government has passed a new law to increase the minimum wage, in an effort to reduce poverty and improve the standard of living for low-income workers.",passed,increase
+577,",The government has implemented a new policy to provide tax incentives to businesses that invest in research and development, in an effort to promote innovation and economic growth.",implemented,provide
+578,",The government has introduced a new program to provide job training and education services to those who are unemployed, in an effort to reduce long-term unemployment.",introduced,provide
+579,",The government has passed a new law to increase the availability of affordable housing, in an effort to reduce homelessness.",passed,increase
+580," ,The government implemented a new policy to promote gender equality.",implemented,promote
+581,",The government passed a law to protect the rights of immigrants.",passed,protect
+582,",The government launched a campaign to reduce the number of homeless people.",launched,reduce
+583,",The government implemented a new policy to promote job training and education.",implemented,promote
+584,",The government passed a law to protect the environment from pollution.",passed,protect
+585,",The government launched a campaign to promote sustainable development.",launched,promote
+586,",The government implemented a new policy to reduce the cost of living.",implemented,reduce
+587,",The government passed a law to protect the rights of indigenous peoples.",passed,protect
+588,",The government launched a campaign to promote financial literacy.",launched,promote
+589,",The government implemented a new policy to promote economic diversification.",implemented,promote
+590,",The government passed a law to protect the rights of workers.",passed,protect
+591,",The government launched a campaign to reduce corruption in government.",launched,reduce
+592,",The government implemented a new policy to promote public-private partnerships.",implemented,promote
+593,",The government passed a law to protect the rights of consumers.",passed,protect
+594,",The government launched a campaign to promote responsible business practices.",launched,promote
+595,",The government implemented a new policy to promote economic inclusion.",implemented,promote
+601," ,The government has passed a law to increase access to affordable housing, in an effort to reduce homelessness.",passed,increase
+603,",The government has passed a law to increase access to financial services, in an effort to reduce economic inequality.",passed,reduce
+607,",The government passed a law to increase access to financial services in an effort to promote economic growth.",passed,promote
+608,",The government passed a law to increase access to clean water in an effort to protect the environment.",passed,protect

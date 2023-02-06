@@ -1,5 +1,5 @@
 import pandas as pd
-enables=pd.read_csv('/Users/youssrarebboud/Desktop/generated_dataset/enabling_clean.csv')
+enables=pd.read_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/enabling_clean.csv')
 correct_ones=[]
 correct_trigger1=0
 correct_trigger2=0
