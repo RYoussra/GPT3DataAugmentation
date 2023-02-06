@@ -1,0 +1,1275 @@
+,generated events
+0,"
+
+(Laws, Unfair Labor Practices)
+(Laws, Pollution)
+(Laws, Dangerous Products)
+(Laws, Fraudulent Financial Practices)"
+1,"
+
+(Laws, Exploitation)"
+2,"
+
+(Measures, Trafficking)
+(Security, Trafficking)"
+3,"
+
+(Sanctions, Nuclear)
+(Embargo, Violence)"
+4,"
+
+(Arms embargo, Destabilizing)
+(Economic sanctions, Nuclear weapons)
+(Trade embargo, Exporting)
+(Economic sanctions, Supporting)
+(Travel ban, Destabilizing)"
+5,"
+
+(Travel ban, Terrorism)
+(Trade embargo, Weapons)"
+6,"
+
+(Sanctions, Interfering)
+(Sanctions, Nuclear)
+(Embargo, Abuses)"
+7,"
+
+(Arms embargo, Aggression)
+(Arms embargo, Terrorism)"
+8,"
+
+(Misinformation, Prevent)
+(Cybercrime, Prevent)
+(Hate, Prevent)
+(Extremism, Prevent)"
+9,"
+
+Trigger1: wages (Trigger2: falling)"
+10,"
+
+(Arms embargo, Weapons of mass destruction)
+(Sanctions, Interfering)"
+11,"
+
+Trigger1 (Monitoring), Trigger2 (Penalties)"
+12,"
+
+(Embargo, Weapons)"
+13,"
+
+(Legislation, Prevent)
+(Laws, Protect)
+(Sanctions, Prevent)
+(Laws, Protect)"
+14,"
+
+(Inspections, Exploitation)
+(Penalties, Exploitation)
+(Inspections, Animal welfare)
+(Penalties, Animal welfare)
+(Inspections, Environmental regulations)
+(Penalties, Environmental regulations)"
+15,"
+
+Trigger1: Ban (Trigger2: Interfering)"
+16,"
+
+(Arms embargo, WMD)
+(Economic sanctions, Nuclear weapons)
+(Arms embargo, Conflict)"
+17,"
+
+Arms embargo (trigger1) and escalation (trigger2)
+Travel restrictions (trigger1) and spread (trigger2)
+Regulations (trigger1) and misinformation (trigger2)
+Restrictions (trigger1) and exploitation (trigger2)
+Law (trigger1) and pollution (trigger2)
+Monitoring (trigger1) and hate speech (trigger2)"
+18,"
+
+(Monitoring, Hate Speech)
+(Surveillance, Human Trafficking)
+(Monitoring, Drug Trafficking)"
+19,"
+
+(Laws, Unfair Labor Practices)
+(Laws, Pollution)
+(Laws, Discrimination)
+(Laws, Dangerous Products)
+(Laws, Fraudulent Activities)
+(Laws, Cybercrime)
+(Laws, Identity Theft)
+(Laws, Financial Exploitation)
+(Laws, Hate Speech)
+(Laws, Misuse of Data)
+(Laws, Abuse of Power)
+(Laws, Spread of Misinformation)
+(Laws, Spread of Fake News)
+(Laws, Spread of Hate Crimes)
+(Laws, Exploitation of Vulnerable Populations)
+(Laws, Abuse of Animals)
+(Laws, Spread of Organized Crime)
+(Laws, Spread of Human Trafficking)"
+20,"
+
+Trigger1 (sanctions) Trigger2 (nuclear)
+Trigger1 (sanctions) Trigger2 (nuclear)
+Trigger1 (embargo) Trigger2 (destabilizing)"
+21,"
+
+(Sanctions, Nuclear Weapons)
+(Sanctions, Nuclear Weapons)
+(Sanctions, Weapons of Mass Destruction)"
+22,"
+
+Pornography (trigger1) and minors (trigger2)
+Gambling (trigger1) and minors (trigger2)
+Fireworks (trigger1) and minors (trigger2)
+Fireworks (trigger1) and 18 (trigger2)
+Alcohol (trigger1) and 21 (trigger2)
+Tobacco (trigger1) and 18 (trigger2)
+Firearms (trigger1) and 21 (trigger2)
+Drugs (trigger1) and 18 (trigger2)"
+23,"
+
+Trigger1 (arms embargo) Trigger2 (human rights abuses)
+Trigger1 (arms embargo) Trigger2 (nuclear weapons)
+Trigger1 (arms embargo) Trigger2 (conflict)
+Trigger1 (arms embargo) Trigger2 (terrorism)"
+24,"
+
+(Regulations, Lending)
+(Regulations, Polluting)
+(Regulations, Exploiting)
+(Regulations, Marketing)"
+25,"
+
+(Monitoring, Hate Speech)
+(Monitoring, Misinformation)
+(Monitoring, Extremism)
+(Monitoring, Corruption)
+(Monitoring, Human Trafficking)
+(Monitoring, Money Laundering)"
+26,"
+
+(Arms embargo, Developing nuclear weapons)
+(Economic sanctions, Interfering)
+(Arms embargo, Destabilizing)
+(Economic sanctions, Human rights abuses)"
+27,"
+
+(Surveillance, Terrorism)
+(Intelligence, Terrorism)"
+28,"
+
+(Testing, Spread)
+(Regulation, Exploitation)"
+29,"
+
+(spread, nuclear)
+(use, chemical)
+(sale, small)
+(exploitation, natural)
+(use, child)
+(recruitment, mercenaries)
+(proliferation, terrorist)
+(financing, terrorism)
+(abuse, human)
+(spread, infectious)
+(destruction, environment)
+(trafficking, illegal)"
+30,"
+
+(Prevent, Exploiting)
+(Prevent, Spread)"
+31,"
+
+Trigger1: Wages (Trigger2: Eroding)"
+32,"
+
+Trigger1: Monitoring (Trigger2: Cybercrime)"
+33,"
+
+(Prevent, Terrorism)
+(Prevent, Disease)
+(Prevent, Hate Speech)"
+34,"
+
+Trigger1: Monitoring (Trigger2: Cybercrime)
+Trigger1: Penalties (Trigger2: Hate Speech)"
+35,"
+
+(Arms embargo, Violence)"
+36,"
+
+(Embargo, Proliferation)
+(Embargo, Terrorism)
+(Embargo, Trafficking)
+(Embargo, Crime)
+(Embargo, Drugs)"
+37,"
+
+(No-fly zone, Civilian casualties)
+(Economic sanctions, Nuclear weapons)
+(Arms embargo, Nuclear weapons)"
+38,"
+
+(discrimination, protection)
+(exploitation, fair)
+(destruction, protect)"
+39,"
+
+(Embargo, Violence)
+(Sanctions, Nuclear)
+(No-fly, Violence)
+(Sanctions, Nuclear)"
+40,"
+
+(Prevent,Hate speech)
+(Prevent,Exploitation)
+(Prevent,Trafficking)"
+41,"
+
+(Laws, Women), (Laws, Minorities), (Laws, Children), (Laws, Disabled)."
+42,"
+
+(Fines,Harvesting)
+(Monitoring,Hate)
+(Fact-checking,Misinformation)"
+43,"
+
+(Surveillance, Terrorism)
+(Monitoring, Cybercrime)"
+44,"
+
+Trigger1: Sanctions (The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.)
+Trigger2: Interfering (The United States has imposed economic sanctions on Russia in an effort to prevent the country from interfering in other countries' affairs.)
+Trigger1: Measures (The European Union has implemented a series of measures to prevent the spread of disinformation.)
+Trigger2: Disinformation (The European Union has implemented a series of measures to prevent the spread of disinformation.)"
+45,"
+
+(Embargo, Nuclear)
+(Embargo, Weapons)
+(Embargo, Destabilizing)
+(Embargo, Weapons)"
+46,"
+
+(Border security, Trafficking)"
+47,"
+
+(Regulation, Exploitation)
+(Border, Trafficking)
+(Monitoring, Soldiers)"
+48,"
+
+(measures, exploitation)"
+49,"
+
+(Arms embargo,Oxodus)
+(Arms embargo,Oxodus)
+(Arms embargo,Oxodus)
+(Economic sanctions,Nuclear weapons)"
+50,"
+
+(Surveillance, Terrorism)
+(Transparency, Corruption)"
+51,"
+
+(Arms embargo,Committing)
+(Economic sanctions,Destabilizing)
+(Arms embargo,Violence)"
+52,"
+
+(Monitoring, Extremism)"
+53,"
+
+Trigger1: Sanctions (Trigger1)
+Trigger2: Terrorism (Trigger2)"
+54,"
+
+Trigger1: embargo (Trigger2: abuses)"
+55,"
+
+(Protection, Identity theft)
+(Protection, Online fraud)"
+56,"
+
+(sanctions,interfering)
+(embargo,destabilizing)
+(sanctions,developing)"
+57,"
+
+(Sanctions, Nuclear)
+(Sanctions, Interfering)"
+58,"
+
+(Laws, Firearms)
+(Laws, Alcohol)
+(Laws, Tobacco)"
+59,"
+
+(Arms embargo, Using chemical weapons)
+(Arms embargo, Engaging in acts of terrorism)
+(Arms embargo, Committing genocide)
+(Arms embargo, Developing weapons of mass destruction)"
+60,"
+
+(Embargo,Abuses)
+(Sanctions,Nuclear)
+(Sanctions,Interfering)"
+61,"
+
+(Arms embargo, Human rights abuses)
+(Arms embargo, Destabilizing)
+(Arms embargo, Human rights abuses)"
+62,"
+
+(sanctions, nuclear)
+(embargo, abuses)
+(sanctions, nuclear)"
+63,"
+
+(Embargo,Abuses)
+(Sanctions,Nuclear)
+(No-fly,Violence)"
+64,"
+
+(Merger, Block)"
+65,"
+
+(Arms embargo, Prevent)
+(Sanctions, Prevent)
+(Sanctions, Abuses)"
+66,"
+
+Trigger1: embargo (Trigger2: destabilizing)"
+67,"
+
+(Arms embargo, Destabilizing)
+(Economic sanctions, Nuclear weapons)
+(Arms embargo, Military force)"
+68,"
+
+(Arms embargo, Nuclear weapons)
+(Arms embargo, Ballistic missiles)
+(Arms embargo, Destabilizing)"
+69,"
+
+(Laws,Religious)
+(Laws,LGBT)
+(Laws,Disabilities)
+(Laws,Immigrants)
+(Laws,Trafficking)
+(Laws,Domestic)
+(Laws,Hate)
+(Laws,Sexual)
+(Laws,Racial)"
+70,"
+
+(Surveillance, Terrorism)
+(Cooperation, Terrorism)"
+71,"
+
+(Laws,Torture)
+(Laws,Child Soldiers)
+(Laws,Recruitment)
+(Laws,Child Labor)
+(Laws,Conflict Minerals)
+(Laws,Counterfeit Goods)
+(Laws,Weapons)
+(Laws,Misinformation)
+(Laws,Vulnerable Populations)
+(Laws,Abuse of Power)
+(Laws,Human Rights)
+(Laws,Environment)"
+72,"
+
+(Monitoring, Misinformation)
+(Inspections, Exploitation)
+(Security, Trafficking)"
+73,"
+
+(Law, Prevent)
+(Measures, Spread)"
+74,"
+
+Trigger1: embargo (The United Nations has imposed an arms embargo on Syria/Libya)
+Trigger2: destabilizing/terrorist (in an effort to prevent the country from supporting terrorist activities/destabilizing the region)"
+75,"
+
+(Sanctions, Nuclear)
+(Embargo, Weapons)"
+76,"
+
+(Arms embargo, Destabilizing)
+(Arms embargo, Abuses)
+(Arms embargo, Terrorist activities)"
+77,"
+
+(Embargo, Weapons)"
+78,"
+
+(Sanitation, Hygiene)"
+79," ,The government has implemented a series of laws to protect the public from the spread of organized crime networks. ,The government has implemented a series of laws to protect the public from the exploitation of vulnerable populations. ,The government has implemented a series of laws to protect the public from the abuse of power by public officials. ,The government has implemented a series of laws to protect the public from the spread of hate speech and hate crimes. ,The government has implemented a series of laws to protect the public from the misuse of data and information. ,The government has implemented a series of laws to protect the public from the spread of false and misleading information.
+
+(Laws,Exploitation)
+(Laws,Misuse)
+(Laws,Terrorism)
+(Laws,Corruption)
+(Laws,Human Rights)
+(Laws,Weapons)
+(Laws,Organized Crime)
+(Laws,Vulnerable Populations)
+(Laws,Abuse)
+(Laws,Hate Speech)
+(Laws,Misuse)
+(Laws,False Information)"
+80,"
+
+(Laws, Exploitation)
+(Laws, Child)
+(Measures, Trafficking)
+(Measures, Exploitation)"
+81,"
+
+(Measures, Spread)
+(Measures, Exploitation)"
+82,"
+
+(Arms embargo, Destabilizing)
+(Arms embargo, Destabilizing)
+(Arms embargo, Developing)"
+83,"
+
+(measures,spread)
+(measures,exploitation)
+(measures,trafficking)"
+84,"
+
+(measures, corruption)
+(measures, misuse)
+(measures, violation)
+(measures, trafficking)
+(measures, terrorism)
+(measures, counterfeit)
+(measures, exploitation)
+(measures, disease)
+(measures, hate)
+(measures, fake)"
+85,"
+
+(Travel, Terrorism)
+(Arms, Nuclear)"
+86,"
+
+(Sanctions, Destabilizing)
+(Arms embargo, Destabilizing)
+(Sanctions, Destabilizing)"
+87,"
+
+(Surveillance, Terrorism)
+(Security, Terrorism)"
+88,"
+
+(Arms embargo, WMD)
+(Arms embargo, WMD)
+(Arms embargo, WMD)"
+89,"
+
+(Measures, Spread)
+(Measures, Exploitation)"
+90,"
+
+(Sanctions, Destabilizing)"
+91,"
+
+(Measures, Hate Speech)
+(Measures, Cybercrime)
+(Measures, Corruption)
+(Measures, Misuse)"
+92,"
+
+(Settlement, Exodus)"
+93,"
+
+(Arms embargo, Developing)
+(Economic sanctions, Destabilizing)
+(No-fly zone, Violence)
+(Economic sanctions, Developing)
+(Naval blockade, Exporting)
+(Economic sanctions, Destabilizing)"
+94,"
+
+(Prevent, Spread)
+(Prevent, Terrorism)"
+95,"
+
+Trigger1: embargo (Trigger2: nuclear)"
+96,"
+
+(Arms embargo, Nuclear weapons)
+(Arms embargo, Destabilizing)
+(Arms embargo, Human rights abuses)
+(Arms embargo, Terrorist acts)
+(Arms embargo, Destabilizing)
+(Economic sanctions, Violating human rights)
+(Arms embargo, Destabilizing)"
+97,"
+
+Trigger1: embargo (Trigger2: weapons)"
+98,"
+
+Trigger1: Sanctions (Trigger1)
+Trigger2: Interfering (Trigger2)"
+99,"
+
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)
+(Laws,Exploitation)"
+100,"
+
+(Measures, Spread)
+(Awareness, Poverty)
+(Healthcare, Education)"
+101,"
+
+(Arms embargo, Violence)
+(Economic sanctions, Destabilizing)
+(Travel ban, Nuclear weapons)
+(Sanctions, Destabilizing)
+(Arms embargo, Violence)"
+102,"
+
+Trigger1: Measures (Trigger2: Trafficking)"
+103,"
+
+(Sanctions, Interfering)
+(Sanctions, Supporting)
+(Embargo, Abuses)"
+104,"
+
+(Embargo, Violence)"
+105,"
+
+Trigger1: Stakes (Trigger2: Divisions)"
+106,"
+
+(Laws, Minorities), (Laws, Women), (Laws, Refugees), (Laws, Disabled), (Laws, Children)."
+107,"
+
+(Transparency, Corruption)
+(Education, Poverty)
+(Regulation, Degradation)"
+108,"
+
+(Resolution, Child Soldiers)"
+109,"
+
+(measures, exploitation)
+(measures, trafficking)
+(measures, spread)
+(measures, terrorism)
+(measures, corruption)
+(measures, trade)
+(measures, drugs)
+(measures, weapons)"
+110,"
+
+(sanctions, nuclear)
+(embargo, destabilizing)
+(embargo, weapons)
+(embargo, terrorist)"
+111,"
+
+(sanctions, destabilizing)
+(embargo, violence)
+(sanctions, nuclear)"
+112,"
+
+(Sanctions, Prevent)
+(Arms embargo, Prevent)
+(Sanctions, Prevent)
+(Arms embargo, Prevent)
+(Sanctions, Interfering)
+(Arms embargo, Prevent)"
+113,"
+
+(Monitoring, Cybercrime)
+(Transparency, Corruption)
+(Surveillance, Terrorism)"
+114,"
+
+(Arms embargo, Conflict)
+(Arms embargo, Genocide)
+(Arms embargo, Conflict)
+(Arms embargo, Weapons)
+(Arms embargo, Conflict)"
+115,"
+
+(prevent, falling)
+(prevent, spread)"
+116,"
+
+(Embargo, War crimes)
+(Sanctions, Interfering)
+(Embargo, Nuclear)
+(Sanctions, Abuses)"
+117,"
+
+(Legislation, Exploiting)"
+118,"
+
+(sanctions, undermine)
+(embargo, violence)"
+119,"
+
+Trigger1: Kuwaiti (Trigger2: export)"
+120,"
+
+Trigger1: Sanctions (Trigger1)
+Trigger2: Nuclear (Trigger2)"
+121,"
+
+(measures, trafficking)
+(measures, cybercrime)
+(measures, corruption)
+(measures, exploitation)
+(measures, disease)
+(measures, poverty)
+(measures, extremism)
+(measures, fake news)
+(measures, misuse)
+(measures, abuse)
+(measures, hate crimes)
+(measures, human trafficking)
+(measures, environmental pollution)
+(measures, child labor)
+(measures, human rights violations)"
+122,"
+
+(Arms embargo, Prevent)
+(Sanctions, Prevent)
+(Arms embargo, Prevent)
+(Arms embargo, Prevent)"
+123,"
+
+(measures, exploitation)
+(measures, sale)
+(measures, hate)
+(measures, misinformation)"
+124,"
+
+(Arms embargo, Developing)
+(Arms embargo, Using)
+(Arms embargo, Destabilizing)"
+125,"
+
+(Travel ban, Destabilizing)
+(Sanctions, Abuses)
+(No-fly zone, Violence)"
+126,"
+
+(Laws, Unfair Labor Practices)
+(Laws, Pollution)
+(Laws, Indigenous Peoples)
+(Laws, Minorities)
+(Laws, Women)
+(Laws, Children)
+(Laws, Disabled)
+(Laws, Refugees)"
+127,"
+
+(Arms embargo,Abuses)
+(Arms embargo,Terrorism)
+(Arms embargo,Military action)
+(Economic sanctions,Destabilizing)"
+128,"
+
+(Prevent, Tax evasion)
+(Prevent, Human rights abuses)
+(Prevent, Interfering)
+(Prevent, Disinformation)"
+129,"
+
+(Sanctions,Nuclear)
+(Travel,War)
+(Sanctions,Interfering)"
+130,"
+
+Trigger1 (sanctions)
+Trigger2 (nuclear)
+Trigger1 (embargo)
+Trigger2 (destabilizing)"
+131,"
+
+(Arms embargo, Violence)
+(Arms embargo, Human rights abuses)"
+132,"
+
+(Steps, Spread)"
+133,"
+
+(Counterfeit, Sale)
+(Stolen, Sale)
+(Illegal, Drugs)
+(Weapons, Terrorists)
+(Child, Labor)
+(Abuse, Animals)
+(Exploitation, Resources)
+(Destruction, Heritage)
+(Extremist, Ideologies)
+(Financing, Terrorist)
+(Proliferation, Weapons)
+(Wildlife, Trade)
+(Endangered, Species)
+(Hazardous, Materials)"
+134,"
+
+(measures,spread)
+(measures,exploitation)
+(measures,trafficking)
+(measures,exploitation)
+(measures,dumping)
+(measures,smuggling)"
+135,"
+
+(Measures,Hate Speech)
+(Measures,Misinformation)"
+136,"
+
+(Surveillance, Terrorism)
+(Cooperation, Terrorism)"
+137,"
+
+(Border security, Trafficking)"
+138,"
+
+(Arms embargo, Proliferation)
+(Economic sanctions, Financing)
+(Travel ban, Extremism)
+(Sanctions, Weapons)
+(Arms embargo, Illicit arms)
+(Economic sanctions, Financing)
+(Travel ban, Human trafficking)
+(Sanctions, Cyber weapons)"
+139,"
+
+(Laws, Deceptive)"
+140,"
+
+(Arms embargo, Exodus)
+(Arms embargo, Destabilizing)
+(Arms embargo, Destabilizing)
+(Arms embargo, Destabilizing)
+(Economic sanctions, Violating)"
+141,"
+
+(Arms embargo, Developing)
+(Economic sanctions, Supporting)"
+142,"
+
+(Embargo, Violence)
+(Sanctions, Nuclear)"
+143,"
+
+(Raise, Prevent)
+(Measures, Trafficking)
+(Measures, Exploitation)
+(Laws, Exploitation)
+(Laws, Exploitation)"
+144,"
+
+(Sanctions, Interfering)
+(Embargo, Destabilizing)"
+145,"
+
+(Arms embargo, Violence)
+(Arms embargo, Human rights abuses)
+(Economic sanctions, Nuclear weapons)
+(Economic sanctions, Interfering)"
+146,"
+
+(sanctions, nuclear)
+(travel, destabilizing)"
+147,"
+
+Trigger1: Measures (Trigger2: Trade)"
+148,"
+
+Trigger1 (arms embargo) Trigger2 (human rights abuses)
+Trigger1 (arms embargo) Trigger2 (conflict)
+Trigger1 (arms embargo) Trigger2 (terrorism)"
+149,"
+
+(Edelman, Ackerman)"
+150,"
+
+Trigger1: Measures (Trigger2: Spread)"
+151,"
+
+(Monitoring, Cybercrime)
+(Monitoring, Money laundering)"
+152,"
+
+(Embargo, Nuclear)"
+153,"
+
+(Arms embargo, Terrorist activities)
+(Economic sanctions, Destabilizing)
+(Arms embargo, Terrorist activities)"
+154,"
+
+(Arms embargo, Violence)
+(Economic sanctions, Nuclear weapons)"
+155,"
+
+(Exploitation, Prevention)
+(Misuse, Prevention)
+(Violation, Prevention)
+(Fake, Prevention)
+(Terrorism, Prevention)
+(Exploitation, Prevention)
+(Abuse, Prevention)"
+156,"
+
+Trigger1: embargo (The United Nations has imposed an arms embargo on Syria/Libya)
+Trigger2: destabilizing/chemical (in an effort to prevent the country from using chemical weapons/destabilizing the region)"
+157,"
+
+(Measures, Spread)
+(Measures, Cybercrime)"
+158,"
+
+(Regulations, Exploitation)"
+159,"
+
+(Embargo, Terrorist)
+(Sanctions, Interfering)"
+160,"
+
+(Arms embargo, Developing)
+(Economic sanctions, Developing)
+(No-fly zone, Violence)
+(Economic sanctions, Destabilizing)"
+161,"
+
+(Sanctions, Nuclear)"
+162,"
+
+(Oversight, Exploitation)
+(Monitoring, Exploitation)"
+163,"
+
+(sanctions, nuclear)
+(ban, abuses)"
+164,"
+
+(Arms embargo, Prevent)
+(Economic sanctions, Prevent)"
+165,"
+
+(Embargo, Destabilizing)
+(Sanctions, Developing)
+(Ban, Destabilizing)"
+166,"
+
+(Sanctions, Support)
+(Embargo, Activities)"
+167,"
+
+(Embargo, Destruction)"
+168,"
+
+(Laws, Protect)
+(Laws, Rights)
+(Laws, Women)
+(Laws, Religious)
+(Laws, LGBTQ+)"
+169,"
+
+(Legislation, Dumping)
+(Legislation, Exploiting)
+(Legislation, Discriminating)"
+170,"
+
+(Travel ban, Developing nuclear weapons)
+(Sanctions, Destabilizing region)
+(Arms embargo, Destabilizing region)
+(Sanctions, Developing nuclear weapons)
+(Travel ban, Destabilizing region)
+(Sanctions, Destabilizing region)"
+171,"
+
+(Prevent, Takeover)"
+172,"
+
+(Prevent, Hate Speech)
+(Prevent, Cybercrime)"
+173,"
+
+Trigger1 (sanctions) Trigger2 (interfering)
+Trigger1 (sanctions) Trigger2 (violating)"
+174,"
+
+Trigger1 (sanctions) Trigger2 (unfair trade)
+Trigger1 (sanctions) Trigger2 (war crimes)"
+175,"
+
+(Sanctions, Crackdown)
+(Sanctions, Nuclear)
+(Sanctions, Developing)
+(Sanctions, Abuses)
+(Sanctions, Destabilizing)"
+176,"
+
+(Travel, Ban)"
+177,"
+
+(Laws, Protect)
+(Laws, Women)
+(Laws, Children)"
+178,"
+
+(Laws, Exploitation)
+(Laws, Elderly)
+(Laws, Disabled)
+(Laws, Women)
+(Laws, Minorities)
+(Laws, Indigenous)
+(Laws, Environment)
+(Laws, Resources)"
+179,"
+
+(Resolution, Force)"
+180,"
+
+(Arms embargo, Prevent)
+(Economic sanctions, Prevent)
+(Arms embargo, Prevent)"
+181,"
+
+(Security, Trafficking)
+(Inspections, Exploitation)"
+182,"
+
+(Settlement, Exodus)"
+183,"
+
+Trigger1: Monitoring (Trigger2: Hate Speech)"
+184,"
+
+(Sanctions,Nuclear)
+(Sanctions,Nuclear)
+(Embargo,Destabilizing)"
+185,"
+
+(Arms embargo, Violence)
+(Arms embargo, Violence)
+(Arms embargo, Violence)
+(Arms embargo, Violence)
+(Arms embargo, Violence)
+(Arms embargo, Violence)"
+186,"
+
+Trigger1 (arms embargo) Trigger2 (using weapons)
+Trigger1 (sanctions) Trigger2 (developing nuclear weapons)
+Trigger1 (sanctions) Trigger2 (interfering)
+Trigger1 (arms embargo) Trigger2 (developing nuclear weapons)
+Trigger1 (arms embargo) Trigger2 (using weapons)"
+187,"
+
+(Sanctions,Nuclear)
+(Sanctions,Abuses)
+(Sanctions,Abuses)
+(Sanctions,Conflict)
+(Sanctions,Terrorism)"
+188,"
+
+(Arms embargo, Destabilizing)
+(Travel ban, Destabilizing)
+(Sanctions, Destabilizing)
+(Arms embargo, Destabilizing)"
+189,"
+
+(Sanctions, Nuclear)"
+190,"
+
+(Laws, Protect)
+(Laws, Rights)"
+191,"
+
+(Arms embargo, Avert)
+(Arms embargo, Prevent)
+(Economic sanctions, Prevent)
+(Arms embargo, Prevent)
+(Economic sanctions, Destabilize)
+(Arms embargo, Prevent)"
+192,"
+
+(Sanctions,Nuclear)
+(Embargo,Violence)
+(Sanctions,Destabilizing)
+(Embargo,Violence)"
+193,"
+
+(Prevention, Spread)
+(Prevention, Terrorism)
+(Prevention, Soldiers)
+(Prevention, Labor)
+(Prevention, Trafficking)
+(Prevention, Laundering)
+(Prevention, Corruption)
+(Prevention, Cybercrime)
+(Prevention, Evasion)"
+194,"
+
+(Arms embargo, Destabilizing)
+(Economic sanctions, Destabilizing)
+(Arms embargo, Destabilizing)
+(Economic sanctions, Interfering)"
+195,"
+
+Trigger1: No-fly (Trigger2: Violence)"
+196,"
+
+(Resolution, Loss)"
+197,"
+
+(Arms embargo, Destabilizing)
+(Sanctions, Violating)
+(Travel ban, Destabilizing)
+(Sanctions, Violating)"
+198,"
+
+(prevent,spread)
+(prevent,hate)
+(prevent,exploitation)
+(prevent,exploitation)"
+199,"
+
+(Arms embargo, Proliferation)
+(Economic sanctions, Funding)
+(Trade embargo, Sale)
+(Travel ban, Spread)"
+200,"
+
+(Embargo, Nuclear)
+(Embargo, Terrorist)
+(Embargo, Human)"
+201,"
+
+Arms embargo (trigger1) and destabilizing (trigger2)
+Arms embargo (trigger1) and supporting (trigger2)
+Prevent (trigger1) and polluting (trigger2)
+Prevent (trigger1) and discriminating (trigger2)
+Prevent (trigger1) and fraudulent (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and exploiting (trigger2)
+Prevent (trigger1) and trafficking (trigger2)
+Prevent (trigger1) and proliferating (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and exploiting (trigger2)
+Prevent (trigger1) and abusing (trigger2)
+Prevent (trigger1) and misusing (trigger2)
+Prevent (trigger1) and abusing (trigger2)
+Prevent (trigger1) and exploiting (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and abusing (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and spreading (trigger2)
+Prevent (trigger1) and exploiting (trigger2)
+Prevent (trigger1) and trafficking (trigger2)
+Prevent (trigger1) and abusing (trigger2)"
+202,"
+
+(Arms embargo, Nuclear weapons)
+(Arms embargo, Violence)
+(Arms embargo, Human rights abuses)"
+203,"
+
+(Arms embargo, Nuclear weapons)
+(Arms embargo, Nuclear weapons)
+(Arms embargo, Chemical weapons)
+(Arms embargo, Destabilizing)"
+204,"
+
+Trigger1: Oversight (trigger1)
+Trigger2: Erosion (trigger2)"
+205,"
+
+Trigger1: Sanctions (Trigger1)
+Trigger2: Nuclear (Trigger2)"
+206,"
+
+Trigger1: Laws (Trigger2: Spread)"
+207,"
+
+(Arms embargo, Human rights abuses)
+(Arms embargo, Further violence)
+(Arms embargo, Spread of terrorism)
+(Arms embargo, Spread of conflict)
+(Arms embargo, Further violence)
+(Arms embargo, Spread of conflict)
+(Arms embargo, Further violence)
+(Arms embargo, Spread of conflict)
+(Arms embargo, Spread of terrorism)
+(Arms embargo, Spread of terrorism)"
+208,"
+
+(sanctions, interfering)
+(embargo, developing)
+(sanctions, developing)
+(embargo, violence)"
+209,"
+
+(measures, exploitation)
+(measures, destruction)"
+210,"
+
+(Sanctions, Interfering)"
+211,"
+
+Trigger1: embargo (Trigger2: violence)"
+212,"
+
+(Arms embargo, Violence)
+(Sanctions, Interfering)
+(Arms embargo, Violence)
+(Arms embargo, Human rights abuses)"
+213,"
+
+Trigger1 (Arms embargo) Trigger2 (Nuclear weapons)
+Trigger1 (Economic sanctions) Trigger2 (Destabilizing)
+Trigger1 (Arms embargo) Trigger2 (Violence)
+Trigger1 (Economic sanctions) Trigger2 (Oppressing)"
+214,"
+
+(No-fly, Violence)
+(Sanctions, Destabilizing)
+(Arms, Violence)"
+215,"
+
+(Minimum wage, Exploitation)
+(Hate speech, Tolerance)
+(Anti-corruption, Transparency)
+(Surveillance, Counter-terrorism)
+(Social welfare, Economic development)"
+216,"
+
+(Laws, Exploitation)
+(Laws, Abuse)
+(Laws, Hate)
+(Laws, Misuse)
+(Laws, False)"
+217,"
+
+(measures, trafficking)
+(prevent, weapons)
+(prevent, people)"
+218,"
+
+Sanctions (trigger1) and Destabilizing (trigger2)
+Travel (trigger1) and Terrorism (trigger2)
+Trade (trigger1) and Weapons (trigger2)
+Regulation (trigger1) and Exploitation (trigger2)
+Regulation (trigger1) and Hate (trigger2)
+Laws (trigger1) and Corruption (trigger2)
+Policies (trigger1) and Poverty (trigger2)
+Regulations (trigger1) and Pollution (trigger2)
+Laws (trigger1) and Trafficking (trigger2)
+Regulations (trigger1) and Disease (trigger2)
+Laws (trigger1) and Violence (trigger2)"
+219,"
+
+(Arms embargo, Nuclear weapons)
+(Economic sanctions, Destabilizing)
+(Arms embargo, Supporting terrorist activities)"
+220,"
+
+(Surveillance, Terrorism)
+(Transparency, Corruption)
+(Monitoring, Exploitation)
+(Healthcare, Disease)"
+221,"
+
+(Sanctions, Nuclear)
+(Ban, Trafficking)
+(Embargo, Drugs)"
+222,"
+
+Trigger1: measures (Trigger2: cyber-attacks)"
+223,"
+
+(Laws, Abuse)
+The government has increased the minimum wage to ensure that workers are paid a fair wage.
+
+(Minimum, Fair)"
+224,"
+
+(measures, trafficking)
+(measures, exploitation)
+(measures, dumping)
+(measures, smuggling)
+(measures, terrorism)"
+225,"
+
+(Laws, Exploitation)
+(Laws, Environment)
+(Laws, Exploitation)
+(Laws, Minority)"
+226,"
+
+Trigger1 (sanctions) Trigger2 (nuclear)
+Trigger1 (embargo) Trigger2 (weapons)"
+227,"
+
+(Sanctions, Nuclear)
+(Embargo, Conflict)
+(Sanctions, Human)
+(Embargo, Conflict)"
+228,"
+
+(Prevent, Terrorism)
+(Prevent, Corruption)
+(Prevent, Misinformation)
+(Prevent, Pollution)"
+229,"
+
+(Arms embargo, Spread)
+(Arms embargo, Nuclear)"
+230,"
+
+(measures, exploitation)
+(measures, resources)
+(measures, disease)"
+231,"
+
+(Arms embargo, Nuclear weapons)
+(Economic sanctions, Nuclear weapons)
+(Arms embargo, Chemical weapons)
+(Economic sanctions, Human rights)
+(Arms embargo, Destabilizing)"
+232,"
+
+Trigger1: Sanctions (Trigger1)
+Trigger2: Nuclear (Trigger2)"
+233,"
+
+(Prevent, Spread)
+(Prevent, Exploitation)
+(Prevent, Spread)
+(Prevent, Proliferation)
+(Prevent, Financing)
+(Prevent, Use)
+(Prevent, Use)
+(Prevent, Use)"

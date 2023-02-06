@@ -1,0 +1,94 @@
+,generated events
+0,"
+
+Trigger1: imposed
+Trigger2: annexation"
+1,"
+
+(passed, increase)
+(passed, provide)
+(passed, increase)
+(passed, provide)
+(passed, provide)"
+2,"
+
+(passed, stimulate)
+(introduced, reduce)
+(implemented, improve)
+(launched, reduce)
+(introduced, protect)
+(implemented, improve)
+(passed, increase)
+(introduced, promote)
+(implemented, reduce)
+(launched, increase)"
+3,"
+
+(passed, increase)
+(introduced, encourage)
+(reduce, combat)
+(implemented, provide)
+(passed, protect)"
+4,"
+
+Trigger1: implemented
+Trigger2: reduce"
+5,"
+
+(passed, protect)
+(passed, ensure)
+(passed, ensure)
+(passed, ensure)"
+6,"
+
+Increase (trigger1) and reduce (trigger2)
+Establish (trigger1) and promote (trigger2)
+Provide (trigger1) and improve (trigger2)
+Provide (trigger1) and reduce (trigger2)
+Incentivize (trigger1) and promote (trigger2)
+Increase (trigger1) and conserve (trigger2)"
+7,"
+
+(passed)(protect)"
+8,"
+
+Trigger1: imposed
+Trigger2: pressure"
+9,"
+
+(passed, increase)"
+10,"
+
+Trigger1: deploy (Pentagon sources in Washington meanwhile said the Bushadministration plans to deploy 45,000 Marines to the region)
+Trigger2: backup (to backup the thousands of Army, Navy and Air Force troops already inplace in the gulf and the Saudi desert.)"
+11,"
+
+(passed, protect)
+(reduce, pollution)
+(rights, ensure)"
+12,"
+
+(passed, increase)
+(passed, reduce)
+(passed, protect)
+(passed, increase)"
+13,"
+
+Trigger1: launched
+Trigger2: promote"
+14,"
+
+Trigger1: introducing
+Trigger2: fund"
+15,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, support)"
+16,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"

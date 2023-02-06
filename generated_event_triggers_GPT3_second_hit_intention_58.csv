@@ -1,0 +1,1299 @@
+,generated events
+0,"
+
+(passed, increase)
+(implemented, promote)
+(launched, raise)
+(introduced, protect)
+(implemented, improve)
+(passed, increase)
+(launched, reduce)"
+1,"
+
+Trigger1: passed
+Trigger2: protect"
+2,"
+
+Trigger1: launched
+Trigger2: promote"
+3,"
+
+Trigger1: passed
+Trigger2: reduce"
+4,"
+
+(passed, increase)
+(implemented, provide)
+(passed, increase)
+(passed, increase)"
+5,"
+
+(entice)(diplomatic)"
+6,"
+
+(implemented,provide)
+(passed,increase)"
+7,"
+
+(introducing, protect)
+(reduce, pollution)
+(recognize, rights)
+(ensure, access)"
+8,"
+
+(Introducing, Protect)
+(Introducing, Reduce)
+(Introducing, Promote)"
+9,"
+
+Trigger1: speech
+Trigger2: rally"
+10,"
+
+(implemented, provide)
+(passed, protect)
+(implemented, provide)
+(passed, protect)"
+11,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+12,"
+
+(increase, reduce)
+(increase, improve)
+(increase, reduce)
+(reduce, combat)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)
+(increase, promote)"
+13,"
+
+(passed, protect)
+(passed, promote)
+(passed, protect)
+(passed, promote)
+(passed, protect)
+(passed, promote)
+(passed, protect)
+(passed, promote)
+(passed, protect)
+(passed, promote)"
+14,"
+
+Trigger1: implement
+Trigger2: stimulate"
+15,"
+
+Trigger1: passed
+Trigger2: reduce"
+16,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+17,"
+
+(increase,funding)
+(increase,training)
+(increase,housing)
+(increase,parks)
+(increase,safety)
+(increase,discrimination)
+(increase,transportation)"
+18,"
+
+Trigger1: (restructuring)
+Trigger2: (increase)"
+19,"
+
+Trigger1: pump
+Trigger2: reap"
+20,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)
+(passed, combat)"
+21,"
+
+(passed, protect)
+(passed, ensure)
+(passed, access)
+(passed, equal)
+(passed, reproductive)"
+22,"
+
+(Introducing, Protect)
+(Introducing, Ensure)
+(Introducing, Promote)"
+23,"
+
+Trigger1: passed (Trigger2: increase)
+Trigger1: reduce (Trigger2: cost)"
+24,"
+
+(passed, increase)
+(implemented, provide)"
+25,"
+
+(passed, condemning)
+(launched, liberate)
+(passed, ceasefire)
+(passed, establish)
+(passed, establish)
+(passed, establish)
+(passed, establish)
+(passed, establish)
+(passed, establish)
+(passed, establish)
+(passed, establish)"
+26,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+27,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+28,"
+
+Trigger1: passed
+Trigger2: reduce"
+29,"
+
+(passed, protect)
+(ensure, equal)"
+30,"
+
+(destroy,regime)"
+31,"
+
+Trigger1: introduced
+Trigger2: promote"
+32,"
+
+(passed)(increase)"
+33,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, ensure)"
+34,"
+
+(implemented, reduce)
+(implemented, make)
+(implemented, reduce)
+(implemented, make)
+(implemented, reduce)
+(implemented, make)
+(implemented, reduce)
+(implemented, make)
+(implemented, reduce)
+(implemented, make)"
+35,"
+
+Trigger1: implemented
+Trigger2: reduce"
+36,"
+
+passed (trigger1) reduce (trigger2)
+implemented (trigger1) reduce (trigger2)
+introduced (trigger1) reduce (trigger2)
+implemented (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)
+implemented (trigger1) reduce (trigger2)"
+37,"
+
+passed (trigger1) increase (trigger2)
+access (trigger1) reduce (trigger2)
+access (trigger1) improve (trigger2)
+access (trigger1) reduce (trigger2)
+access (trigger1) protect (trigger2)
+access (trigger1) promote (trigger2)
+access (trigger1) improve (trigger2)"
+38,"
+
+(introduced,raise)
+(passed,protect)
+(implemented,reduce)
+(passed,protect)
+(passed,protect)
+(passed,protect)
+(passed,protect)
+(passed,promote)"
+39,"
+
+(passed)(protect)"
+40,"
+
+(passed, increase)
+(passed, reduce)
+(passed, improve)
+(passed, provide)
+(passed, increase)"
+41,"
+
+passed (law) (reduce)
+passed (law) (increase)
+passed (law) (provide)
+passed (law) (increase)
+passed (law) (provide)
+passed (law) (reduce)
+passed (law) (provide)
+passed (law) (increase)
+passed (law) (provide)
+passed (law) (provide)
+passed (law) (increase)
+passed (law) (provide)
+passed (law) (provide)
+passed (law) (invest)
+passed (law) (provide)
+passed (law) (hire)
+passed (law) (invest)
+passed (law) (provide)
+passed (law) (invest)
+passed (law) (hire)
+passed (law) (invest)
+passed (law) (invest)"
+42,"
+
+Trigger1: introduced
+Trigger2: create"
+43,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, increase)
+(passed, reduce)
+(passed, reduce)"
+44,"
+
+(implemented, provide)
+(introduced, provide)
+(passed, increase)"
+45,"
+
+Trigger1: passed
+Trigger2: protect"
+46,"
+
+(introducing, revenue)
+(introducing, protect)
+(introducing, protect)
+(introducing, protect)
+(introducing, protect)
+(introducing, protect)
+(introducing, protect)
+(introducing, ensure)"
+47,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+48,"
+
+(signed, protect)
+(introducing, protect)
+(introducing, promote)
+(introducing, ensure)
+(introducing, ensure)"
+49,"
+
+Trigger1: implemented
+Trigger2: promote"
+50,"
+
+(introducing, protect)
+(protect, ensure)
+(protect, ensure)
+(protect, ensure)
+(protect, ensure)"
+51,"
+
+Trigger1: passed
+Trigger2: protect"
+52,"
+
+Trigger1: introduced
+Trigger2: provide"
+53,"
+
+(implemented, provide)
+(passed, increase)"
+54,"
+
+(Introducing, Protect)
+(Ensure, Fair)
+(Promote, Inclusion)
+(Promote, Tolerance)"
+55,"
+
+Trigger1: introduced
+Trigger2: protect"
+56,"
+
+(Introducing, Protect)
+(Ensure, Equal)"
+57,"
+
+(passed, increase)
+(passed, reduce)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)"
+58,"
+
+(passed, increase)
+(effort, reduce)"
+59,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, promote)"
+60,"
+
+(passed, increase)
+(increase, reduce)
+(increase, improve)
+(increase, reduce)
+(increase, reduce)"
+61,"
+
+passed (increase)
+introduced (fund)
+implemented (reduce)
+passed (protect)
+introduced (provide)
+passed (protect)
+implemented (promote)
+passed (protect)
+launched (promote)
+passed (protect)"
+62,"
+
+(passed, protect)
+(passed, ensure)
+(passed, housing)
+(passed, education)
+(passed, employment)
+(passed, public)
+(passed, credit)
+(passed, health)
+(passed, insurance)
+(passed, criminal)"
+63,"
+
+(passed, increase)
+(passed, reduce)
+(passed, increase)
+(passed, improve)"
+64,"
+
+Trigger1: launched
+Trigger2: promote"
+65,"
+
+Trigger1: implemented
+Trigger2: encourage"
+66,"
+
+Trigger1: proposed
+Trigger2: reduce"
+67,"
+
+(passed, increase)
+(retraining, reduce)"
+68,"
+
+passed (increase), implemented (provide), passed (increase), introduced (provide), passed (increase), implemented (reduce), passed (protect), introduced (provide), passed (increase), implemented (reduce), passed (protect), introduced (provide), passed (increase), implemented (reduce), passed (protect)."
+69,"
+
+(passed, increase)
+(increase, reduce)
+(increase, improve)
+(increase, reduce)
+(increase, reduce)"
+70,"
+
+passed (trigger1) increase (trigger2)
+passed (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)"
+71,"
+
+(Voted, Impose)
+(Voted, Ban)
+(Voted, Embargo)
+(Voted, Zone)
+(Voted, Embargo)"
+72,"
+
+Trigger1: proposed
+Trigger2: increase"
+73,"
+
+(passed, increase)
+(passed, reduce)
+(passed, increase)
+(passed, improve)
+(passed, increase)
+(passed, reduce)"
+74,"
+
+(deter,coercive)
+(impose,arms)
+(impose,sanctions)
+(impose,economic)
+(impose,sanctions)"
+75,"
+
+(reduce, increase)
+(reduce, increase)
+(reduce, increase)"
+76,"
+
+(passed, increase)
+(passed, increase)
+(passed, reduce)
+(passed, reduce)"
+77,"
+
+(passed, protect)
+(passed, ensure)
+(passed, protect)
+(passed, ensure)
+(passed, protect)"
+78,"
+
+Trigger1: voted
+Trigger2: impose"
+79,"
+
+Reduce (trigger1) and Fund (trigger2)
+Introduce (trigger1) and Promote (trigger2)
+Launch (trigger1) and Provide (trigger2)
+Implement (trigger1) and Protect (trigger2)
+Introduce (trigger1) and Reduce (trigger2)
+Pass (trigger1) and Protect (trigger2)
+Introduce (trigger1) and Promote (trigger2)
+Implement (trigger1) and Improve (trigger2)"
+80,"
+
+Trigger1: introducing
+Trigger2: promote"
+81,"
+
+(Introducing, Protect)
+(Introducing, Reduce)
+(Introducing, Promote)"
+82,"
+
+Trigger1: filed
+Trigger2: nullify"
+83,"
+
+Trigger1: implemented
+Trigger2: promote"
+84,"
+
+(introducing, protect)
+(introducing, ensure)
+(introducing, ensure)
+(introducing, ensure)
+(introducing, ensure)
+(introducing, ensure)"
+85,"
+
+Trigger1: raised
+Trigger2: curb"
+86,"
+
+Trigger1: deploy (Trigger2: back)"
+87,"
+
+(passed, reduce)
+(passed, increase)
+(passed, increase)
+(passed, improve)
+(passed, improve)
+(passed, reduce)"
+88,"
+
+(passed, ceasefire)
+(passed, increase)
+(ruled, unconstitutional)
+(adopted, promote)
+(passed, promote)
+(passed, promote)
+(passed, promote)
+(passed, promote)"
+89,"
+
+(passed, protect)
+(implemented, promote)
+(passed, protect)
+(introduced, provide)
+(passed, protect)"
+90,"
+
+(passed, protect)
+(implemented, promote)
+(passed, protect)
+(introduced, provide)
+(passed, protect)"
+91,"
+
+(resigned)(seek)"
+92,"
+
+Trigger1: searching
+Trigger2: ease"
+93,"
+
+(passed, increase)
+(implemented, provide)
+(introduced, provide)
+(implemented, hire)"
+94,"
+
+(passed, increase)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)"
+95,"
+
+(announced, reduce)
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, strengthen)
+(passed, protect)
+(passed, increase)
+(passed, protect)"
+96,"
+
+(Introducing, Protect)
+(Ensure, Fair)
+(Ensure, Equal)"
+97,"
+
+Trigger1: passed
+Trigger2: promote"
+98,"
+
+(introducing, protect)
+(protect, promote)
+(protect, ensure)
+(protect, ensure)"
+99,"
+
+(offer,cut)"
+100,"
+
+Trigger1: introduced
+Trigger2: promote"
+101,"
+
+(implemented, reduce)
+(passed, increase)
+(passed, increase)
+(passed, increase)"
+102,"
+
+Trigger1: passed
+Trigger2: reduce"
+103,"
+
+(introduced, protect)
+(passed, protect)
+(introduced, ensure)
+(passed, ensure)
+(introduced, ensure)
+(passed, ensure)"
+104,"
+
+(passed, increase)
+(passed, reduce)"
+105,"
+
+(introducing, reduce)
+(increase, reduce)
+(increase, reduce)
+(increase, promote)"
+106,"
+
+(passed)(protect)"
+107,"
+
+Trigger1: launched
+Trigger2: promote"
+108,"
+
+(passed, increase)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, promote)"
+109,"
+
+(passed, increase)
+(implemented, provide)
+(introduced, provide)"
+110,"
+
+Trigger1: introduced
+Trigger2: invest"
+111,"
+
+(passed, increase)
+(passed, improve)
+(passed, promote)"
+112,"
+
+Trigger1: passed
+Trigger2: reduce"
+113,"
+
+(purchase)(consolidating)"
+114,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)"
+115,"
+
+(passed, increase)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)"
+116,"
+
+(increase)(minimum wage)
+(provide)(working conditions)
+(increase)(access)
+(reduce)(cost)
+(reduce)(poverty)
+(increase)(economic opportunity)
+(increase)(access)
+(reduce)(pollution)
+(improve)(air quality)
+(increase)(access)
+(reduce)(dependence)"
+117,"
+
+(proposed, protect)
+(announced, reduce)
+(declared, emergency)
+(ruled, provide)
+(passed, increase)
+(passed, relief)
+(adopted, end)
+(approved, stabilize)
+(approved, fund)"
+118,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, promote)
+(passed, promote)"
+119,"
+
+(passed, protect)
+(passed, ensure)
+(passed, promote)
+(passed, ensure)
+(passed, promote)
+(passed, promote)
+(passed, promote)"
+120,"
+
+(passed, increase)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+121,"
+
+(passed, increase)
+(passed, reduce)
+(passed, taxes)
+(passed, wage)
+(passed, protect)
+(passed, promote)"
+122,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+123,"
+
+(vote,impose)
+(agree,reduce)
+(pass,end)
+(pass,condemn)
+(pass,end)
+(pass,end)
+(pass,end)"
+124,"
+
+(Introducing, Protect)
+(Introducing, Promote)"
+125,"
+
+Trigger1: introducing
+Trigger2: protect"
+126,"
+
+(end, protect)
+(cluster, protect)
+(nuclear, protect)"
+127,"
+
+(introduced, protect)
+(protect, promote)
+(protect, combat)
+(protect, promote)"
+128,"
+
+(introducing, protect)
+(introducing, reduce)
+(introducing, provide)"
+129,"
+
+Trigger1: passed
+Trigger2: reduce"
+130,"
+
+(introduced, protect)
+(introduced, recognize)
+(introduced, ensure)"
+131,"
+
+(passed, protect)
+(passed, ensure)
+(passed, access)"
+132,"
+
+(passed, increase)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)
+(increase, ensure)"
+133,"
+
+(passed)(increase)"
+134,"
+
+Trigger1: launched
+Trigger2: promote"
+135,"
+
+(introducing, fund)
+(proposed, reduce)
+(introducing, reduce)
+(introducing, protect)
+(introducing, protect)
+(introducing, protect)"
+136,"
+
+Trigger1: adopted
+Trigger2: protect"
+137,"
+
+(introduced)(provide)"
+138,"
+
+passed (trigger1) reduce (trigger2)
+implemented (trigger1) invest (trigger2)
+passed (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)"
+139,"
+
+Trigger1: agreed
+Trigger2: transition"
+140,"
+
+(passed, protect)
+(passed, ensure)
+(passed, reduce)
+(passed, protect)
+(passed, ensure)
+(passed, promote)
+(passed, ensure)"
+141,"
+
+Trigger1: implemented
+Trigger2: increase"
+142,"
+
+Trigger1: implemented
+Trigger2: increase"
+143,"
+
+(passed, strengthen)
+(passed, protect)
+(passed, protect)"
+144,"
+
+Trigger1: passed
+Trigger2: reduce"
+145,"
+
+(impose)(ban)"
+146,"
+
+Trigger1: passed
+Trigger2: reduce"
+147,"
+
+(win) (help)"
+148,"
+
+Trigger1: voted
+Trigger2: impose"
+149,"
+
+(passed)(stimulate)"
+150,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)"
+151,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, promote)"
+152,"
+
+(passed, increase)
+(passed, reduce)
+(passed, combat)
+(passed, reduce)
+(passed, reduce)"
+153,"
+
+Trigger1: passed
+Trigger2: reduce"
+154,"
+
+(passed, protect)
+(designed, ensure)
+(passed, protect)
+(passed, ensure)
+(passed, ensure)"
+155,"
+
+(passed, increase)
+(effort, reduce)"
+156,"
+
+Trigger1: passed
+Trigger2: stimulate"
+157,"
+
+(use)(establishing)"
+158,"
+
+(passed, protect)
+(passed, ensure)
+(passed, accurate)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)
+(passed, services)"
+159,"
+
+(passed, increase)
+(passed, reduce)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+160,"
+
+(voted, reducing)"
+161,"
+
+(passed)(stimulate)"
+162,"
+
+(passed, increase)
+(passed, reduce)"
+163,"
+
+(passed, protect)
+(implemented, provide)
+(passed, promote)"
+164,"
+
+Trigger1: introduced
+Trigger2: provide"
+165,"
+
+(passed, increase)
+(passed, reduce)
+(passed, support)
+(passed, reduce)
+(passed, promote)"
+166,"
+
+(introduced)(protect)"
+167,"
+
+(passed, increase)
+(passed, reduce)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)
+(passed, reduce)"
+168,"
+
+(EU,protect)
+(government,promote)
+(president,emergency)
+(Supreme,provide)
+(Senate,increase)
+(House,provide)
+(UN,end)
+(IMF,stabilize)
+(World,improve)"
+169,"
+
+Trigger1: passed
+Trigger2: reduce"
+170,"
+
+Trigger1: passed
+Trigger2: reduce"
+171,"
+
+Trigger1: passed
+Trigger2: protect"
+172,"
+
+Trigger1: passed
+Trigger2: reduce"
+173,"
+
+passed (increase, reduce) 
+introduced (tax, policy) 
+implemented (policy, program) 
+passed (protect, promote) 
+launched (campaign)"
+174,"
+
+Trigger1: passed
+Trigger2: reduce"
+175,"
+
+(passed)(increase)"
+176,"
+
+(implemented)(reduce)"
+177,"
+
+(introducing, protect)
+(introducing, promote)
+(introducing, promote)
+(introducing, ensure)"
+178,"
+
+(reduce,open)
+(reduce,open)
+(reduce,open)
+(reduce,open)
+(reduce,open)"
+179,"
+
+(introducing, protect)
+(reduce, promote)
+(ensure, quality)
+(promote, create)"
+180,"
+
+Trigger1: introduced
+Trigger2: invest"
+181,"
+
+(passed, increase)
+(ensure, representation)"
+182,"
+
+Trigger1: passed
+Trigger2: hire"
+183,"
+
+Trigger1: passed
+Trigger2: protect"
+184,"
+
+Trigger1: introduced
+Trigger2: hire"
+185,"
+
+(impose,force)
+(impose,pressure)
+(impose,pressure)
+(impose,pressure)
+(impose,pressure)
+(impose,pressure)
+(impose,pressure)
+(impose,pressure)"
+186,"
+
+(aimed, increasing)
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+187,"
+
+Trigger1: passed
+Trigger2: improve"
+188,"
+
+Trigger1: passed
+Trigger2: reduce"
+189,"
+
+(passed, increase)
+(passed, promote)
+(passed, promote)
+(passed, promote)"
+190,"
+
+(passed, increase)
+(reduce, inequality)"
+191,"
+
+Trigger1: passed
+Trigger2: protect"
+192,"
+
+Trigger1: passed
+Trigger2: protect"
+193,"
+
+(passed, increase)
+(passed, reduce)"
+194,"
+
+(passed, protect)
+(ensure, safe)"
+195,"
+
+(passed, increase)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+196,"
+
+Trigger1: entice 
+Trigger2: occupy"
+197,"
+
+(passed, increase)
+(passed, educational)
+(passed, healthcare)"
+198,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, protect)
+(passed, protect)"
+199,"
+
+Trigger1: sweetened (LIN and BellSouth)
+Trigger2: tendering (shareholders)"
+200,"
+
+Trigger1: passed
+Trigger2: ceasefire"
+201,"
+
+(passed, increase)
+(passed, reduce)
+(passed, promote)"
+202,"
+
+(passed, increase)
+(passed, reduce)
+(passed, promote)
+(passed, reduce)
+(passed, reduce)
+(passed, promote)
+(passed, reduce)
+(passed, protect)
+(passed, reduce)"
+203,"
+
+(passed, increase)
+(passed, promote)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)
+(passed, improve)"
+204,"
+
+(passed, increase)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)
+(increase, reduce)"
+205,"
+
+(passed, increase)
+(implemented, provide)
+(introduced, provide)
+(passed, increase)"
+206,"
+
+(surged) (sweetened)"
+207,"
+
+(implemented, promote)
+(passed, protect)
+(launched, reduce)
+(implemented, promote)
+(passed, protect)
+(launched, promote)
+(implemented, reduce)
+(passed, protect)
+(launched, promote)
+(implemented, promote)
+(passed, protect)
+(launched, reduce)
+(implemented, promote)
+(passed, protect)
+(launched, promote)
+(implemented, promote)"
+208,"
+
+Trigger1: launched
+Trigger2: promote"
+209,"
+
+(Voted)(Reducing)"
+210,"
+
+(passed, increase)
+(passed, reduce)
+(passed, promote)
+(passed, reduce)
+(passed, reduce)
+(passed, protect)"
+211,"
+
+(passed, increase)
+(passed, improve)
+(passed, reduce)
+(passed, reduce)
+(passed, reduce)"
+212,"
+
+passed (trigger1) increase (trigger2)
+implemented (trigger1) stimulate (trigger2)
+introduced (trigger1) reduce (trigger2)
+passed (trigger1) reduce (trigger2)
+implemented (trigger1) reduce (trigger2)"
+213,"
+
+(passed)(stimulate)"
+214,"
+
+Trigger1: passed
+Trigger2: protect"
+215,"
+
+(passed, increase)
+(effort, reduce)"
+216,"
+
+(passed, increase)
+(passed, reduce)
+(passed, reduce)"
+217,"
+
+(passed, increase)
+(passed, improve)
+(passed, reduce)
+(passed, promote)
+(passed, protect)"
+218,"
+
+Trigger1: launched
+Trigger2: promote"
+219,"
+
+(win,support)
+(hope,help)"
+220,"
+
+(entice)(diplomatic)"
+221,"
+
+Trigger1: passed
+Trigger2: protect"

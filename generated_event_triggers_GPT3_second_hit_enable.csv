@@ -1,0 +1,3184 @@
+,generated sentences
+0,"
+
+Trigger1: Entitles (trigger2: Buy)"
+1,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+2,"
+
+Trigger1: request
+Trigger2: removal"
+3,"
+
+Trigger1: Offer (Dow Jones)
+Trigger2: Review (shareholders)"
+4,"
+
+Trigger1: embargo (trigger2: enforce) 
+Trigger1: Kuwait (trigger2: ask)"
+5,"
+
+Trigger1 (military): success
+Trigger2 (diplomatic): risks"
+6,"
+
+Trigger1: embargo (trigger2: enforce) 
+Trigger1: Kuwait (trigger2: ask)"
+7,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+8,"
+
+(request) (remove)"
+9,"
+
+Trigger1: embargo (trigger2: enforce) 
+Trigger1: Kuwait (trigger2: ask)"
+10,"
+
+Trigger1: offering (Trigger2: subscribe)"
+11,"
+
+Trigger1: Extension (trigger2: Completed)"
+12,"
+
+(tall)
+(scoring)
+(moves)
+(focus)"
+13,"
+
+Trigger1: offering (Trigger2: subscribe)"
+14,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+15,"
+
+Trigger1: Entitles (trigger2: Buy)"
+16,"
+
+Trigger1: request
+Trigger2: removal"
+17,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+18,"
+
+Trigger1: offering (Trigger2: subscribe)"
+19,"
+
+Trigger1: request
+Trigger2: removal"
+20,"
+
+Trigger1: Entitles (trigger2: Buy)"
+21,"
+
+(merger) (encouraging)
+(merger) (supportive)
+(capitalization) (larger)
+(capitalization) (combined)
+(presence) (global)
+(presence) (diversified)"
+22,"
+
+Trigger1: request
+Trigger2: removal"
+23,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+24,"
+
+Trigger1: offering (Trigger2: subscribe)"
+25,"
+
+Trigger1: embargo (trigger2: enforce) 
+Trigger1: Kuwait (trigger2: ask)"
+26,"
+
+Trigger1: Acquisition (trigger1)
+Trigger2: Granted (trigger2)"
+27,"
+
+Trigger1: Entitles (trigger2: Buy)"
+28,"
+
+Trigger1 (allied)
+Trigger2 (rejection)"
+29,"
+
+(Moves)
+(Focus)"
+30,"
+
+Trigger1: Pressure (trigger2: Reduce)"
+31,"
+
+(presence, larger)
+(merger, create)
+(global, reach)
+(compete, effectively)
+(diversified, portfolio)
+(advantage, competitive)
+(markets, access)"
+32,"
+
+(Debt, Reduce)
+(Rights, Approve)
+(Loyalty, Rewards)
+(Technology, Improve)
+(Marketing, Increase)
+(Research, Create)
+(Training, Ensure)"
+33,"
+
+Trigger1 (rights)
+Trigger2 (subscribe)"
+34,"
+
+(Moratorium)(Importation)
+(Ban)(Importation)
+(Embargo)(Stopping)
+(Moratorium)(Importation)
+(Embargo)(Stopping)
+(Ban)(Importation)"
+35,"
+
+Trigger1 (Debt)
+Trigger2 (Proceeds)"
+36,"
+
+Trigger1 (plans)
+Trigger2 (reduce)"
+37,"
+
+(Regulations) (Ensure)"
+38,"
+
+(Raised)
+(Improving)"
+39,"
+
+(Tax) (Offset)"
+40,"
+
+(Program) (Access)"
+41,"
+
+(Initiative) (Access)"
+42,"
+
+(Plan) (Reduce)"
+43,"
+
+(policy) (access)"
+44,"
+
+Trigger1 (strategy)
+Trigger2 (promote)"
+45,"
+
+(program) (access)"
+46,"
+
+Trigger1 (Initiative)
+Trigger2 (Reduce)"
+47,"
+
+(invest) (infrastructure)
+(invest) (renewable)
+(invest) (education)"
+48,"
+
+(invest,infrastructure)
+(invest,renewable)
+(invest,education)
+(invest,research)
+(invest,economic)"
+49,"
+
+Trigger1: (Agreed)
+Trigger2: (Reduce)"
+50,"
+
+(increase,benchmark)
+(tax,credit)
+(childcare,cost)
+(assistance,homebuyers)
+(assistance,seniors)
+(funding,projects)
+(assistance,veterans)
+(assistance,students)"
+51,"
+
+(policy, reduce)
+(bill, increase)"
+52,"
+
+(policy, reduce)
+(policy, increase)
+(policy, provide)
+(policy, duty-free)"
+53,"
+
+Trigger1 (Declared)
+Trigger2 (Raise)"
+54,"
+
+(Initiative, Financial)
+(Investing, Infrastructure)
+(Investing, Renewable)
+(Investing, Research)
+(Investing, Programs)"
+55,"
+
+Trigger1: Entitles (trigger2: Buy)"
+56,"
+
+Trigger1: embargo (trigger2: enforce) 
+Trigger1: Kuwait (trigger2: ask)"
+57,"
+
+Trigger1: request
+Trigger2: removal"
+58,"
+
+Trigger1: plans (trigger2: fund)"
+59,"
+
+Trigger1 (Approve)
+Trigger2 (Embargo)"
+60,"
+
+Trigger1: request
+Trigger2: removal"
+61,"
+
+Trigger1: Entitles (trigger2: Buy)"
+62,"
+
+Trigger1: offering (Trigger2: subscribe)"
+63,"
+
+(program,announce)
+(cost,help)
+(transportation,provide)
+(food,provide)
+(medical,provide)
+(childcare,provide)"
+64,"
+
+Trigger1: embargo (trigger2: stop)"
+65,"
+
+(investing)==trigger1, (improve)==trigger2
+(investing)==trigger1, (reduce)==trigger2
+(investing)==trigger1, (develop)==trigger2
+(investing)==trigger1, (support)==trigger2"
+66,"
+
+(investing) (renewable)
+(investing) (public)
+(investing) (healthcare)
+(investing) (housing)"
+67,"
+
+(Embargo)==trigger1, (Stopping)==trigger2
+(Embargo)==trigger1, (Stopping)==trigger2
+(Embargo)==trigger1, (Stopping)==trigger2"
+68,"
+
+(investing) (improve)
+(investing) (reduce)"
+69,"
+
+(initiative, access)
+(declare, emergency)"
+70,"
+
+(Declared) (Emergency)
+(Passed) (Reduce)"
+71,"
+
+Trigger1: law (trigger2: reduce)"
+72,"
+
+(invest, social welfare)
+(invest, environmental protection)
+(invest, public health)
+(invest, cultural heritage)"
+73,"
+
+(resolution) (declare)
+(law) (pass)
+(bill) (pass)"
+74,"
+
+(sanctions, interference)
+(resolution, conflict)
+(resolution, chemical)
+(tariffs, deficit)
+(agreement, emissions)
+(resolution, landmines)"
+75,"
+
+Trigger1: request
+Trigger2: removal"
+76,"
+
+Trigger1 (rights)
+Trigger2 (subscribe)"
+77,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+78,"
+
+(ban) (import)"
+79,"
+
+(embargo) (nuclear)"
+80,"
+
+(Resolution) (Lifting)"
+81,"
+
+Trigger1: embargo (Trigger2: war)"
+82,"
+
+Trigger1 (rights)
+Trigger2 (purchase)"
+83,"
+
+(Merger) (Regulations)
+(Tax) (Sanctions)"
+84,"
+
+(Tax)==trigger1, (raise)==trigger2
+(Program)==trigger1, (create)==trigger2"
+85,"
+
+Trigger1: (Declared)
+Trigger2: (Emergency)"
+86,"
+
+Trigger1: law (trigger2: reduce)"
+87,"
+
+Trigger1 (rights)
+Trigger2 (purchase)"
+88,"
+
+Trigger1: Entitles (trigger2: Buy)"
+89,"
+
+Trigger1 (strategy)
+Trigger2 (promote)"
+90,"
+
+(Tax,Fund)
+(Entitles,Bonds)
+(Proposed,Social)"
+91,"
+
+(proceeds, reduce)
+(rights, approval)
+(rights, underwriters)
+(rights, raise)
+(rights, completed)"
+92,"
+
+(Committed, Reduce)
+(Announced, Reduce)
+(Launched, Promote)
+(Approved, Support)
+(Adopted, Promote)
+(Agreed, Promote)"
+93,"
+
+(tax incentives)==trigger1, (invest)==trigger2
+(regulations)==trigger1, (operating)==trigger2
+(laws)==trigger1, (protect)==trigger2
+(policies)==trigger1, (promote)==trigger2"
+94,"
+
+(invest)==trigger1, (improve)==trigger2
+(invest)==trigger1, (provide)==trigger2
+(invest)==trigger1, (reduce)==trigger2
+(invest)==trigger1, (promote)==trigger2"
+95,"
+
+Trigger1 (investing)
+Trigger2 (promote)"
+96,"
+
+Trigger1 (Agreed) Trigger2 (Tariffs), 
+Trigger1 (Unanimously) Trigger2 (Ceasefire), 
+Trigger1 (Imposed) Trigger2 (Sanctions), 
+Trigger1 (Condemning) Trigger2 (Abuses), 
+Trigger1 (Calling) Trigger2 (Chemical), 
+Trigger1 (Imposed) Trigger2 (Sanctions), 
+Trigger1 (Calling) Trigger2 (Child), 
+Trigger1 (Calling) Trigger2 (Landmines), 
+Trigger1 (Calling) Trigger2 (Cluster)."
+97,"
+
+(Embargo) (Stop)
+(Moratorium) (Impose)"
+98,"
+
+(military) (risks)"
+99,"
+
+Trigger1: rejection (trigger2: initiative)"
+100,"
+
+Trigger1 (rights)
+Trigger2 (subscribe)"
+101,"
+
+(Embargo) (Stop)"
+102,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+103,"
+
+Trigger1 (merger)
+Trigger2 (create)"
+104,"
+
+Trigger1 (IMF): Loan
+Trigger2 (IMF): Stabilize
+Trigger1 (World Bank): Initiative
+Trigger2 (World Bank): Assist"
+105,"
+
+(Legislation) (Protect)
+(Initiatives) (Promote)
+(Subsidies) (Support)"
+106,"
+
+(request) (removal)
+(amass) (takeover)"
+107,"
+
+(invest) (innovation)
+(invest) (economic)
+(request) (removal)"
+108,"
+
+Trigger1: Entitles (trigger2: Buy)"
+109,"
+
+Trigger1: offering (Trigger2: subscribe)"
+110,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+111,"
+
+Trigger1: request
+Trigger2: removal"
+112,"
+
+Trigger1 (rights)
+Trigger2 (purchase)"
+113,"
+
+(Resolution, Condemning)
+(Bill, Funding)"
+114,"
+
+(authorization,restore)
+(sought,ensure)
+(sought,ensure)
+(sought,ensure)
+(sought,ensure)"
+115,"
+
+Trigger1: law (trigger2: reduce)"
+116,"
+
+(EU, reduce)
+(UN, promote)
+(World, provide)"
+117,"
+
+(request) (lift)"
+118,"
+
+(request) (enforce)"
+119,"
+
+Trigger1: tax (credit)
+Trigger2: hire (staff)"
+120,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+121,"
+
+Trigger1: sanctions (Trigger2: import)"
+122,"
+
+Trigger1 (investing)
+Trigger2 (improve)"
+123,"
+
+Trigger1 (law)
+Trigger2 (reduce)"
+124,"
+
+Trigger1: bill (Trigger2: funding)"
+125,"
+
+Trigger1: (policy)
+Trigger2: (tuition)"
+126,"
+
+Trigger1: resolution (Trigger2: end)"
+127,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+128,"
+
+(law) (implement)
+(bill) (provide)"
+129,"
+
+Trigger1: Initiative (trigger2: Integration)"
+130,"
+
+(Directive) (Reduce)
+(Directive) (Reduce)"
+131,"
+
+Trigger1 (Supplement)
+Trigger2 (Information)"
+132,"
+
+(Competition)
+(Choice)"
+133,"
+
+2. (ceasefire)(conflict)
+3. (aid)(cope)
+4. (regulations)(transparency)"
+134,"
+
+Trigger1: agreement (trigger2: reduce)"
+135,"
+
+(Initiative) (Provide)
+(Law) (Provide)"
+136,"
+
+(invest)==trigger1, (reduce emissions)==trigger2
+(invest)==trigger1, (protect habitats)==trigger2
+(invest)==trigger1, (reduce traffic)==trigger2
+(invest)==trigger1, (reduce energy)==trigger2"
+137,"
+
+Trigger1: policy (trigger2: increase)"
+138,"
+
+5. (Agreement)(Reduce)
+6. (Resolution)(Condemn)
+7. (Policy)(Provide)
+8. (Resolution)(Ceasefire)
+9. (Bill)(Funding)
+10. (Resolution)(Peace)"
+139,"
+
+(law)==trigger1, (require)==trigger2
+(parental)==trigger1, (provide)==trigger2
+(sick)==trigger1, (provide)==trigger2
+(vacation)==trigger1, (provide)==trigger2
+(family)==trigger1, (provide)==trigger2
+(bereavement)==trigger1, (provide)==trigger2"
+140,"
+
+Trigger1: offering (trigger2: reduce)
+Trigger1: finance (trigger2: expenditures)"
+141,"
+
+Trigger1 (Agreement)
+Trigger2 (Reduce)"
+142,"
+
+Trigger1 (law)
+Trigger2 (increase)"
+143,"
+
+Trigger1 (directive)
+Trigger2 (reduce)"
+144,"
+
+Trigger1 (Resolution)
+Trigger2 (End)"
+145,"
+
+Trigger1: treaty (Trigger2: cooperation)"
+146,"
+
+Trigger1 (Organization)
+Trigger2 (Strengthen)"
+147,"
+
+Trigger1 (IMF)
+Trigger2 (loan)"
+148,"
+
+(Committed, Increasing)
+(Implemented, Tax Credit)
+(Introduced, Access)
+(Implemented, Tuition)
+(Created, Access)
+(Launched, Reduce)
+(Introduced, Access)
+(Implemented, Legal Aid)
+(Created, Access)"
+149,"
+
+(Directive, Renewable)
+(Regulation, Compliant)
+(Directive, Secure)"
+150,"
+
+(Resolution)(End)
+(Bill)(Funding)
+(Vote)(Leave)"
+151,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+152,"
+
+(Resolution)
+(Force)"
+153,"
+
+(Cutting)
+(Raising)"
+154,"
+
+(Committed) (Create)"
+155,"
+
+Trigger1: Date (Dow Jones has extended the expiration date)
+Trigger2: Consider (allow shareholders more time to consider)"
+156,"
+
+Trigger1 (Labour): Criticism
+Trigger2 (Labour): Unemployment
+Trigger1 (Conservative): Reduction
+Trigger2 (Conservative): Stimulate
+Trigger1 (Liberal): Spending
+Trigger2 (Liberal): Taxation
+Trigger1 (Green): Shift
+Trigger2 (Green): Focus"
+157,"
+
+(Resolution) (Ceasefire)
+(Resolution) (Monitoring)
+(Resolution) (Humanitarian)"
+158,"
+
+Trigger1: (Equal)
+Trigger2: (Pay)"
+159,"
+
+Trigger1: resolution (Trigger2: action)"
+160,"
+
+(regulations) (safety)
+(tax incentives) (invest)
+(policies) (promote)
+(measures) (reduce)
+(programs) (support)"
+161,"
+
+Trigger1: treaty (Trigger2: reduce)"
+162,"
+
+(Resolution) (Ceasefire)
+(Resolution) (Chemical)
+(Resolution) (Landmines)
+(Resolution) (Cluster)"
+163,"
+
+(Adopted, Ensure)
+(Agreed, Ensure)
+(Adopted, Ensure)"
+164,"
+
+(Poverty) (Reduce)
+(Education) (Improve)
+(Innovation) (Promote)
+(Infrastructure) (Strengthen)"
+165,"
+
+(sanctions) (pressure)"
+166,"
+
+(Policy) (Reduce)"
+167,"
+
+(policy) (easier)"
+168,"
+
+(Resolution) (Ceasefire)"
+169,"
+
+Trigger1: embargo (Trigger2: nuclear)"
+170,"
+
+(United Nations) (adopted)
+(Security Council) (imposed)
+(United States) (imposed)
+(United Nations) (passed)
+(United Nations) (passed)"
+171,"
+
+(U.N.) (strong stance)
+(nations) (economic sanctions)"
+172,"
+
+(military) (risks)"
+173,"
+
+Trigger1 (Embargo)
+Trigger2 (Stopping)"
+174,"
+
+Trigger1 (Senate): Trigger2 (importation)"
+175,"
+
+Trigger1: (UN)
+Trigger2: (sanctions)"
+176,"
+
+(program) (announced)
+(low-income) (help)
+(utilities) (providing)
+(internet) (providing)
+(telephone) (providing)"
+177,"
+
+Trigger1 (Regulations) (Resolution) (Bill) (Regulations) (Loan) (Tariffs) (Resolution) 
+Trigger2 (Comply) (Ceasefire) (Funding) (Comply) (Address) (Violation) (End)"
+178,"
+
+11. (Resolution, Condemn)
+12. (Resolution, Occupation)
+13. (Resolution, Torture)
+14. (Resolution, Landmines)
+15. (Resolution, Cluster)
+16. (Resolution, Sexual)"
+179,"
+
+Trigger1: request
+Trigger2: removal"
+180,"
+
+Trigger1: (Cutting)
+Trigger2: (Raising)"
+181,"
+
+Trigger1: offering (Trigger2: subscribe)"
+182,"
+
+Trigger1: approval (trigger1)
+Trigger2: acquire (trigger2)"
+183,"
+
+Trigger1: Initiative (trigger1)
+Trigger2: Access (trigger2)"
+184,"
+
+Trigger1: (Declared)
+Trigger2: (Emergency)"
+185,"
+
+(merger,create)
+(capitalization,largest)
+(presence,global)
+(diversified,serve)"
+186,"
+
+(Law)==trigger1, (Increase)==trigger2
+(Law)==trigger1, (Reduce)==trigger2"
+187,"
+
+(Embargo) (Stop)
+(Embargo) (Stop)
+(Resolution) (Stop)"
+188,"
+
+17. (Resolution, End)
+18. (Resolution, Starvation)
+19. (Resolution, Displacement)
+20. (Resolution, Sanctions)"
+189,"
+
+Trigger1: Dow (Jones offer)
+Trigger2: review (tender offer circular)"
+190,"
+
+Trigger1: offering (trigger2: purchase)"
+191,"
+
+Trigger1: Offer (trigger1)
+Trigger2: Residing (trigger2)"
+192,"
+
+Trigger1: supplement (Trigger2: information)"
+193,"
+
+Trigger1: offering (Trigger2: discounted)"
+194,"
+
+Trigger1: (Cutting)
+Trigger2: (Raising)"
+195,"
+
+Trigger1: government (trigger2: reduce)
+Trigger1: opposition (trigger2: measures)"
+196,"
+
+Trigger1: deficit (trigger2: reduced)"
+197,"
+
+Trigger1: build (President Bush has sought to build a coalition of nations)
+Trigger2: commit (but some countries have been reluctant to commit troops or resources)"
+198,"
+
+Trigger1: Pressure (trigger2: Join) 
+Trigger1: Demands (trigger2: Resistant)"
+199,"
+
+Trigger1:Committed (President Bush has argued that the U.S. must remain committed to the mission in Iraq)
+Trigger2:Stability (in order to ensure stability in the region)"
+200,"
+
+(Passed,Ceasefire)
+(Imposed,Sanctions)
+(Passed,Funding)
+(Declared,Emergency)
+(Adopted,Cessation)
+(Condemning,Abuses)
+(Imposed,Sanctions)
+(Passed,Violence)"
+201,"
+
+Trigger1: Sanctions
+Trigger2: Interference"
+202,"
+
+(Sanctions,Russia)
+(Ceasefire,Israel)
+(Tariffs,Chinese)
+(Resolution,North Korea)
+(Emergency,Emissions)"
+203,"
+
+Trigger1: resolution (Trigger2: end)"
+204,"
+
+Trigger1: ceasefire (Trigger2: conflict)"
+205,"
+
+(sanctions,pressure)
+(resolution,ceasefire)
+(conference,conflict)
+(coalition,comply)
+(coalition,humanitarian)
+(conference,conflict)"
+206,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+207,"
+
+(Merger) (Presence)"
+208,"
+
+(Regulations) (Ensure)"
+209,"
+
+(Merger) (Presence)"
+210,"
+
+(Regulations) (Merger)"
+211,"
+
+Trigger1 (Regulations)
+Trigger2 (Ensure)"
+212,"
+
+(Resolution) (Embargo)"
+213,"
+
+Trigger1: embargo (Condition)
+Trigger2: stoppage (Event)"
+214,"
+
+(resolution)==trigger1, (reduce)==trigger2
+(resolution)==trigger1, (protect)==trigger2
+(resolution)==trigger1, (combat)==trigger2"
+215,"
+
+(Sanctions, Response)
+(Resolution, End)
+(Resolution, Torture)"
+216,"
+
+(Resolution) (Ceasefire)
+(Resolution) (Chemical)
+(Resolution) (Landmines)
+(Resolution) (Child)"
+217,"
+
+Trigger1 (Merger)
+Trigger2 (Global)"
+218,"
+
+Trigger1: decision (trigger1)
+Trigger2: relax (trigger2)"
+219,"
+
+Trigger1: Approval (German government)
+Trigger2: Commitment (two countries)"
+220,"
+
+Trigger1: relaxation (trigger2: opportunity)"
+221,"
+
+(Approval) (Free flow)"
+222,"
+
+(Agree) (Reduce)
+(Adopt) (Increase)
+(Approve) (Impose)
+(Disclose) (Enforce)"
+223,"
+
+(Resolution) (End)
+(Resolution) (Promote)
+(Resolution) (End)"
+224,"
+
+Trigger1 (Merger)
+Trigger2 (Competition)"
+225,"
+
+(support) (merger)
+(competition) (consumer)"
+226,"
+
+(regulations, safety)
+(ceasefire, loss)"
+227,"
+
+Trigger1 (policy)
+Trigger2 (incentives)"
+228,"
+
+(Law) (Protect)
+(Resolution) (End)"
+229,"
+
+(UN, adopt)
+(EU, propose)
+(WTO, adopt)
+(IMF, approve)
+(World Bank, launch)
+(G20, agree)
+(African Union, adopt)
+(UN, establish)"
+230,"
+
+(Policy, Combat)
+(Resolution, End)
+(Resolution, End)
+(Resolution, End)"
+231,"
+
+Trigger1: Agreement (trigger2: Reduce)"
+232,"
+
+Trigger1: regulations (trigger2: importation)"
+233,"
+
+(Resolution) (Torture)
+(Resolution) (Cluster munitions)
+(Resolution) (Sexual violence)
+(Resolution) (Forced labor)"
+234,"
+
+(sanctions, Iran)
+(financial, developing)
+(ceasefire, Israel)
+(tariffs, imports)"
+235,"
+
+(tall)==(trigger1) (scoring)==(trigger2)
+(regulations)==(trigger1) (standards)==(trigger2)
+(resolution)==(trigger1) (embargo)==(trigger2)
+(bill)==(trigger1) (moratorium)==(trigger2)
+(policy)==(trigger1) (incentives)==(trigger2)
+(stance)==(trigger1) (sanctions)==(trigger2)
+(bid)==(trigger1) (stake)==(trigger2)
+(regulations)==(trigger1) (standards)==(trigger2)"
+236,"
+
+Trigger1: global (Trigger2: emergency)"
+237,"
+
+Trigger1 (directive)
+Trigger2 (protection)
+Trigger1 (loan)
+Trigger2 (address)"
+238,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+239,"
+
+Trigger1: policy (trigger2: work)"
+240,"
+
+Trigger1 (Debt)
+Trigger2 (Fund)"
+241,"
+
+Trigger1 (board)
+Trigger2 (approval)"
+242,"
+
+Trigger1 (launching)
+Trigger2 (rewards)"
+243,"
+
+Trigger1 (investing)
+Trigger2 (improve)"
+244,"
+
+Trigger1: Investing
+Trigger2: Increase"
+245,"
+
+Trigger1 (investing)
+Trigger2 (create)"
+246,"
+
+Trigger1 (investing)
+Trigger2 (training)"
+247,"
+
+Trigger1 (merger)
+Trigger2 (global)"
+248,"
+
+Trigger1: Resolution (Trigger2: Condemning)"
+249,"
+
+Trigger1 (Resolution) Trigger2 (Condemning)
+Trigger1 (Embargo) Trigger2 (Prevent)
+Trigger1 (Ban) Trigger2 (Prevent)"
+250,"
+
+(Law) (Provide)"
+251,"
+
+(sanctions,impose)
+(loan,stabilize)
+(initiative,reduce)
+(program,promote)
+(resolution,protect)
+(report,issue)"
+252,"
+
+(Arms) (Sanctions)
+(Abuses) (Ban)
+(Conflict) (Resolution)"
+253,"
+
+(regulations, reduce)
+(bill, fund)"
+254,"
+
+(sanctions) (North Korea)
+(tariffs) (China)
+(loan) (Greece)"
+255,"
+
+(Unanimously,Passed)
+(Funding,Provide)
+(Regulations,Adopted)
+(Sanctions,Imposed)
+(Resolution,Passed)
+(Sanctions,Imposed)"
+256,"
+
+(Directive, Movement)
+(Directive, People)
+(Directive, Capital)
+(Directive, Data)"
+257,"
+
+(investing, economic)
+(investing, social)
+(investing, job)
+(investing, technology)
+(investing, agricultural)
+(investing, energy)
+(investing, security)"
+258,"
+
+(Emissions, Reduce)
+(Sanctions, Impose)"
+259,"
+
+(tariffs, reduce)
+(law, environmental)
+(law, minimum)
+(resolution, child)
+(agreement, reduce)
+(law, data)
+(resolution, landmines)"
+260,"
+
+(program) (access)
+(Indigenous) (education)
+(women) (leadership)
+(immigrants) (language)"
+261,"
+
+(cooperation,tackle)
+(stimulus,boost)
+(policy,reduce)
+(action,end)
+(initiative,promote)
+(effort,combat)"
+262,"
+
+(Travel ban)==trigger1, (Nuclear weapons)==trigger2
+(Trade agreement)==trigger1, (Tariffs)==trigger2
+(Agreement)==trigger1, (Workers)==trigger2"
+263,"
+
+(Directive, Ensure)
+(Resolution, Protect)
+(Policy, Reduce)
+(Resolution, Promote)"
+264,"
+
+(avoid) (civilian casualties) 
+(fought) (urban areas) 
+(use) (propaganda tool)"
+265,"
+
+(program, tuition)
+(plan, infrastructure)
+(policy, wage)
+(strategy, racism)
+(program, childcare)
+(policy, drugs)
+(plan, renewable)
+(initiative, gender)"
+266,"
+
+Trigger1: decision (trigger1)
+Trigger2: split (trigger2)"
+267,"
+
+Trigger1: Entitles (trigger2: Buy)"
+268,"
+
+Trigger1: request
+Trigger2: removal"
+269,"
+
+Trigger1: resolution (Trigger2: end)"
+270,"
+
+Trigger1: (EU)
+Trigger2: (Euro)"
+271,"
+
+Trigger1: sanctions (Trigger2: annexation)
+Trigger1: involvement (Trigger2: conflict)"
+272,"
+
+(sanctions) (adopted)
+(tariffs) (protect)"
+273,"
+
+(Program) (Access)
+(Program) (Affordable)
+(Program) (Transportation)"
+274,"
+
+Trigger1: resolution (Trigger2: end)"
+275,"
+
+Trigger1 (Directive) Trigger2 (Ensure)
+Trigger1 (Resolution) Trigger2 (Impose)
+Trigger1 (Agreement) Trigger2 (Reduce)
+Trigger1 (Convention) Trigger2 (Promote)"
+276,"
+
+Trigger1: Entitles (trigger2: Buy)"
+277,"
+
+Trigger1: Agreement (trigger2: Reduce)"
+278,"
+
+Trigger1: (regulations)
+Trigger2: (ensure)"
+279,"
+
+Trigger1: resolution (Trigger2: end)"
+280,"
+
+Trigger1: sanctions (Trigger2: comply)"
+281,"
+
+Trigger1: IMF (International Monetary Fund)
+Trigger2: loan (package)"
+282,"
+
+Trigger1: initiative (Trigger2: financial)"
+283,"
+
+(policy) (provide)
+(resolution) (require)
+(resolution) (reduce)
+(resolution) (provide)"
+284,"
+
+Trigger1 (tax cuts)
+Trigger2 (infrastructure)"
+285,"
+
+(program) (help)
+(low-income) (provide)
+(home insurance) (provide)"
+286,"
+
+(tariffs, protect)
+(resolution, promote)
+(loan, recover)
+(loan, recover)"
+287,"
+
+Trigger1: condition
+Trigger2: embargo"
+288,"
+
+(Security Council) (Stopping)"
+289,"
+
+Trigger1: condition
+Trigger2: embargo"
+290,"
+
+(Security)
+(Action)"
+291,"
+
+Trigger1: condition
+Trigger2: event"
+292,"
+
+(Government)
+(Citizens)"
+293,"
+
+Trigger1: condition
+Trigger2: event"
+294,"
+
+Trigger1: Canadian
+Trigger2: Access"
+295,"
+
+Trigger1: condition
+Trigger2: event"
+296,"
+
+(United Nations)
+(international community)"
+297,"
+
+Trigger1: (government)
+Trigger2: (introducing)"
+298,"
+
+Trigger1 (programs)
+Trigger2 (access)"
+299,"
+
+(Condition)==Trigger1, (Event)==Trigger2
+(Establish)==Trigger1, (Provide)==Trigger2"
+300,"
+
+Trigger1: offering (Trigger2: subscribe)"
+301,"
+
+Trigger1: (Declared)
+Trigger2: (Emergency)"
+302,"
+
+Trigger1: Military (Trigger2: Success)"
+303,"
+
+Trigger1: embargo (trigger2: stop)"
+304,"
+
+Trigger1 (strategy)
+Trigger2 (promote)"
+305,"
+
+(support) (merger)
+(competition) (choice)"
+306,"
+
+Trigger1: legislation (Trigger2: protect)
+Trigger1: rights (Trigger2: ensure)"
+307,"
+
+Trigger1: policy (trigger2: reduce)"
+308,"
+
+Trigger1: United (Trigger2: end)"
+309,"
+
+Trigger1 (Initiative)
+Trigger2 (Promote)"
+310,"
+
+Trigger1: IMF (International Monetary Fund)
+Trigger2: Support"
+311,"
+
+3. (Regulations, Comply)
+4. (Resolution, End)
+5. (Sanctions, Aggression)
+6. (Sanctions, Abuses)
+7. (Resolution, Torture)"
+312,"
+
+(invest) (innovation)
+(invest) (reduce)
+(invest) (improve)"
+313,"
+
+(Arms embargo)==trigger1, (Civil war)==trigger2
+(Economic sanctions)==trigger1, (Annexation)==trigger2
+(Economic sanctions)==trigger1, (Nuclear program)==trigger2
+(Arms embargo)==trigger1, (Civil war)==trigger2
+(Economic sanctions)==trigger1, (Human rights abuses)==trigger2"
+314,"
+
+Trigger1: Initiative (trigger1)
+Trigger2: Access (trigger2)"
+315,"
+
+Trigger1: (Declared)
+Trigger2: (Emergency)"
+316,"
+
+Trigger1 (military): Trigger2 (seize)
+Trigger1 (diplomatic): Trigger2 (rejection)"
+317,"
+
+Trigger1: Raised (trigger2: Benchmark) 
+Trigger1: Improving (trigger2: Economy)"
+318,"
+
+Trigger1: Organization (trigger1)
+Trigger2: Strengthen (trigger2)"
+319,"
+
+(investing)==trigger1, (improve)==trigger2
+(investing)==trigger1, (stimulate)==trigger2
+(investing)==trigger1, (reduce)==trigger2
+(investing)==trigger1, (promote)==trigger2"
+320,"
+
+Trigger1: (program)
+Trigger2: (provide)"
+321,"
+
+(Congress, healthcare)
+(United Nations, combat)
+(African Union, fund)
+(International Monetary Fund, loan)"
+322,"
+
+(Resolution) (Ceasefire)"
+323,"
+
+Trigger1: resolution (Trigger2: end)"
+324,"
+
+Trigger1: resolution (Trigger2: end)"
+325,"
+
+Trigger1: resolution (Trigger2: end)"
+326,"
+
+Trigger1: Resolution (trigger1)
+Trigger2: Ceasefire (trigger2)"
+327,"
+
+Trigger1: sanctions (trigger2: annexation)"
+328,"
+
+Trigger1: (Funding)
+Trigger2: (Construction)"
+329,"
+
+Trigger1: (Declared)
+Trigger2: (Emergency)"
+330,"
+
+Trigger1: resolution (Trigger2: cessation)"
+331,"
+
+Trigger1: resolution (Trigger2: abuses)"
+332,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+333,"
+
+Trigger1: Resolution (trigger1)
+Trigger2: End (trigger2)"
+334,"
+
+Trigger1: (regulations)
+Trigger2: (ensure)"
+335,"
+
+Trigger1: (tax)
+Trigger2: (invest)"
+336,"
+
+Trigger1 (Policies)
+Trigger2 (Promote)"
+337,"
+
+Trigger1 (measures)
+Trigger2 (reduce)"
+338,"
+
+Trigger1: government (trigger2: introduce)"
+339,"
+
+Trigger1: resolution (Trigger2: protection) 
+Trigger1: promote (Trigger2: law)"
+340,"
+
+(Resolution) (Monitoring)"
+341,"
+
+(resolution) (accept)"
+342,"
+
+Trigger1 (resolution)
+Trigger2 (end)"
+343,"
+
+(Agreement) (Sign)"
+344,"
+
+(Initiative) (Reduce)"
+345,"
+
+Trigger1 (resolution)
+Trigger2 (promote)"
+346,"
+
+Trigger1 (Initiative)
+Trigger2 (Promote)"
+347,"
+
+(Loan) (Address)"
+348,"
+
+Trigger1 (program)
+Trigger2 (access)"
+349,"
+
+Trigger1: resolution (Trigger2: promote)"
+350,"
+
+(Regulations)==trigger1, (Protect)==trigger2 
+(Regulations)==trigger1, (Rights)==trigger2 
+(Regulations)==trigger1, (Workers)==trigger2"
+351,"
+
+(Loan) (Approve)
+(Resolution) (Adopt)
+(Campaign) (Launch)"
+352,"
+
+(Initiative,Promote)
+(Resolution,End)"
+353,"
+
+(ceasefire) (immediate)
+(end) (child)"
+354,"
+
+(child soldiers) (end)
+(torture) (end)
+(sexual violence) (end)
+(forced displacement) (end)"
+355,"
+
+(program, childcare)
+(program, transportation)
+(program, food)
+(program, medical care)"
+356,"
+
+(sanctions) (annexation)
+(resolution) (violence)
+(embargo) (nuclear)"
+357,"
+
+(Trade, Reduce)
+(Peace, Commit)
+(Loan, Reduce)
+(Loan, Stabilize)
+(Rights, Protect)
+(Equality, Empower)"
+358,"
+
+(investing, create)
+(education, ensure)
+(increasing, provide)
+(reduce, encourage)"
+359,"
+
+Trigger1: law (trigger2: provide)"
+360,"
+
+(resolution,chemical)
+(resolution,nuclear)
+(resolution,cluster)
+(resolution,landmines)
+(resolution,depleted)
+(resolution,biological)
+(resolution,torture)
+(resolution,child)
+(resolution,forced)"
+361,"
+
+Trigger1: sanctions (trigger2: aggression)"
+362,"
+
+(Initiative,Promote)
+(Program,Provide)
+(Fund,Access)
+(Policy,Ensure)
+(Program,Provide)
+(Fund,Access)
+(Initiative,Promote)"
+363,"
+
+(Infrastructure) (Invest)
+(Sanctions) (Impose)
+(Renewable) (Promote)
+(Child) (End)
+(Ceasefire) (Call)"
+364,"
+
+Trigger1: policy (Trigger2: promote)"
+365,"
+
+(resolution,sexual violence)
+(resolution,cluster munitions)
+(resolution,explosive weapons)
+(resolution,mass destruction)
+(resolution,nuclear weapons)"
+366,"
+
+(coalition) (provide)
+(coalition) (enforce)
+(coalition) (ensure)"
+367,"
+
+(Landmines) (End)
+(Cluster bombs) (End)
+(Chemical weapons) (End)
+(Nuclear weapons) (End)"
+368,"
+
+(law) (passed)
+(resolution) (passed)
+(directive) (adopted)"
+369,"
+
+(Policy) (Free Trade)"
+370,"
+
+(Tariffs) (Protect)"
+371,"
+
+(agreement) (facilitate)"
+372,"
+
+Trigger1 (Resolution)
+Trigger2 (Condemning)"
+373,"
+
+Trigger1 (sanctions)
+Trigger2 (conflict)"
+374,"
+
+Trigger1 (sanctions)
+Trigger2 (nuclear)"
+375,"
+
+Trigger1 (Resolution)
+Trigger2 (End)"
+376,"
+
+Trigger1: sanctions (Trigger2: annexation)"
+377,"
+
+Trigger1 (sanctions)
+Trigger2 (annexation)
+Trigger1 (resolution)
+Trigger2 (violence)"
+378,"
+
+(invest) (reduce)
+(research) (reduce)
+(invest) (promote)"
+379,"
+
+Trigger1 (investments) Trigger2 (infrastructure)
+Trigger1 (commit) Trigger2 (investing)
+Trigger1 (strategy) Trigger2 (create)
+Trigger1 (commit) Trigger2 (reducing)
+Trigger1 (providing) Trigger2 (incentives)"
+380,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+381,"
+
+(Condition) Established
+(Event) Providing"
+382,"
+
+(condition) 
+(event)"
+383,"
+
+Trigger1 (condition)
+Trigger2 (transitioning)"
+384,"
+
+(Condition) UN
+(Event) Ending"
+385,"
+
+Trigger1: condition
+Trigger2: event"
+386,"
+
+(Law) (Reduce)"
+387,"
+
+Trigger1 (sanctions)
+Trigger2 (interference)"
+388,"
+
+Trigger1: (Vote)
+Trigger2: (Leave)"
+389,"
+
+Trigger1 (Resolution)
+Trigger2 (Condemning)"
+390,"
+
+Trigger1 (strategy)
+Trigger2 (promote)"
+391,"
+
+Trigger1 (resolution)
+Trigger2 (promote)"
+392,"
+
+Trigger1 (resolution)
+Trigger2 (end)"
+393,"
+
+Trigger1 (resolution)
+Trigger2 (protect)"
+394,"
+
+Trigger1 (resolution)
+Trigger2 (promote)"
+395,"
+
+Trigger1: resolution (Trigger2: combat)"
+396,"
+
+(sanctions) (carbon)
+(peacekeeping) (climate)"
+397,"
+
+Trigger1: resolution (Trigger2: withdrawal)"
+398,"
+
+Trigger1: resolution (Trigger2: end)"
+399,"
+
+Trigger1 (reduce)
+Trigger2 (increase)"
+400,"
+
+Trigger1 (Minimum):
+Trigger2 (Opportunities):"
+401,"
+
+Trigger1 (investment)
+Trigger2 (education)
+Trigger3 (healthcare)"
+402,"
+
+Trigger1: (Proposed)
+Trigger2: (Pathway)"
+403,"
+
+Trigger1 (invest)
+Trigger2 (create)"
+404,"
+
+Trigger1 (pledge)
+Trigger2 (reduce)"
+405,"
+
+Trigger1 (Emissions)
+Trigger2 (Investing)"
+406,"
+
+Trigger1: Investment (trigger1)
+Trigger2: Create (trigger2)"
+407,"
+
+Trigger1: Agreement (trigger1)
+Trigger2: Markets (trigger2)"
+408,"
+
+(resolution, embargo)
+(bill, moratorium)
+(ban, Treaty)
+(moratorium, Treaty)
+(regulations, investing)
+(approval, acquire)"
+409,"
+
+7. (Embargo, Annexation)
+8. (Sanctions, Nuclear)
+9. (Sanctions, Abuses)
+10. (Embargo, War)"
+410,"
+
+(Renewable)
+(Reduce)
+(Fund)
+(Reduce)
+(Adapt)"
+411,"
+
+(Infrastructure) (Transportation)
+(Education) (Access)"
+412,"
+
+Trigger1: request
+Trigger2: removal"
+413,"
+
+(Disclosed) (Embargo)"
+414,"
+
+Trigger1: regulations (Trigger2: protect)"
+415,"
+
+Trigger1 (Regulations)
+Trigger2 (Protect)"
+416,"
+
+Trigger1: regulations (Trigger2: protect)"
+417,"
+
+Trigger1 (legislation)
+Trigger2 (protect)"
+418,"
+
+(Initiatives) (Promote)"
+419,"
+
+Trigger1 (subsidies)
+Trigger2 (support)"
+420,"
+
+Trigger1 (Merger)
+Trigger2 (Global)"
+421,"
+
+(ceasefire) (prevent)
+(regulations) (protect)"
+422,"
+
+(regulations, protect)
+(resolution, cooperate)
+(resolution, protect)
+(resolution, protect)
+(resolution, protect)
+(resolution, protect)"
+423,"
+
+(arms embargo) (prevent)
+(policy) (reduce)
+(executive order) (increase)
+(directive) (comply)
+(initiative) (promote)"
+424,"
+
+(Resolution) (Condemning)
+(Resolution) (Ceasefire)
+(Resolution) (End)"
+425,"
+
+(resolution, end)
+(resolution, incendiary)
+(resolution, explosive)
+(resolution, starvation)"
+426,"
+
+Trigger1 (Regulations)
+Trigger2 (Comply)"
+427,"
+
+Trigger1: Resolution (trigger1)
+Trigger2: Ceasefire (trigger2)"
+428,"
+
+(Resolution) (Ceasefire)
+(Resolution) (Chemical)
+(Resolution) (Landmines)
+(Resolution) (Cluster)
+(Resolution) (Child)"
+429,"
+
+17. (Resolution, End)
+18. (Resolution, Starvation)
+19. (Resolution, Exploitation)
+20. (Resolution, Sanctions)"
+430,"
+
+(Policy, Access)
+(Program, Tuition)
+(Fund, Water)
+(Initiative, Emissions)
+(Policy, Education)
+(Program, Aid)
+(Fund, Capital)"
+431,"
+
+(BASF,Hoechst)
+(Arms,Embargo)"
+432,"
+
+(Resolution) (End) 
+(Unanimously) (Conflict)"
+433,"
+
+(Sanctions, Annexation)
+(Sanctions, Nuclear)
+(Resolution, Conflict)
+(Resolution, Soldiers)"
+434,"
+
+Trigger1: Directive (trigger2: Renewable)"
+435,"
+
+Trigger1: Regulation (trigger2: Compliant)"
+436,"
+
+Trigger1: Directive (trigger2: Secure)"
+437,"
+
+Trigger1: Initiative (trigger1)
+Trigger2: Access (trigger2)"
+438,"
+
+Trigger1: program (trigger2: access)"
+439,"
+
+Trigger1: tariffs (Trigger2: protect)"
+440,"
+
+(policy) (inclusive)
+(invest) (quality)"
+441,"
+
+(program, tuition)
+(initiative, invest)
+(policy, reduce)
+(program, legal)
+(policy, increase)
+(program, childcare)
+(policy, reduce)
+(initiative, invest)"
+442,"
+
+Trigger1: resolution (Trigger2: end)"
+443,"
+
+Trigger1: policy (Trigger2: provide)"
+444,"
+
+Trigger1 (President)
+Trigger2 (Funding)"
+445,"
+
+Trigger1: law
+Trigger2: increase"
+446,"
+
+(sanctions)==trigger1, (nuclear)==trigger2
+(resolution)==trigger1, (chemical)==trigger2
+(sanctions)==trigger1, (chemical)==trigger2
+(resolution)==trigger1, (violence)==trigger2"
+447,"
+
+(resolution,provide)
+(sanctions,impose)
+(law,reduce)
+(mission,establish)
+(receptive,request)
+(relaxation,welcomed)
+(agreement,reduce)"
+448,"
+
+(resolution,chemical)
+(resolution,landmines)
+(resolution,biological)
+(resolution,torture)
+(resolution,child)"
+449,"
+
+Trigger1: resolution (Trigger2: end)"
+450,"
+
+(Resolution) (Ceasefire)
+(Resolution) (ChildSoldiers)"
+451,"
+
+(Policy, Access)
+(Program, Childcare)
+(Fund, Veterans)
+(Initiative, Poverty)
+(Policy, Healthcare)
+(Program, Training)
+(Fund, Businesses)"
+452,"
+
+(government)(sanctions)
+(leaving)(tariffs)
+(climate)(emergency)"
+453,"
+
+(Leaving) (Uncertainty)
+(Passed) (Rights)
+(Imposed) (Sanctions)"
+454,"
+
+(ceasefire)
+(peace)
+(treaty)
+(protection)"
+455,"
+
+(Program, Provide)
+(Initiative, Promote)"
+456,"
+
+Trigger1 (tax)
+Trigger2 (grants)"
+457,"
+
+2. (resolution, combat)
+3. (tariffs, protect)
+4. (legislation, reduce)
+5. (warning, reduce)
+6. (initiative, promote)
+7. (resolution, promote)
+8. (call, end)"
+458,"
+
+(President,sign)
+(Supreme,ruled)
+(United,adopted)"
+459,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+460,"
+
+Trigger1: (United)
+Trigger2: (passed)"
+461,"
+
+Trigger1: Initiative (trigger1)
+Trigger2: Security (trigger2)"
+462,"
+
+Trigger1: program (trigger2: provide)"
+463,"
+
+Trigger1: fund (Trigger2: access)"
+464,"
+
+Trigger1: policy (Trigger2: access)"
+465,"
+
+Trigger1: program (trigger2: provide)"
+466,"
+
+Trigger1: fund (Trigger2: access)"
+467,"
+
+Trigger1 (Initiative)
+Trigger2 (Promote)"
+468,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+469,"
+
+Trigger1: resolution (Trigger2: end)"
+470,"
+
+Trigger1: sanctions (Trigger2: use)"
+471,"
+
+Trigger1: Resolution (trigger1)
+Trigger2: End (trigger2)"
+472,"
+
+Trigger1: request
+Trigger2: removal"
+473,"
+
+(Sanctions)==trigger1, (Nuclear)==trigger2
+(Resolution)==trigger1, (Sanctions)==trigger2
+(Sanctions)==trigger1, (Nuclear)==trigger2"
+474,"
+
+(EU, reduce)
+(UN, ceasefire)
+(UN, fund)
+(ICC, arrest)
+(UN, condemn)
+(UN, investigate)
+(UN, embargo)
+(UN, end)"
+475,"
+
+(policy, incentives)
+(regulations, standards)
+(resolution, embargo)"
+476,"
+
+(Invest) (Healthcare)
+(Invest) (Research)
+(Invest) (Social)"
+477,"
+
+(Resolution, End)
+(Policy, Education)
+(Program, Healthcare)
+(Fund, Services)
+(Initiative, Poverty)
+(Policy, Housing)
+(Program, Training)
+(Fund, Capital)"
+478,"
+
+Trigger1: Unify (European Union)
+Trigger2: Create (Single Market)"
+479,"
+
+Trigger1: role (Trigger2: peace)
+Trigger1: diplomacy (Trigger2: conflicts)"
+480,"
+
+Trigger1 (democracy)
+Trigger2 (rights)"
+481,"
+
+Trigger1 (Influence)
+Trigger2 (Invested)"
+482,"
+
+Trigger1: Russia
+Trigger2: Influence"
+483,"
+
+Trigger1: resolution (Trigger2: end)"
+484,"
+
+(resolution)==trigger1, (end)==trigger2
+(resolution)==trigger1, (cluster)==trigger2
+(resolution)==trigger1, (nuclear)==trigger2
+(resolution)==trigger1, (explosive)==trigger2"
+485,"
+
+(Law) (Reduce)"
+486,"
+
+Trigger1 (Ceasefire)
+Trigger2 (Aid)"
+487,"
+
+(sanctions) (nuclear)"
+488,"
+
+(Congress) (increases)"
+489,"
+
+(Loan) (Stabilize)"
+490,"
+
+Trigger1 (Investment)
+Trigger2 (Infrastructure)"
+491,"
+
+(Resolution) (End)"
+492,"
+
+Trigger1 (Resolution)
+Trigger2 (End)"
+493,"
+
+Trigger1: resolution (Trigger2: end)"
+494,"
+
+(invest) (reduce poverty)
+(invest) (reduce pollution)
+(invest) (improve health)
+(invest) (promote heritage)"
+495,"
+
+(Resolution) (End)"
+496,"
+
+(resolution, establish)
+(fund, cope)
+(framework, promote)
+(taxation, ensure)
+(regulation, ensure)"
+497,"
+
+(regulations,transparent)
+(incentives,invest)
+(incentives,research)
+(regulations,secure)"
+498,"
+
+(resolution,torture),(resolution,death penalty),(resolution,child labor),(resolution,landmines),(resolution,cluster munitions),(resolution,chemical weapons),(resolution,sexual violence),(resolution,forced labor),(resolution,child soldiers),(resolution,gender-based violence)"
+499,"
+
+(Resolution,End)
+(Sanctions,Interference)
+(Resolution,Abuses)
+(Tariffs,Deficit)
+(Regulations,Standards)"
+500,"
+
+(Law) (Protect)
+(Resolution) (Promote)
+(Resolution) (Promote)
+(Resolution) (Promote)"
+501,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+502,"
+
+Trigger1 (policy)
+Trigger2 (reduce)"
+503,"
+
+(Program) (Provide)"
+504,"
+
+(bill) (increase)"
+505,"
+
+Trigger1 (initiative)
+Trigger2 (provide)"
+506,"
+
+(plan) (create)"
+507,"
+
+Trigger1 (program)
+Trigger2 (provide)"
+508,"
+
+Trigger1 (policy)
+Trigger2 (reduce)"
+509,"
+
+(sanctions) (Iran)
+(embargo) (South Sudan)"
+510,"
+
+Trigger1: (Committed)
+Trigger2: (Providing)"
+511,"
+
+Trigger1: sanctions (trigger2: pressure)"
+512,"
+
+Trigger1: ceasefire (Trigger2: negotiations)"
+513,"
+
+Trigger1: deployment (trigger2: mission)"
+514,"
+
+Trigger1: envoy
+Trigger2: facilitate"
+515,"
+
+Trigger1: (United)
+Trigger2: (Provided)"
+516,"
+
+Trigger1: violence (Trigger2: dialogue)"
+517,"
+
+Trigger1: conflict (Trigger2: respect)"
+518,"
+
+Trigger1: use (chemical weapons)
+Trigger2: investigate (alleged use)"
+519,"
+
+Trigger1: Conflict (trigger2: Negotiations)"
+520,"
+
+Trigger1: sanctions (Trigger2: sale)"
+521,"
+
+(ceasefire) (delivery)
+(bill) (aid)
+(resolution) (chemical)"
+522,"
+
+Trigger1 (resolution)
+Trigger2 (promote)"
+523,"
+
+Trigger1: resolution (Trigger2: protection)"
+524,"
+
+Trigger1: IMF (International Monetary Fund)
+Trigger2: Loan (Loan package)"
+525,"
+
+(sanctions, response)
+(resolution, chemical)
+(condition, aid)
+(condition, assistance)
+(condition, democracy)
+(condition, climate)
+(condition, cooperation)"
+526,"
+
+(regulations, protection)
+(laws, rights)
+(policies, equality)"
+527,"
+
+Trigger1 (Resolution) Trigger2 (Ceasefire)
+Trigger1 (Resolution) Trigger2 (Occupation)"
+528,"
+
+(Resolution) (Chemical weapons)
+(Resolution) (Landmines)
+(Resolution) (Torture)
+(Resolution) (Cluster munitions)
+(Resolution) (Child soldiers)"
+529,"
+
+Trigger1: UN
+Trigger2: removing"
+530,"
+
+(Initiative) (Promote)
+(End) (Child)"
+531,"
+
+(Sanctions) (Terrorism)
+(Resolution) (Rights)
+(Law) (Emissions)"
+532,"
+
+(resolution, end)
+(sanctions, actions)"
+533,"
+
+(role) (promoting)
+(sustainable) (reduce)
+(global) (foster)"
+534,"
+
+(Congress, fund)
+(United Nations, condemn)
+(United Nations, end)
+(United States, impose)
+(United Nations, end)
+(United Nations, end)
+(United Nations, end)
+(United Nations, end)"
+535,"
+
+Trigger1 (tax)
+Trigger2 (reduce)"
+536,"
+
+(Legislation) (Protect)"
+537,"
+
+(steps) (reduce)"
+538,"
+
+Trigger1 (policies)
+Trigger2 (promote)"
+539,"
+
+Trigger1: loan (Trigger2: address)"
+540,"
+
+Trigger1: offering (trigger2: purchase)"
+541,"
+
+Trigger1: offering
+Trigger2: purchase"
+542,"
+
+Trigger1: warrants (trigger2: invest)"
+543,"
+
+Trigger1 (Rights)
+Trigger2 (Opportunity)"
+544,"
+
+Trigger1: Offering (trigger2: Open) 
+Trigger1: Residing (trigger2: Except)"
+545,"
+
+Trigger1 (offering)
+Trigger2 (raise)"
+546,"
+
+Trigger1: offering (Trigger2: increase)"
+547,"
+
+Trigger1 (reward)
+Trigger2 (attract)"
+548,"
+
+(Resolution) (Increase)
+(Resolution) (End)
+(Resolution) (Increase)
+(Resolution) (Increase)"
+549,"
+
+(sanctions,nuclear)
+(directive,reduce)
+(tariffs,protect)
+(leave,uncertainty)
+(ceasefire,conflict)
+(loan,stabilize)
+(resolution,chemical)"
+550,"
+
+(support, competition)
+(support, consumer)"
+551,"
+
+Trigger1: (free)
+Trigger2: (open)"
+552,"
+
+Trigger1 (Integration)
+Trigger2 (Cooperation)"
+553,"
+
+Trigger1: promote (economic growth)
+Trigger2: reduce (poverty)"
+554,"
+
+Trigger1 (promote)
+Trigger2 (reduction)"
+555,"
+
+Trigger1 (IMF)
+Trigger2 (stability)"
+556,"
+
+Trigger1: promote (Trigger2: free)
+Trigger1: reduce (Trigger2: barriers)"
+557,"
+
+Trigger1: peace (Trigger2: security)
+Trigger1: resolve (Trigger2: conflicts)"
+558,"
+
+(directive, reduce)
+(resolution, promote)
+(resolution, end)
+(resolution, promote)
+(resolution, promote)
+(resolution, promote)
+(resolution, promote)"
+559,"
+
+(resolution) (action)
+(agreement) (promote)
+(protocol) (promote)
+(framework) (promote)"
+560,"
+
+(Child soldiers)==trigger1, (End)==trigger2
+(Landmines)==trigger1, (End)==trigger2
+(Torture)==trigger1, (End)==trigger2
+(Cluster munitions)==trigger1, (End)==trigger2
+(Nuclear weapons)==trigger1, (End)==trigger2"
+561,"
+
+(Tax, Stimulate)
+(Regulatory, Promote)
+(Labor, Improve)
+(Environmental, Protect)"
+562,"
+
+(Infrastructure) (Transportation)
+(Economic) (Jobs)
+(Security) (Protect)
+(Diplomatic) (Peace)"
+563,"
+
+Trigger1 (member states)
+Trigger2 (free movement)
+Trigger1 (resolution)
+Trigger2 (arms embargo)"
+564,"
+
+3. (Resolution)(Promote)
+4. (Agreement)(Reduce)
+5. (Committed)(Net)
+6. (Strategy)(Increase)
+7. (Plan)(Phase)
+8. (Called)(Invest)"
+565,"
+
+(Resolution) (End)
+(Chemical) (Focus)
+(Biological) (Focus)"
+566,"
+
+Trigger1: loan (Trigger2: reduce)
+Trigger1: package (Trigger2: promote)"
+567,"
+
+(policy, reduce)
+(tax, stimulate)"
+568,"
+
+(directive, safety)
+(loan, stabilize)
+(loan, finance)
+(resolution, healthcare)
+(agreement, tariffs)"
+569,"
+
+(Integration, Euro)
+(Free, Trade)
+(Chemical, Weapons)
+(Austerity, Debt)"
+570,"
+
+Proposed (trigger1) Reduce (trigger2)
+Passed (trigger1) Provide (trigger2)
+Passed (trigger1) Increase (trigger2)
+Ruled (trigger1) Constitutional (trigger2)
+Adopted (trigger1) End (trigger2)
+Imposed (trigger1) Sanctions (trigger2)
+Passed (trigger1) Condemning (trigger2)
+Extended (trigger1) Review (trigger2)"
+571,"
+
+(policy) (incentives)"
+572,"
+
+(Tax plan) (Reduce taxes)
+(Wealthiest) (Increase taxes)"
+573,"
+
+(Funding) (Infrastructure)"
+574,"
+
+(resolution) (increase)"
+575,"
+
+Trigger1: Supreme 
+Trigger2: Ruled"
+576,"
+
+(Resolution) (End)"
+577,"
+
+Trigger1 (sanctions)
+Trigger2 (Russia)"
+578,"
+
+Trigger1: Resolution (Trigger2: Condemning)"
+579,"
+
+11. (measures, rights)
+12. (ceasefire, delivery)
+13. (tariffs, deficit)
+14. (resolution, abuses)"
+580,"
+
+10. (presence, increase)
+11. (influence, involved)
+12. (presence, involved)
+13. (influence, involved)
+14. (presence, involved)"
+581,"
+
+(Regulations, Comply)
+(Resolution, End)
+(Sanctions, Aggression)
+(Ban, Cluster)
+(Resolution, End)"
+582,"
+
+(Directive,Promote)
+(Initiative,Promote)
+(Agreement,Reduce)"
+583,"
+
+(United Nations, end)
+(United States, sanctions)
+(United Nations, landmines)"
+584,"
+
+(Policy,Engagement)
+(Airstrikes,Degrade)
+(Mission,Facilitate)
+(Deal,Limit)"
+585,"
+
+(environment) (protect)
+(educational) (improve)"
+586,"
+
+(resolution,end)
+(resolution,education)
+(resolution,fossil)
+(resolution,housing)
+(resolution,torture)"
+587,"
+
+(sanctions,pressure)
+(tariffs,protect)
+(directive,promote)
+(initiative,develop)"
+588,"
+
+(Resolution) (End) 
+(Resolution) (Landmines) 
+(Resolution) (Chemical) 
+(Resolution) (Torture) 
+(Resolution) (Child)"
+589,"
+
+(Gender) (Equality)"
+590,"
+
+(resolution) (promote)"
+591,"
+
+Trigger1 (economic)
+Trigger2 (reduce)"
+592,"
+
+(resolution) (promote)"
+593,"
+
+Trigger1: (Free)
+Trigger2: (Reduce)"
+594,"
+
+Trigger1: resolution (Trigger2: end)"
+595,"
+
+Trigger1: violence (Trigger2: solution)"
+596,"
+
+Trigger1: tariffs
+Trigger2: protect"
+597,"
+
+Trigger1: Vote
+Trigger2: Leave"
+598,"
+
+Trigger1: Talks (United States and North Korea)
+Trigger2: Reduce (tensions)"
+599,"
+
+Trigger1: resolution (Trigger2: abuses)"
+600,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+601,"
+
+Trigger1: United
+Trigger2: broker"
+602,"
+
+Trigger1: sanctions (Trigger2: annexation)"
+603,"
+
+(negotiating) (Brexit)"
+604,"
+
+Trigger1 (Tariffs)
+Trigger2 (Imposing)"
+605,"
+
+Trigger1: Working (trigger1)
+Trigger2: Rise (trigger2)"
+606,"
+
+Trigger1: (Pushing)
+Trigger2: (Progress)"
+607,"
+
+(subsidies) (promote)
+(subsidies) (reduce)
+(subsidies) (create)"
+608,"
+
+Trigger1: government
+Trigger2: invest"
+609,"
+
+2. (Sanctions)(Annexation)
+3. (Tariffs)(Markets)
+4. (Leave)(Uncertainty)
+5. (Resolution)(Program)
+6. (Agreement)(Sanctions)
+7. (Resolution)(Soldiers)
+8. (Relations)(Estrangement)
+9. (Resolution)(Treatment)
+10. (Resolution)(Remnants)
+11. (Loan)(Economies)"
+610,"
+
+Trigger1: United (Trigger2: establish) 
+Trigger1: crimes (Trigger2: prosecute)"
+611,"
+
+(Policy) (Reduce)"
+612,"
+
+(Resolution) (Condemning)"
+613,"
+
+Trigger1 (sanctions)
+Trigger2 (annexation)"
+614,"
+
+(Resolution) (End)"
+615,"
+
+(Resolution) (End)"
+616,"
+
+Trigger1 (Resolution)
+Trigger2 (End)"
+617,"
+
+Trigger1 (Resolution)
+Trigger2 (End)"
+618,"
+
+Trigger1: resolution
+Trigger2: end"
+619,"
+
+Trigger1: Date (Dow Jones has extended the expiration date)
+Trigger2: Consider (allow shareholders more time to consider)"
+620,"
+
+Trigger1: offering (Trigger2: subscribe)"
+621,"
+
+Trigger1: Offer (Dow Jones)
+Trigger2: Review (shareholders)"
+622,"
+
+Trigger1: resolution (Trigger2: end)"
+623,"
+
+Trigger1: resolution (Trigger2: end)"
+624,"
+
+Trigger1: resolution (Trigger2: end)"
+625,"
+
+Trigger1: Resolution (trigger1)
+Trigger2: Starvation (trigger2)"
+626,"
+
+Trigger1: Organization (trigger1)
+Trigger2: Strengthen (trigger2)"
+627,"
+
+(impose,actions)
+(mediate,conflict)
+(call,violence)
+(provide,coalition)
+(call,violence)
+(impose,program)
+(mediate,dispute)
+(call,violence)"
+628,"
+
+(Agree, Reduce)
+(Condemn, Torture)
+(Ceasefire, Conflict)
+(End, Child)
+(End, Landmines)
+(End, Cluster)
+(End, Incendiary)"
+629,"
+
+(policy, reduce)
+(law, reduce)"
+630,"
+
+Trigger1 (tariffs)
+Trigger2 (protect)"
+631,"
+
+Trigger1 (law)
+Trigger2 (increase)"
+632,"
+
+Trigger1 (law)
+Trigger2 (reduce)"
+633,"
+
+Trigger1 (resolution)
+Trigger2 (end)"
+634,"
+
+Trigger1 (law)
+Trigger2 (protect)"
+635,"
+
+Trigger1: resolution (Trigger2: combat)"
+636,"
+
+Trigger1: elected (trigger2: era)"
+637,"
+
+Trigger1: resolution (Trigger2: combat)"
+638,"
+
+Trigger1 (law)
+Trigger2 (protect)"
+639,"
+
+Trigger1: Initiative (trigger2: Promote)"
+640,"
+
+Trigger1: G20 (trigger2: agreed)"
+641,"
+
+Trigger1: (Loan)
+Trigger2: (Help)"
+642,"
+
+Trigger1: IMF (International Monetary Fund)
+Trigger2: Assistance (Financial Assistance)"
+643,"
+
+(create, unified)
+(create, security)
+(create, foreign)
+(create, energy)"
+644,"
+
+(sanctions) (Iran)
+(tax incentives) (research)
+(resolution) (chemical weapons)
+(subsidies) (green energy)
+(resolution) (human rights)"
+645,"
+
+15. (Policy)(Promote)
+20. (Legislation)(Protect)
+25. (System)(Reduce)"
+646,"
+
+(Loan)==trigger1, (Address)==trigger2
+(Resolution)==trigger1, (End)==trigger2
+(Resolution)==trigger1, (End)==trigger2"
+647,"
+
+Trigger1: ceasefire (Trigger2: conflict)"
+648,"
+
+Trigger1: sanctions (Trigger2: annexation)"
+649,"
+
+Trigger1: coup (Trigger2: democracy)"
+650,"
+
+Trigger1: Urged (Trigger2: Respect)
+Trigger1: Restore (Trigger2: Democracy)"
+651,"
+
+Trigger1 (Arms)
+Trigger2 (Embargo)"
+652,"
+
+(law) (equality)
+(loan) (campaign)"
+653,"
+
+Trigger1: sanctions (trigger2: annexation)"
+654,"
+
+Trigger1: tariffs (trigger2: reduce)"
+655,"
+
+Trigger1: UN (United Nations)
+Trigger2: end (end to the civil war)"
+656,"
+
+Trigger1: resolution (Trigger2: abuses)"
+657,"
+
+Trigger1: (UN)
+Trigger2: (action)"
+658,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+659,"
+
+Trigger1: Conflict (trigger2: End)"
+660,"
+
+Trigger1: violence (Trigger2: end)"
+661,"
+
+Trigger1: occupation
+Trigger2: end"
+662,"
+
+Trigger1: condition
+Trigger2: event"
+663,"
+
+Trigger1: sanctions (Trigger2: nuclear)"
+664,"
+
+(Elected, President)
+(Adopted, Agreement)
+(Triggered, Article)"
+665,"
+
+(Infrastructure) (Transportation)
+(Educational) (Access)"
+666,"
+
+(Sanctions,Russia)
+(Emergency,Temperatures)
+(Tariffs,Chinese)
+(Leave,European)
+(Agreement,Greenhouse)
+(Withdraw,Iran)
+(Resolution,Syria)
+(Sanctions,North)"
+667,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+668,"
+
+(Decision) (Obstacle)"
+669,"
+
+Trigger1: request
+Trigger2: removal"
+670,"
+
+Trigger1: announcement (trigger1)
+Trigger2: reactions (trigger2)"
+671,"
+
+Trigger1: offering (Trigger2: subscribe)"
+672,"
+
+Trigger1: Decision (trigger1)
+Trigger2: Decline (trigger2)"
+673,"
+
+(Infrastructure) (Improve)
+(Renewable) (Reduce)
+(Education) (Improve)"
+674,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+675,"
+
+(Policy) (Require)"
+676,"
+
+(resolution) (provide)"
+677,"
+
+Trigger1: resolution (Trigger2: access)"
+678,"
+
+(policy) (providing)
+(program) (prosecuting)
+(fund) (providing)
+(initiative) (providing)"
+679,"
+
+(Resolution,Chemical)
+(Resolution,Cluster)
+(Resolution,Nuclear)
+(Resolution,Biological)"
+680,"
+
+Trigger1: sanctions (Trigger2: violations)"
+681,"
+
+Trigger1 (resolution)
+Trigger2 (promote)"
+682,"
+
+(Law, Reduce)
+(Resolution, End)
+(Sanctions, Nuclear)
+(Law, Reduce)
+(Resolution, End)"
+683,"
+
+(Resolution, Condemning)
+(Sanctions, Impose)
+(Resolution, Calling)
+(Emergency, Declare)
+(Initiative, Provide)"
+684,"
+
+(Policy) (Ensure)
+(Program) (Provide)
+(Fund) (Access)
+(Initiative) (Promote)"
+685,"
+
+(resolution, armed forces)
+(resolution, economic policies)
+(resolution, environmental policies)
+(resolution, human rights policies)
+(resolution, trade policies)
+(resolution, labor policies)"
+686,"
+
+(workers,protect)
+(indigenous,protect)
+(poverty,promote)
+(stabilize,loan)
+(equality,empower)"
+687,"
+
+Trigger1 (plans)
+Trigger2 (invest)"
+688,"
+
+(trade deal) (reduce tariffs)
+(resolution) (end use)"
+689,"
+
+(Infrastructure) (Improve)
+(Education) (Ensure)"
+690,"
+
+Trigger1: shareholders (Trigger2: dividend)"
+691,"
+
+Trigger1 (tax)
+Trigger2 (stimulate)"
+692,"
+
+Trigger1: resolution (Trigger2: abuses)"
+693,"
+
+Trigger1 (Monetary)
+Trigger2 (Combat)"
+694,"
+
+Trigger1: tariffs (Trigger2: protect)"
+695,"
+
+Trigger1: (Loan)
+Trigger2: (Stabilize)"
+696,"
+
+Trigger1: Subsidies (trigger2: Illegal)"
+697,"
+
+(resolution) (end)
+(campaign) (raise)"
+698,"
+
+(invest) (improve)
+(invest) (reduce)
+(invest) (reduce)"
+699,"
+
+(resolution) (promote)
+(loan) (reduce)"
+700,"
+
+Trigger1: offering (trigger2: subscribe)
+2. The company said the new plant will produce a variety of products, including automotive parts and components.
+
+Trigger1: plant (trigger2: produce)"
+701,"
+
+Trigger1: Resolution (trigger2: End)"
+702,"
+
+Trigger1 (moves)
+Trigger2 (focus)"
+703,"
+
+Trigger1: Directive (trigger2: Secure)"
+704,"
+
+(Invest) (Reduce)"
+705,"
+
+(Research)
+(Development)"
+706,"
+
+Trigger1 (invest)
+Trigger2 (promote)"
+707,"
+
+Trigger1: sanctions (Trigger2: actions)"
+708,"
+
+Trigger1: Unanimously (Trigger2: Adopted)"
+709,"
+
+Trigger1: tariffs (Trigger2: protect)"
+710,"
+
+Trigger1: deficit (Trigger2: reduced)"
+711,"
+
+(Sanctions)==trigger1, (Annexation)==trigger2
+(Condemning)==trigger1, (Chemical)==trigger2
+(Resolution)==trigger1, (Landmines)==trigger2
+(Resolution)==trigger1, (Cluster)==trigger2"
+712,"
+
+(resolution,trade)
+(resolution,human rights)
+(resolution,labor)
+(resolution,security)"
+713,"
+
+(law) (combat)
+(warrant) (reduce)
+(fund) (provide)"
+714,"
+
+(Ceasefire,Facilitate)
+(Policy,Reduce)
+(Order,Protect)
+(Ruled,Constitutional)
+(Resolution,Chemical)
+(Tariffs,Protect)
+(Law,Privacy)
+(End,Violence)"
+715,"
+
+(Resolution) (End)
+(Resolution) (Chemical)
+(Resolution) (Violence)
+(Resolution) (Abuses)
+(Resolution) (Occupation)"
+716,"
+
+Tax incentives (trigger1)==Encourage (trigger2)
+Reforms (trigger1)==Easier (trigger2)
+Standards (trigger1)==Accountable (trigger2)
+Policies (trigger1)==Manage (trigger2)
+Goals (trigger1)==Reduce (trigger2)
+Regulations (trigger1)==Maintained (trigger2)
+Rules (trigger1)==Fairly (trigger2)"
+717,"
+
+(sanctions,development)
+(condemning,abuses)
+(ban,travel)
+(end,conflict)
+(protection,disabilities)
+(protection,LGBTI)"
+718,"
+
+Trigger1 (tariffs)
+Trigger2 (reduce)
+
+Trigger1 (legislation)
+Trigger2 (protect)
+
+Trigger1 (resolution)
+Trigger2 (promote)
+
+Trigger1 (fund)
+Trigger2 (support)"

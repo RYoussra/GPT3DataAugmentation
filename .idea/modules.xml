@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FineTuning_text_classification/.idea/FineTuning_text_classification.iml" filepath="$PROJECT_DIR$/../FineTuning_text_classification/.idea/FineTuning_text_classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GPT3DataAugmentation.iml" filepath="$PROJECT_DIR$/.idea/GPT3DataAugmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prompts_based_data_augmentation/.idea/prompts_based_data_augmentation.iml" filepath="$PROJECT_DIR$/../prompts_based_data_augmentation/.idea/prompts_based_data_augmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" filepath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" />
+    </modules>
+  </component>
+</project>
