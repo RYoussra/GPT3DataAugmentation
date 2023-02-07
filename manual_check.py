@@ -5,9 +5,10 @@ correct_trigger1=0
 correct_trigger2=0
 correct_Sentenecs=0
 
-for idx, row in enables.iloc[:2].iterrows():
+for idx, row in enables.iloc[:601].iterrows():
 
 
+        print('line number :',idx)
         print(row['sentence'])
         print(row['trigger1'])
         print(row['trigger2'])
@@ -28,8 +29,13 @@ for idx, row in enables.iloc[:2].iterrows():
                 correct2=row['trigger2']
                 correct_trigger2 += 1
             else:
-                correct2=input('correct please')
+                correct2=input('correct please trigger2')
             correct_ones.append([row['sentence'],correct1,correct2])
+            df = pd.DataFrame(correct_ones)
+            df.columns = ['sentence', 'trigger1', 'trigger2']
+            df.to_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/enable_manually_checked_dataset.csv')
+
+
 
 
 
