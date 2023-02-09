@@ -1,5 +1,27 @@
 import pandas as pd
-enables=pd.read_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/enabling_clean.csv')
+import re
+enables=pd.read_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/intention_clean.csv')
+# enables=enables.drop_duplicates()
+# print(enables.sentence.values)
+# new=[]
+# for idx, row in enables.iterrows():
+#     new.append([re.sub('^[,\s]*','',row['sentence']),row['trigger1'],row['trigger2']])
+#
+# df = pd.DataFrame(new)
+# df.columns = ['sentence', 'trigger1', 'trigger2']
+# df=df.drop_duplicates()
+# print(df)
+# df.to_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/enables_manually_checked_dataset.csv')
+
+# enable=enables.drop(enables[enables["sentence"].str.contains("to protect the rights")].index)
+# enable.loc[enable['sentence'].str.contains("The government has implemented a series of laws to prevent the exploitation of natural resources."), 'trigger2'] = 'developing'
+# enable.loc[enable['sentence'].str.contains("The government has implemented a series of laws to prevent the exploitation of natural resources."), 'trigger1'] = 'laws'
+# enable.loc[enable['sentence'].str.contains("The government has implemented a series of laws to prevent the illegal trade of hazardous materials"), 'trigger2'] = 'illegal trade'
+# enable.loc[enable['sentence'].str.contains("The government has implemented a series of laws to prevent the illegal trade of hazardous materials"), 'trigger1'] = 'laws'
+# print(enable)
+
+# enable.to_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/prevention1_manually_checked_dataset.csv')
+
 correct_ones=[]
 correct_trigger1=0
 correct_trigger2=0
@@ -33,7 +55,7 @@ for idx, row in enables.iloc[:601].iterrows():
             correct_ones.append([row['sentence'],correct1,correct2])
             df = pd.DataFrame(correct_ones)
             df.columns = ['sentence', 'trigger1', 'trigger2']
-            df.to_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/enable_manually_checked_dataset.csv')
+            df.to_csv('/Users/youssrarebboud/PycharmProjects/GPT3DataAugmentation/generated_dataset/intention_manually_checked_dataset.csv')
 
 
 

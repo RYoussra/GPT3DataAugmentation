@@ -1,0 +1,468 @@
+,sentence,trigger1,trigger2
+0,Each right entitles the shareholder to buy $100 face amount of 5% bonds due 1993 and warrants to buy 5 common shares at 30 cents a share.,right,buy
+1,"The White House yesterday disclosed that Kuwait's ousted government has formally asked the U.S. to enforce the total trade embargo the United Nations has imposed on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",enforce,stopping
+2,"Prime Minister Margaret Thatcher might, however, be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal to let GM amass more than 15% or mount a friendly suitor bid against Ford.",request, remove
+3,"Canada's largest department store operator said the rights offering will entitle holders of its ordinary shares, except residents in the U.S. and Britain, to subscribe for two additional shares for every five shares held at a price of C$25 a share.",offering,subscribe
+4,DD Acquisition said the extension is to allow this process to be completed.,extension,completed
+6,"The government of Prime Minister Brian Mulroney has been under pressure to reduce the deficit, which is expected to reach C$30 billion this year.",pressure,reduce
+7,The proceeds of the offering will be used to reduce the company's debt and to fund its expansion plans.,proceeds,reduce
+8,"The company has also announced that it will be launching a new loyalty program for its customers, which will offer rewards and discounts for frequent shoppers.",loyalty,rewards
+9,The company has also announced that it will be investing in new technology to improve customer service and increase efficiency.,technology,improve
+10,The company has also announced that it will be investing in new marketing initiatives to increase brand awareness and customer loyalty.,marketing,increase
+11,The company has also announced that it will be investing in research and development to create new products and services.,research,create
+12,The company has also announced that it will be investing in new training programs to ensure that its employees are up to date with the latest industry trends.,training,ensure
+13,The U.S. Senate yesterday approved a bill that would impose a three-year moratorium on the importation of certain products from countries that have not signed the Nuclear Non-Proliferation Treaty.,approved,moratorium
+14,"The United Nations Security Council yesterday unanimously approved a resolution that would impose a total trade embargo on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",embargo,stopping
+15,The Canadian government has announced new regulations to ensure that foreign investors are subject to the same rules as domestic investors when it comes to investing in the country's stock markets.,regulations, ensure
+16,The Canadian government has announced a new tax credit for small businesses to help them offset the costs of hiring new employees.,tax, offset
+17,The Canadian government has announced a new program to help low-income families access affordable housing.,program, access
+18,The Canadian government has announced a new initiative to help Indigenous communities access clean drinking water.,initiative, access
+19,The Canadian government has announced a new plan to reduce greenhouse gas emissions and combat climate change.,plan, reduce
+20,The Canadian government has announced a new policy to ensure that all Canadians have access to high-quality health care.,policy, access
+21,The Canadian government has announced a new program to help young people gain access to post-secondary education.,program, access
+22,The government has also announced plans to invest in renewable energy sources to reduce the country's reliance on fossil fuels.,invest,reduce
+23,The government has also announced plans to invest in education and training programs to ensure that the country's workforce is equipped with the skills needed to compete in the global economy.,invest,compete
+24,"The initiative will provide financial assistance to low-income families and individuals, as well as access to education and job training programs.",initiative,assistance
+25,The government has also announced that it will be investing in infrastructure projects to improve transportation and communication networks.,investing,improve
+26,The government has also announced that it will be investing in renewable energy sources to reduce the country's reliance on fossil fuels.,investing,reduce
+27,The government has also announced that it will be investing in research and development to create new technologies and products.,investing,create
+28,The government has also announced that it will be investing in new programs to promote economic growth and job creation.,investing,promote
+29,The government has also announced plans to introduce a new tax on luxury goods to help fund public services.,plans,fund
+32,"The United Nations Security Council yesterday unanimously approved a resolution that would impose a total trade embargo on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",embargo,stop
+33,The company has also announced that it will be investing in new infrastructure projects to improve the quality of life in the local community.,investing,improve
+34,The company has also announced that it will be investing in new environmental initiatives to reduce its carbon footprint.,investing,reduce
+35,The company has also announced that it will be investing in new educational programs to help its employees develop their skills and knowledge.,investing,develop
+36,The company has also announced that it will be investing in new social programs to support the local community.,investing,support
+37,The government has also announced that it will be investing in new renewable energy sources to reduce its reliance on fossil fuels.,investing,reduce
+38,The government has also announced that it will be investing in new public transportation systems to reduce traffic congestion.,investing,reduce
+39,The government has also announced that it will be investing in new healthcare initiatives to improve access to quality healthcare.,investing,improve access
+40,The government has also announced that it will be investing in new housing initiatives to provide affordable housing for low-income families.,investing, housing
+41,"The U.S. government yesterday announced that it will impose a total trade embargo on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",embargo,stopping
+42,"The European Union yesterday announced that it will impose a total trade embargo on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",embargo,stopping
+43,The European Union has passed a new law to reduce carbon emissions by 40% by ,law,reduce
+44,The government has also announced plans to invest in social welfare programs to ensure that all citizens have access to basic services and support.,invest,acess
+45,The government has also announced plans to invest in environmental protection initiatives to reduce pollution and protect natural resources.,invest,reduce pollution 
+46,The government has also announced plans to invest in public health initiatives to improve the health and wellbeing of citizens.,invest,improve the health
+47,The government has also announced plans to invest in cultural and heritage projects to preserve the country's history and promote its cultural identity.,invest,preserve the country's heritage
+48,The United Nations has declared a new resolution to end the conflict in the Middle East.,resolution,end 
+49,The European Union has passed a new law to reduce carbon emissions and combat climate change.,law,reduce
+50,The United States Congress has passed a new bill to provide healthcare to all citizens.,bill,provide
+51,The United Nations has passed a resolution calling for an end to the conflict in Syria.,resolution,end
+52,The United Nations has also passed a resolution condemning the use of chemical weapons in Syria.,resolution,condemning
+53,The United States has imposed new tariffs on Chinese imports in an effort to reduce the trade deficit.,tariffs,reduce
+54,The European Union has agreed to a new climate change agreement that will reduce greenhouse gas emissions.,agreement,reduce
+55,The United Nations has passed a resolution calling for an end to the use of landmines in conflict zones.,resolution,end
+56,"The European Commission has also proposed that the European Union should impose a ban on the import of products from Iraq, in order to enforce the UN embargo.",ban,enforce the UN embargo 
+57,The United States Senate has passed a resolution calling for the immediate lifting of the economic sanctions imposed on Cuba by the United States.,resolution, lifting
+58,The company said the proceeds of the offering will be used to reduce its debt and to fund its expansion plans.,proceeds,reduce
+59,"The United Nations Security Council yesterday unanimously approved a resolution that would impose a total trade embargo on North Korea, allowing the U.S. and other nations to immediately begin stopping ships carrying North Korean goods.",approved a redolution,impose 
+60,The U.S. Senate yesterday approved a bill that would impose a three-year moratorium on the importation of certain products from countries that have not signed the Nuclear Non-Proliferation Treaty.,approved a bill,impose
+61,But even continued military success carries political and diplomatic risks for President Bush and the U.S.,success, risks
+62,The allied rejection of the last-minute Soviet-led diplomatic effort to avoid the ground war enabled Mr. Bush to seize the initiative from an Iraq seemingly bent on dictating peace terms.,rejection,seize
+63,The government has also announced that it will be introducing new legislation to protect the environment and promote sustainable development.,legislation, protect
+64,The government has also announced that it will be introducing new initiatives to promote renewable energy sources and reduce dependence on fossil fuels.,initiatives, promote
+65,The government has also announced that it will be introducing new subsidies to support research and development in the field of clean energy.,subsidies, support
+66,Prime Minister Margaret Thatcher might be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal to let GM amass more than 15% or mount a hostile takeover bid against Ford.,request,amass
+67,"Prime Minister Margaret Thatcher might be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal to let GM amass more than 15% or mount a hostile takeover bid against Ford, while also providing financial incentives to Jaguar shareholders.",receptive, takeover
+68,The government has also announced plans to invest in research and development initiatives to promote innovation and technological advancement.,invest, innovation
+69,The government has also announced plans to invest in economic development programs to create jobs and stimulate economic growth.,invest,create jobs and stimulate economic growth 
+70,"Prime Minister Margaret Thatcher might, however, be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal to let GM amass more than 15% or mount a friendly suitor bid against Ford.",request,mount
+71,The European Union has passed a new law that requires all member states to reduce their carbon emissions by 30% by ,law,reduce
+72,"Prime Minister Margaret Thatcher might have been willing to consider any request from Jaguar Chairman Sir John Egan to lift the restrictions early, allowing General Motors to acquire more than 15% or launch a friendly takeover bid against Ford.",request, lift
+73,"The White House revealed yesterday that the deposed Kuwaiti government had formally requested the U.S. to enforce the full trade embargo imposed by the United Nations on Iraq, allowing the U.S. and other countries to start blocking ships carrying Iraqi goods immediately.",request,blocking
+74,"The European Union yesterday announced a new set of sanctions against Russia, including a ban on the import of certain goods and services from the country.",sanctions,ban
+75,"The United States Congress has passed a bill that will provide $2 billion in funding for renewable energy research and development.,",bill,funding
+76,The United Nations has adopted a resolution that calls for an end to the use of child soldiers in armed conflicts around the world.,resolution,end
+77,The European Union has announced a new initiative to promote economic integration and cooperation between member states.,initiative,integration
+78,The European Union has agreed to a new trade agreement that will reduce tariffs and other barriers to trade between member countries.,agreement,reduce
+79,The Canadian government has announced a new policy to increase the number of immigrants allowed into the country each year.,policy,increase
+80,The proceeds of the offering will be used to reduce the company's long-term debt and to finance capital expenditures.,offering,"reduce
+"
+81,"The African Union has agreed to a new treaty that will promote economic cooperation between member countries., ",treaty,cooperation
+82,The Canadian government has committed to increasing the minimum wage to ensure that all Canadians can earn a living wage.,committed,earn
+83,The Canadian government has implemented a new tax credit to help low-income families pay for childcare.,implemented,help
+84,The Canadian government has introduced a new policy to ensure that all Canadians have access to quality healthcare.,introduced,access
+85,The Canadian government has implemented a new program to provide free tuition for post-secondary education for low-income students.,implemented,provide
+86,The Canadian government has created a new fund to help Indigenous communities access clean drinking water.,created,access
+87,The Canadian government has launched a new initiative to help reduce greenhouse gas emissions and combat climate change.,launched,reduce
+88,The Canadian government has introduced a new policy to ensure that all Canadians have access to quality education.,introduced,access
+89,The Canadian government has implemented a new program to provide free legal aid to low-income individuals.,implemented,provide free legal aid
+90,The Canadian government has created a new fund to help small businesses access capital and resources.,created,access
+91,"The African Union has committed to the implementation of the African Continental Free Trade Area, which will create a single market for goods and services across the continent.",committed, create
+92,The United Nations Security Council has unanimously adopted a resolution calling for an immediate ceasefire in the conflict between Israel and Palestine.,resolution, ceasefire
+93,The United Nations Security Council has also adopted a resolution calling for the establishment of a monitoring mission to ensure compliance with the ceasefire.,resolution,ensure compliance
+94,"The United Nations Security Council has also adopted a resolution calling for the establishment of a monitoring mission to ensure compliance with the ceasefire, and to facilitate the delivery of humanitarian aid to affected areas.",resolution,facilitate 
+95,The United Nations has adopted a resolution calling on all countries to take action to reduce global warming and its effects on the environment.,resolution,reduce
+96,The government has also announced that it will be introducing new regulations to ensure the safety and security of the financial system.,regulations, safety
+97,The government has also announced that it will be introducing new tax incentives to encourage businesses to invest in research and development.,tax incentives, invest
+98,The government has also announced that it will be introducing new policies to promote innovation and entrepreneurship.,policies, promote
+99,The government has also announced that it will be introducing new measures to reduce poverty and inequality.,measures, reduce
+100,The government has also announced that it will be introducing new programs to support small businesses and entrepreneurs.,programs, support
+101,The United Nations has adopted a new treaty that will require all countries to reduce their emissions of greenhouse gases.,treaty,reduce
+102,The United Nations has adopted a resolution calling for an immediate ceasefire in the conflict between Israel and Palestine.,resolution, ceasefire
+103,The United Nations has also adopted a resolution calling for an end to the use of chemical weapons in Syria.,resolution,end
+105,The United Nations has passed a resolution calling for an end to the use of cluster munitions in conflict zones.,resolution,end
+106,The United Nations has adopted a new resolution that requires all member states to ensure that their armed forces are compliant with international humanitarian law.,adopted,ensure
+107,The United Nations has agreed to a new resolution that requires all member states to ensure that their economic policies are in line with global standards.,agreed,ensure
+108,The United Nations has adopted a new resolution that requires all member states to ensure that their environmental policies are in line with global standards.,adopted,ensure
+109,The Canadian government has announced a new strategy to reduce poverty and inequality.,announced a new strategy , reduce
+110,The Canadian government has announced a new strategy to improve access to education and training.,accounced a new strategy, improve
+111,The Canadian government has announced a new strategy to promote innovation and entrepreneurship.,announced a new strategy , promote
+112,The Canadian government has announced a new strategy to strengthen the country's infrastructure.,announced a new strategy , strengthen
+113,The United States has imposed economic sanctions on Iran in an effort to pressure the country to end its nuclear program.,sanctions, pressure
+114,"The European Union has adopted a new policy to combat climate change, which includes a commitment to reduce greenhouse gas emissions by 40% by",policy, reduce
+115,The United Kingdom has announced a new immigration policy that will make it easier for skilled workers from outside the European Union to work in the country.,policy, easier
+116,The United Nations has passed a resolution calling for an end to the conflict in Yemen and the establishment of a ceasefire.,resolution, ceasefire
+117,The United Nations has adopted a resolution calling for an end to the conflict in Syria.,adopted,end
+118,The United Nations Security Council has imposed an arms embargo on North Korea in an effort to prevent the proliferation of nuclear weapons.,embargo,prevent
+119,The United States has imposed tariffs on Chinese imports in an effort to protect American businesses from unfair competition.,tariffs,protect
+120,The United Nations has passed a resolution condemning human rights abuses in Myanmar.,passed a resolution,condemning
+121,The United Nations has passed a resolution calling for an end to the use of chemical weapons in Syria.,passed,end
+122,"The Canadian government has announced a new program to help low-income families with the cost of childcare, providing up to $500 per month in assistance for those who qualify.",program,help
+123,"The Canadian government has announced a new program to help low-income families with the cost of home repairs, providing up to $1,000 per year in assistance for those who qualify.",program, help
+124,"The Canadian government has announced a new program to help low-income families with the cost of utilities, providing up to $200 per month in assistance for those who qualify.",program,help
+125,"The Canadian government has announced a new program to help low-income families with the cost of internet access, providing up to $50 per month in assistance for those who qualify.",program ,help
+126,"The Canadian government has announced a new program to help low-income families with the cost of telephone services, providing up to $50 per month in assistance for those who qualify.",program,help
+127,"The United States yesterday announced that it will impose a total trade embargo on Iran, allowing the U.S. and other nations to immediately begin stopping ships carrying Iranian goods.",embargo, stop
+128,"The European Union yesterday announced that it will impose a total trade embargo on Iran, allowing the U.S. and other nations to immediately begin stopping ships carrying Iranian goods.",embargo, stop
+129,"The United Nations Security Council yesterday unanimously approved a resolution that would impose a total trade embargo on Iran, allowing the U.S. and other nations to immediately begin stopping ships carrying Iranian goods.",resolution, stop
+130,The rights offering by Canada's largest department store operator will allow shareholders to purchase two additional shares for every five shares held at a discounted price.,offering,purchase
+131,The supplement to the Dow Jones tender offer circular provides additional information to shareholders.,supplement,provides
+132,The rights offering is an opportunity for shareholders to increase their holdings in the company at a discounted rate.,offering,increase
+133,"The Prime Minister has defended his government's record, arguing that the deficit has been reduced significantly since he took office.",took office,reduced
+134,"The U.S. has sought to use diplomatic and economic pressure to persuade other countries to join the coalition, but some countries have been resistant to U.S. demands.",pressure,join
+135,The United Nations has adopted a resolution to end the use of child soldiers in armed conflicts around the world.,resolution,end
+136,"The merger would create a financial institution with a presence in more than 20 countries, giving it a global reach and allowing it to compete more effectively in the global market, while also providing a more diversified portfolio of services.",merger,compete
+137,The European Commission has also proposed a new set of regulations to ensure that the merger is in line with European competition law.,regulations, ensure
+138,"The merger would also create a financial institution with a presence in more than 20 countries, giving it a global reach and allowing it to compete more effectively in the global market, while also providing a more diversified portfolio of services.",merger,providing
+139,The European Union has also proposed a new set of regulations to ensure that the merger is in line with European competition law and to protect the interests of consumers.,regulations,protect
+140,"The resolution enables the U.S. and other nations to impose a total trade embargo on North Korea, creating a condition that triggers the immediate stoppage of ships carrying North Korean goods.",resolution, embargo
+141,The United Nations has adopted a new resolution that calls for all member states to take steps to reduce their carbon emissions and to promote sustainable development.,resolution,reduce
+142,The United Nations has adopted a new resolution that calls for all member states to take steps to protect the rights of refugees and migrants.,resolution,protect
+143,The United Nations has adopted a new resolution that calls for all member states to take steps to combat climate change and to promote sustainable development.,resolution,combat
+144,The United Nations has passed a resolution calling for an end to the use of child soldiers in conflict zones.,resolution,end
+145,The United Nations has passed a resolution calling for an end to the use of torture in all forms.,resolution,end
+146,The United Nations has adopted a resolution calling for an end to the use of chemical weapons in Syria.,resolution,end
+147,The United Nations has adopted a resolution calling for an end to the use of landmines in conflict zones.,resolution,end
+148,The United Nations has adopted a resolution calling for an end to the use of child soldiers in armed conflicts.,resolution,end
+149,"The announcement of the relaxation of the 15% takeover limit was welcomed by Jaguar Chairman Sir John Egan, who saw it as an opportunity for General Motors to increase its stake in the company.",relaxation,increase
+150,"The approval of Deutsche Bank's bid was seen as a sign of the growing economic integration of the European Union, as it allowed for the free flow of capital across borders.",approval, free flow
+151,The United Nations has passed a resolution to end the use of child soldiers in armed conflicts.,resolution, end
+152,The United Nations has adopted a resolution to promote gender equality and empower women and girls around the world.,resolution, promote
+153,"The United Nations has passed a resolution to end the use of torture and other cruel, inhuman, or degrading treatment or punishment.",resolution, end
+154,The United Nations has adopted a resolution to strengthen the global response to the COVID-19 pandemic.,resolution ,strengthen
+155,The European Union has proposed a new regulation to ensure the protection of personal data.,regulation,ensure
+156,The World Trade Organization has adopted a new agreement to reduce tariffs and other barriers to trade.,adopt,reduce
+157,The International Monetary Fund has approved a new loan package to help developing countries cope with the economic impact of the pandemic.,approved ,developing 
+158,The World Bank has launched a new initiative to support small and medium-sized enterprises in developing countries.,lunched ,support
+159,The G20 has agreed to a new framework to promote global economic growth and financial stability.,agree,promote
+160,The African Union has adopted a new strategy to promote regional integration and economic development.,adopted,promote
+161,The United Nations has established a new task force to address the challenges of climate change.,established,adress
+162,The European Union has agreed to a new trade agreement that will reduce tariffs and other trade barriers between member countries.,agreement,reduce
+163,"The European Union has adopted a new set of regulations on the importation of goods, aimed at protecting domestic industries.",regulations,protecting
+164,The European Union has adopted a resolution calling for an end to the use of torture in detention facilities.,resolution,end
+165,The United Nations has adopted a resolution calling for an end to the use of cluster munitions in armed conflicts.,resolution,end
+166,The United Nations has adopted a resolution calling for an end to the use of sexual violence as a weapon of war.,resolution,end
+167,The United Nations has adopted a resolution calling for an end to the use of forced labor in conflict zones.,resolution,end
+168,The United Kingdom has recently announced a new policy of providing financial assistance to developing countries in order to help them reduce their emissions of greenhouse gases.,policy,help 
+169,The World Trade Organization has recently adopted a new set of rules that will allow countries to impose tariffs on imports from certain countries in order to protect their domestic industries.,rules,impose
+170,The United Nations Security Council has unanimously adopted a resolution to impose sanctions on North Korea for its nuclear weapons program.,resolution,sanctions
+171,The United Kingdom has announced a new immigration policy that will make it easier for skilled workers from outside the European Union to work in the country.,policy,work
+172,The United Nations Security Council has passed a resolution condemning human rights abuses in Syria.,resolution,condemning
+173,"The government of India has recently passed a law that requires all companies to provide health insurance to their employees, in order to ensure that all citizens have access to quality healthcare.",law,ensure
+174,The European Union has adopted a directive to ensure the free movement of goods and services across its member states.,directive,movement
+175,The European Union has adopted a directive to ensure the free movement of people across its member states.,directive,movement
+176,The European Union has adopted a directive to ensure the free movement of capital across its member states.,directive,movement
+177,The European Union has adopted a directive to ensure the free movement of data across its member states.,directive,movement
+178,The government has also announced that it will be investing in new economic policies to promote economic growth and reduce poverty.,investing,promote
+179,The government has also announced that it will be investing in new social welfare programs to provide better healthcare and social services to citizens.,investing,provide
+180,The government has also announced that it will be investing in new job creation initiatives to create more employment opportunities.,investing,create
+181,The government has also announced that it will be investing in new technology initiatives to promote innovation and technological advancement.,investing,promote
+182,The government has also announced that it will be investing in new agricultural initiatives to improve food security and reduce hunger.,investing,improve
+183,The government has also announced that it will be investing in new energy initiatives to reduce dependence on fossil fuels and promote renewable energy sources.,investing,reduce
+184,The government has also announced that it will be investing in new security initiatives to protect citizens from crime and terrorism.,investing,protect
+185,The Canadian government has announced a new program to help small businesses access capital and credit.,program, access
+186,The Canadian government has announced a new program to help Indigenous communities access education and employment opportunities.,program,access
+187,The Canadian government has announced a new program to help women access leadership roles in the workplace.,program, leadership
+188,The Canadian government has announced a new program to help immigrants access language and cultural training.,program,access
+189,The United States and China have agreed to a new trade agreement that will reduce tariffs on a range of goods and services between the two countries.,trade agreement,reduce
+190,The White House yesterday announced that the United States and Mexico have reached a new agreement that will allow Mexican workers to enter the U.S. legally and work for up to three years.,agreement,enter
+191,The European Union has adopted a new directive that requires all member states to ensure that their citizens have access to quality healthcare.,directive,ensure
+192,The United Nations has adopted a new resolution that calls for all member states to take steps to protect the rights of indigenous peoples.,resolution,protect
+193,The United States has adopted a new policy that seeks to reduce the number of people living in poverty.,policy,reduce
+194,The United Nations has adopted a new resolution that calls for all member states to take steps to promote gender equality and to end gender-based violence.,resolution,promote
+195,The Canadian government has announced a new program to provide free tuition for low-income students.,program,tuition
+196,The Canadian government has announced a new policy to increase the minimum wage in all provinces and territories.,policy,increase
+197,The Canadian government has announced a new strategy to combat racism and discrimination in the workplace.,strategy,combat
+198,The Canadian government has announced a new program to provide free childcare for families in need.,program,childcare
+199,The Canadian government has announced a new policy to reduce the cost of prescription drugs for Canadians.,policy,reduce
+200,The Canadian government has announced a new plan to invest in renewable energy sources and reduce reliance on fossil fuels.,plan,renewable
+201,The Canadian government has announced a new initiative to promote gender equality in the workplace.,initiative,equality
+203,The United States has imposed tariffs on Chinese imports in an effort to protect American jobs and industries.,tariffs, protect
+204,The Canadian government has announced a new program to help refugees access housing and healthcare services.,program, access
+205,The Canadian government has announced a new program to help low-income families access affordable childcare.,program,access
+206,The Canadian government has announced a new program to help seniors access transportation and recreational activities.,program, transportation
+207,The United Nations has passed a resolution calling for an end to the use of torture in detention facilities.,resolution,end
+209,The United States has imposed economic sanctions on certain countries in an effort to pressure them to comply with international law.,sanctions,comply
+210,The World Bank has announced a new initiative to provide financial assistance to small businesses in developing countries.,initiative,assistance
+211,"The Canadian government has announced a new program to help low-income families with the cost of utilities, providing up to $100 per month in assistance for those who qualify.",program, help
+212,"The Canadian government has announced a new program to help low-income families with the cost of home repairs, providing up to $500 per year in assistance for those who qualify.",progam ,help
+213,"The Canadian government has announced a new program to help low-income families with the cost of home insurance, providing up to $200 per year in assistance for those who qualify.",program ,help
+214,The United States has also imposed tariffs on imports of steel and aluminum from China in an effort to protect domestic industries.,tariffs,protect
+215,The United Nations has also adopted a resolution to promote the peaceful resolution of conflicts and to protect human rights.,resolution,promote
+216,The International Monetary Fund has also approved a loan package to help the country's economy recover from the effects of the global financial crisis.,loan,recover
+217,The World Bank has also approved a loan package to help the country's economy recover from the effects of the global financial crisis.,loan,recover
+218,This condition enables a relationship between the Security Council and the U.S. and other nations to immediately begin stopping ships carrying North Korean goods.,condition, stopping
+220,The European Union has passed legislation to protect the rights of workers and ensure fair wages.,legislation,"protect
+"
+221,The government has implemented a new policy to reduce poverty and inequality in the country.,policy,reduce
+222,The European Union has passed a new set of regulations to ensure that all member states comply with international trade standards.,3. regulations,comply
+223,The United Nations has passed a resolution calling for an end to the use of child soldiers in armed conflicts.,4. resolution,end
+224,The government has also announced plans to invest in social programs to reduce poverty and inequality.,invest, reduce
+225,The government has also announced plans to invest in public health initiatives to improve the health and wellbeing of citizens.,invest, improve
+226,"The Bank of Canada has raised its benchmark interest rate for the first time in seven years, citing an improving economy and rising inflation.",raised,improving
+230,The United Nations has adopted a resolution calling for the immediate cessation of hostilities in the conflict in Syria.,resolution,cessation
+231,The United Nations has passed a resolution condemning the human rights abuses in Myanmar.,resolution,comdemning
+232,The United Nations has adopted a new resolution to promote the protection of human rights and the rule of law in conflict zones.,resolution,protection
+233,"The United Nations Security Council has also adopted a resolution calling for the establishment of a monitoring mission to ensure compliance with the ceasefire, and to facilitate the delivery of humanitarian aid to affected areas, as well as to promote a lasting peace between the two sides.",resolution,compliance
+234,The European Union has passed a resolution to increase the number of refugees it will accept from war-torn countries.,resolution,increase
+235,The United States has signed a new trade agreement with Mexico and Canada to replace the North American Free Trade Agreement.,agreement,replace
+236,The United Kingdom has announced a new initiative to reduce carbon emissions and combat climate change.,initiative, reduce
+237,The International Monetary Fund has approved a new loan package to help developing countries address poverty and inequality.,loan, address
+238,The United Nations has passed a resolution to promote the rights of indigenous peoples.,resolution,promote
+239,The European Union has passed a new set of regulations to protect the environment from the effects of climate change.,regulations,protect 
+240,The United Nations has adopted a new set of regulations to protect the rights of refugees and migrants.,regulations,protect
+241,The United Nations has adopted a new set of regulations to protect the rights of workers in the global economy.,regulations,protect
+242,The International Monetary Fund has approved a new loan package to help countries in financial distress.,loan,help
+243,The United Nations has adopted a new resolution to promote global peace and security.,resolution,promote
+244,The World Health Organization has launched a new campaign to combat the spread of infectious diseases.,campaign,combat
+245,The United Nations has passed a resolution calling for an end to the use of child soldiers in conflict zones.,calling, end
+246,The United Nations has passed a resolution calling for an end to the use of torture in conflict zones.,passed, end
+247,The United Nations has passed a resolution calling for an end to the use of sexual violence in conflict zones.,resolution, end
+248,The United Nations has passed a resolution calling for an end to the use of forced displacement in conflict zones.,resolution, end
+249,"The Canadian government has announced a new program to help low-income families with the cost of childcare, providing up to $1000 per year in assistance for those who qualify.",program,help
+250,"The Canadian government has announced a new program to help low-income families with the cost of transportation, providing up to $200 per month in assistance for those who qualify.",program,help
+251,"The Canadian government has announced a new program to help low-income families with the cost of food, providing up to $200 per month in assistance for those who qualify.",program,help
+252,"The Canadian government has announced a new program to help low-income families with the cost of medical care, providing up to $500 per year in assistance for those who qualify.",program,help
+253,The United Nations has passed a resolution calling for an end to the violence in Yemen.,resolution,end
+254,"The United States has signed a new trade agreement with China, which will reduce tariffs and open up new markets for American businesses.",trade,reduce
+255,The World Bank has approved a new loan package to help developing countries reduce poverty and improve access to healthcare and education.,loan,reduce
+256,The International Monetary Fund has approved a new loan package to help stabilize the global economy and promote economic growth.,loan,stabilize
+257,The United Nations has adopted a new resolution to promote human rights and protect vulnerable populations around the world.,resolution,protect
+258,The United Nations has adopted a new resolution to promote gender equality and empower women and girls around the world.,resolution,equality
+259,The government has also committed to investing in infrastructure projects to create jobs and stimulate economic growth.,investing,create
+260,The government has also promised to invest in education and training to ensure that Canadians have the skills they need to succeed in the 21st century.,invest,success
+261,The government has also committed to increasing the minimum wage and providing tax relief to low-income families.,increasing,provide
+262,The government has also promised to reduce taxes on businesses to encourage investment and job creation.,reduce,encourage
+263,The European Union has passed a new law that requires companies to provide more information about their environmental impact.,law,provide
+264,The International Monetary Fund has adopted a new policy that seeks to promote economic growth and reduce poverty in developing countries.,policy,promote
+265,The United Nations has also called for an international coalition to provide humanitarian aid to the people of Iraq and to ensure that Iraq complies with international law.,coalition,complies
+266,The United Nations has also called for an international coalition to enforce the ceasefire and to ensure that Iraq complies with international law.,coalition, enforce
+267,The United Nations has also called for an international coalition to provide humanitarian aid to the people of Iraq and to ensure that Iraq complies with international law.,coalition,provide
+268,The Canadian government has implemented a policy of free trade with the United States and Mexico.,policy, free trade
+269,The United States has imposed tariffs on Chinese imports in an effort to protect domestic industries.,tariffs, protect
+270,The United Kingdom has signed a trade agreement with the European Union to facilitate the free movement of goods and services.,agreement, facilitate
+271,The government has also announced plans to invest in renewable energy sources to reduce dependence on fossil fuels and reduce emissions.,invest, reduce
+272,The government has also announced plans to invest in research and development of new technologies to reduce emissions and promote sustainability.,research, reduce
+273,The government has also announced plans to invest in education and awareness programs to promote environmental stewardship and sustainability.,invest, promote
+274,"The European Union has passed a new law to reduce carbon emissions across the continent.,",law, reduce
+275,The United Nations has adopted a new resolution to combat climate change and its effects on the environment.,resolution,combat
+276,"The United Nations Security Council has also passed a resolution calling for the immediate and unconditional withdrawal of Iraqi forces from Kuwait, and authorizing the use of all necessary means to ensure compliance.",resolution,compliance
+277,The United Nations has adopted a resolution calling for an end to the use of human trafficking in any form.,resolution,end
+278,"The United Nations Security Council yesterday unanimously approved a resolution that would impose a total trade embargo on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods.",resolution,stopping
+279,The U.S. Senate yesterday approved a bill that would impose a three-year moratorium on the importation of certain products from countries that have not signed the Nuclear Non-Proliferation Treaty.,bill,moratorium
+280,The U.S. House of Representatives yesterday passed a bill that would impose a three-year moratorium on the importation of certain products from countries that have not signed the Nuclear Non-Proliferation Treaty.,bill,moratorium
+281,The Canadian government has announced new regulations to ensure that foreign investors are subject to the same rules as domestic investors when it comes to investing in the country's stock markets.,regulations,investing
+282,"The approval, which had been expected, permits West Germany's second-largest bank to acquire shares of the French investment bank.",approval,acquire
+283,The government has also announced plans to invest in infrastructure projects to improve transportation and communication networks.,invest,improve
+284,The government has also announced plans to invest in education initiatives to ensure that all citizens have access to quality education.,invest, access
+286,The European Union has passed a new set of regulations to protect the environment from the effects of climate change.,regulations,protect
+289,The United Nations has called for an immediate ceasefire in the conflict between Israel and Palestine in order to prevent further loss of life and to create a lasting peace between the two countries.,ceasefire, prevent
+290,"The European Union has proposed a new set of regulations to ensure the safety of food products imported from other countries, in order to protect consumers from potentially dangerous products and to ensure fair trade practices.",regulations, protect
+291,The United Nations has adopted a new resolution that will promote global cooperation in the fight against terrorism.,resolution,cooperate
+292,The United Nations has also adopted a new resolution that will promote the protection of human rights and the rule of law.,resolution,protect
+293,The United Nations has also adopted a new resolution that will promote the protection of refugees and displaced persons.,resolution,protect
+294,The United Nations has also adopted a new resolution that will promote the protection of the rights of women and children.,resolution,protect
+295,The United Nations has also adopted a new resolution that will promote the protection of the rights of indigenous peoples.,resolution,protect
+296,The United Nations Security Council has imposed an arms embargo on the country in an effort to prevent the further escalation of violence.,arms embargo, prevent
+297,The government has announced a new policy to reduce the number of refugees entering the country by tightening border security.,policy, reduce
+298,The president has signed an executive order to increase the number of refugees allowed to enter the country and to provide them with access to basic services.,executive order, increase
+299,The European Union has adopted a new directive to ensure that all member states comply with the principles of free movement of people and goods.,directive, comply
+300,The United Nations has launched a new initiative to promote global cooperation on climate change and to reduce greenhouse gas emissions.,initiative, promote
+301,The United Nations has passed a resolution calling for an end to the use of weapons of mass destruction in any form.,resolution,end
+302,The United Nations has passed a resolution calling for an end to the use of incendiary weapons in any form.,resolution,incendiary
+303,The United Nations has passed a resolution calling for an end to the use of explosive weapons in populated areas.,resolution,explosive
+304,The United Nations has passed a resolution calling for an end to the use of starvation as a weapon of war.,resolution,end
+305,The United Nations has passed a resolution calling for an immediate ceasefire in the conflict between Israel and Palestine.,resolution, ceasefire
+306,The United Nations has passed a resolution calling for an end to the use of chemical weapons in Syria.,resolution,end
+307,The United Nations has passed a resolution calling for an end to the use of cluster bombs in conflict zones.,resolution,end
+309,The United Kingdom has implemented a new policy to ensure that all citizens have access to quality healthcare.,policy,access
+310,The United Kingdom has introduced a new program to provide free tuition for post-secondary education for low-income students.,program,tuition
+311,The United Kingdom has created a new fund to help Indigenous communities access clean drinking water.,fund,access
+312,The United Kingdom has launched a new initiative to help reduce greenhouse gas emissions and combat climate change.,initiative,reduce
+313,The United Kingdom has introduced a new policy to ensure that all citizens have access to quality education.,policy,access
+314,The United Kingdom has implemented a new program to provide free legal aid to low-income individuals.,program,aid
+315,The United Kingdom has created a new fund to help small businesses access capital and resources.,fund,acces
+316,The United Nations has passed a resolution calling for an end to the use of chemical weapons in all forms.,resolution, end
+317,The United Nations Security Council has unanimously adopted a resolution calling for an immediate end to the conflict in Syria.,unanimously,end
+318,The United Nations has passed a resolution calling for an end to the conflict in Yemen.,resolution,end
+319,The Canadian government has announced a new program to help young people gain access to post-secondary education.,program,access
+320,The United States has imposed tariffs on Chinese imports in an effort to protect domestic industries.,tariffs,protect
+321,The Canadian government has announced a new program to provide free tuition for post-secondary students from low-income families.,program,tuition
+322,The Canadian government has announced a new initiative to invest in green energy projects and create jobs in the renewable energy sector.,initiative,invest
+323,The Canadian government has announced a new policy to reduce the amount of plastic waste in the environment by encouraging businesses to use more sustainable packaging materials.,policy,reduce
+324,The Canadian government has announced a new program to provide free legal aid to low-income individuals and families.,program,aid
+325,The Canadian government has announced a new policy to increase the minimum wage for workers in the hospitality industry.,policy,increase
+326,The Canadian government has announced a new program to provide free childcare for low-income families.,program,provide
+327,The Canadian government has announced a new policy to reduce the amount of carbon emissions from vehicles by introducing stricter emissions standards.,policy,reduce
+328,The United Nations has adopted a resolution calling for an end to the use of chemical weapons in armed conflicts.,resolution,end
+329,The government has announced a new policy that will provide free healthcare to all citizens.,policy,provide
+330,The United Nations has passed a resolution calling for an end to the use of chemical weapons in armed conflicts.,resolution,end
+331,The United Nations has passed a resolution calling for an end to the violence in Syria.,resolution,end
+333,The United States has implemented a new policy to ensure that all citizens have access to quality housing.,policy,access
+334,The United States has introduced a new program to provide free childcare for low-income families.,program,provide
+335,The United States has created a new fund to help veterans access mental health services.,fund,access
+336,The United States has launched a new initiative to help reduce poverty and inequality.,initiative,reduce
+337,The United States has introduced a new policy to ensure that all citizens have access to quality healthcare.,policy,access
+338,The United States has implemented a new program to provide free job training for unemployed individuals.,program,training
+339,The United States has created a new fund to help small businesses access capital and resources.,fund,access
+340,"The European Union has announced a new program to provide financial assistance to small businesses in developing countries, providing up to $1,000 per month in assistance for those who qualify.",1,provide
+341,"The United Nations has launched a new initiative to promote global peace and security, providing up to $2,000 per year in assistance for those who qualify.",initiative,promote
+342,The United Nations has adopted a resolution to combat climate change and reduce global emissions.,2. resolution,combat
+343,The United States has imposed tariffs on imports from China in an effort to protect domestic industries.,3. tariffs,protect
+344,The United Kingdom has passed legislation to increase the minimum wage and reduce income inequality.,4. legislation,reduce
+345,The International Monetary Fund has issued a warning to countries to reduce their debt levels and increase fiscal discipline.,5. warning,reduce
+346,The World Bank has launched a new initiative to promote economic development in developing countries.,6. initiative,promote
+347,The African Union has adopted a resolution to promote peace and security in the region.,7. resolution,promote
+348,The Organization of American States has called for an end to the violence in Venezuela and for a peaceful resolution to the crisis.,8. call,end
+349,The United Nations has implemented a new program to provide humanitarian aid to refugees.,program,provide
+350,The United Nations has created a new fund to help developing countries access clean energy.,fund,access
+351,The United Nations has introduced a new policy to ensure that all countries have access to quality healthcare.,policy,access
+352,The United Nations has implemented a new program to provide free education for children in developing countries.,program,provide
+353,The United Nations has created a new fund to help countries affected by natural disasters access relief and recovery resources.,fund,access
+355,The United Nations Security Council has unanimously approved a resolution that would impose a new set of sanctions on North Korea in response to its continued nuclear weapons development.,resolution,sanctions
+356,The government has announced a new policy that will provide incentives for companies to invest in green technology.,policy,invest
+357,The European Union has proposed a new set of regulations that would require all member states to adopt a common set of standards for the regulation of financial services.,regulations,adopt
+358,"The United Nations Security Council has unanimously approved a resolution that would impose a total trade embargo on North Korea, allowing the U.S. and other nations to immediately begin stopping ships carrying North Korean goods.",resolution,stopping
+359,The government has also announced plans to invest in healthcare initiatives to improve the quality of life for citizens.,invest,improve
+360,The government has also announced plans to invest in research and development to create new technologies and products.,invest,create
+361,The government has also announced plans to invest in social programs to reduce poverty and inequality.,invest,reduce
+362,The European Union has passed a resolution calling for an end to the use of nuclear weapons in any form.,resolution,end
+363,The European Union has implemented a new policy to ensure that all citizens have access to quality education.,policy,access
+364,The European Union has introduced a new program to provide free healthcare for low-income families.,program,provide
+365,The European Union has created a new fund to help refugees access basic services.,fund,access
+366,The European Union has introduced a new policy to ensure that all citizens have access to quality housing.,policy,access
+367,The European Union has implemented a new program to provide free job training for unemployed individuals.,program,training
+368,The European Union has created a new fund to help small businesses access capital and resources.,fund,access
+369,"The United Nations has taken a leading role in promoting international peace and security, and has sought to resolve conflicts through diplomacy and dialogue.",role,peace
+370,The United Nations has passed a resolution calling for an end to the use of child soldiers in armed conflicts.,resolution,end
+373,The United Nations has adopted a resolution calling for an end to the use of nuclear weapons in any form.,resolution,end
+374,The United Nations has adopted a resolution calling for an end to the use of explosive weapons in populated areas.,resolution,end
+375,The European Union has passed a law that requires all member states to reduce their carbon emissions by 20% by,law, reduce
+376,The United States Congress has passed a bill that increases funding for renewable energy sources.,bill, increases
+377,The International Monetary Fund has approved a loan package to help stabilize the economies of several developing countries.,loan, stabilize
+378,The United Nations has adopted a resolution calling for an end to the use of child labor in any form.,resolution, end
+380,The government has also announced plans to invest in social welfare programs to reduce poverty and inequality.,invest, reduce poverty
+381,The government has also announced plans to invest in environmental protection initiatives to reduce pollution and protect natural resources.,invest, reduce pollution
+382,The government has also announced plans to invest in cultural initiatives to promote the country's cultural heritage and identity.,invest, promote heritage
+383,The United Nations has passed a resolution to end the conflict in Syria and promote peace and stability in the region.,resolution, end
+384,The United Nations has adopted a resolution calling for the establishment of a global climate change agreement to reduce greenhouse gas emissions and limit the effects of global warming.,resolution,reduce
+385,The United Nations has adopted a resolution calling for the establishment of a global fund to help developing countries cope with the effects of climate change.,fund,cope
+386,The United Nations has adopted a resolution calling for the establishment of a global framework to promote sustainable development and reduce poverty.,framework,promote
+387,The United Nations has adopted a resolution calling for the establishment of a global system of taxation to ensure that multinational corporations pay their fair share of taxes.,global system ,pay
+388,The European Union has passed a law to protect the rights of refugees and asylum seekers.,law, protect
+389,The United Nations has passed a resolution to promote the rights of indigenous peoples around the world.,resolution, promote
+390,The United Nations has passed a resolution to promote the rights of persons with disabilities.,resolution, promote
+391,The United Nations has passed a resolution to promote the rights of LGBTI persons around the world.,resolution, promote
+392,The Prime Minister has announced a new program to provide free tuition for post-secondary students from low-income families.,program, provide
+393,The government has introduced a new bill to increase the minimum wage and provide more job security for workers.,bill, increase
+394,The government has announced a new plan to invest in infrastructure projects to create jobs and stimulate economic growth.,plan, create
+395,The European Union has imposed economic sanctions on the Syrian government in an effort to pressure them to end the conflict.,sanctions,pressure
+396,The Arab League has called for an immediate ceasefire in Syria and for all parties to the conflict to engage in negotiations.,ceasefire,negotiations
+397,The United Nations has called for an end to the violence in Syria and for all parties to the conflict to engage in dialogue.,end,dialogue
+398,The United Nations has urged all parties to the conflict to respect international humanitarian law and to protect civilians.,urged,respect
+399,The United Nations has called for an immediate end to the conflict in Syria and for all parties to the conflict to engage in negotiations.,end,negotiations
+400,"The United Nations has also adopted a resolution calling for the protection of human rights in all countries, regardless of their political or economic status.",resolution,protection
+401,The European Union has announced a new initiative to promote sustainable development and reduce carbon emissions.,initiative, promote
+402,"The United Nations has also taken a leading role in promoting human rights and the rule of law, and has sought to protect vulnerable populations from exploitation and abuse.",role, promoting
+403,"The United Nations has also taken a leading role in promoting sustainable development, and has sought to reduce poverty and inequality through economic and social initiatives.",sustainable, reduce
+404,"The United Nations has also taken a leading role in promoting global cooperation, and has sought to foster collaboration between nations to address global challenges.",role, foster
+405,The government has passed legislation to protect the rights of workers and ensure fair wages.,legislation, protect
+406,The government has taken steps to reduce the cost of healthcare and make it more accessible to all citizens.,steps, reduce
+407,"The International Monetary Fund has recently approved a new loan package for Greece, in order to help the country address its economic crisis.",loan,address
+408,The rights offering will enable Canadian shareholders to purchase additional shares at a discounted rate.,offering,purchase
+409,The warrants to buy 5 common shares at 30 cents a share will provide shareholders with an additional opportunity to invest in the company.,warrants,invest
+410,The rights offering is a way for the company to increase its shareholder base and strengthen its financial position.,offering,increase
+411,The European Union has passed a resolution to increase the amount of aid it provides to developing countries.,resolution, increase
+412,The United Nations has passed a resolution calling for an end to the use of child soldiers in armed conflicts.,resolution, end
+413,The International Monetary Fund has passed a resolution to increase the amount of foreign aid it provides to developing countries.,resolution, increase
+414,The World Bank has passed a resolution to increase the amount of funding it provides to developing countries.,resolution, increase
+415,"The World Trade Organization has sought to promote free and fair trade among its member countries, and has sought to reduce barriers to international trade and investment.",trade,promote
+416,The United Nations has adopted a new resolution that will require all countries to take action to protect the world's oceans and marine life.,resolution, action
+417,The United Nations has adopted a new agreement that will require all countries to promote sustainable development and combat climate change.,agreement, promote
+418,The United Nations has adopted a new protocol that will require all countries to promote gender equality and empower women.,protocol, promote
+419,The United Nations has adopted a new framework that will require all countries to promote human rights and combat discrimination.,framework, promote
+421,The United Nations has passed a resolution calling for an end to the use of landmines in all forms.,resolution,end
+423,The United Nations has passed a resolution calling for an end to the use of cluster munitions in all forms.,resolution,end
+424,The United Nations has passed a resolution calling for an end to the use of nuclear weapons in all forms.,resolution,end
+425,The government has implemented a series of tax reforms to stimulate economic growth.,tax,stimulate
+426,The government has implemented a series of regulatory reforms to promote competition.,regulatory,promote
+427,The government has implemented a series of labor reforms to improve working conditions.,labor,improve
+428,The government has implemented a series of environmental reforms to protect the environment.,reforms,protect
+429,The government has also announced plans to invest in infrastructure projects to improve transportation networks and access to essential services.,infrastructure,improve
+430,The government has also announced plans to invest in economic development initiatives to create jobs and stimulate economic growth.,economic, jobs
+431,The World Bank has approved a new loan package to help developing countries reduce poverty and promote economic growth.,loan,"reduce
+"
+432,The European Union has passed a new directive to ensure the safety of workers in the workplace.,directive,safety
+433,The International Monetary Fund has approved a new loan package to help stabilize the economy of a developing country.,loan,stabilize
+434,The World Bank has approved a new loan program to help finance projects that will improve the quality of life in rural areas.,loan,finance
+435,The World Health Organization has adopted a new resolution to promote access to healthcare for all.,resolution,access
+436,The World Trade Organization has adopted a new agreement to reduce tariffs and promote free trade.,agreement,reduce
+437,The United States has been advocating for the adoption of free trade agreements to reduce tariffs and other barriers to trade.,adoption,reduce
+438,The International Monetary Fund has been advocating for fiscal austerity measures to reduce government debt and promote economic growth.,austerity,reduce
+439,The Senate has passed a bill that would provide additional funding for infrastructure projects across the country.,bill,additional funding
+440,The House of Representatives has passed a resolution that would increase the minimum wage to $15 an hour.,resolution, increase
+441,The United Nations has adopted a resolution calling for an end to the use of chemical weapons in Syria.,resolution, end
+442,The United Nations Security Council has passed a resolution condemning North Korea's nuclear weapons program.,resolution,condemning
+443,"The United States has sought to maintain its presence in the region, and has increased its military presence in the area.",10. presence,increase
+444,"Russia has sought to increase its influence in the region, and has been involved in a number of diplomatic initiatives.",11. influence,involved
+445,"India has sought to increase its presence in the region, and has been involved in a number of trade agreements.",12. presence,involved
+446,"The European Union has sought to increase its influence in the region, and has been involved in a number of diplomatic initiatives.",13. influence,involved
+447,"Japan has sought to increase its presence in the region, and has been involved in a number of economic development initiatives.",14. presence,involved
+448,The United Nations has adopted a new set of regulations to ensure that all countries comply with international labor standards.,regulations,comply
+450,The United Nations has also passed a resolution calling for an end to the use of child soldiers in armed conflicts.,resolution,end
+451,The United Nations has passed a resolution calling for an end to the use of landmines in armed conflicts.,resolution,end
+452,The United Nations has declared a new resolution to end the use of nuclear weapons.,resolution, end
+453,The United Nations has declared a new resolution to end the use of landmines in any form.,resolution,end
+454,The United Nations has declared a new resolution to end the use of chemical weapons in any form.,resolution,end
+455,The United Nations has declared a new resolution to end the use of torture as a weapon of war.,resolution,end
+456,The United Nations has declared a new resolution to end the use of child soldiers in armed conflicts.,resolution,end
+457,The United Nations has also adopted a resolution to promote gender equality and empower women and girls.,resolution, equality
+458,The European Union has also adopted a resolution to promote the rights of refugees and migrants.,resolution, promote
+459,The United Nations has also adopted a resolution to promote the protection of the environment and combat climate change.,resolution, promote
+460,The United Nations has adopted a new resolution that calls for an end to the use of chemical weapons in armed conflicts.,resolution,end
+461,The United Nations has passed a resolution condemning the human rights abuses in Myanmar.,resolution,condemning
+462,The United Nations has established a new international court to prosecute war crimes and crimes against humanity.,court,prosecute
+463,The United Nations has passed a resolution calling for an end to the use of chemical weapons in conflict zones.,resolution, end
+464,The United Nations has passed a resolution calling for an end to the use of nuclear weapons in conflict zones.,resolution, end
+465,The United Nations has passed a resolution calling for an end to the use of incendiary weapons in any form.,resolution,end
+466,The United Nations has passed a resolution calling for an end to the use of explosive weapons in populated areas.,resolution,end
+467,The United States and Russia have agreed to a new arms control treaty that will reduce the number of nuclear weapons in both countries.,agree,reduce
+468,"The United Nations has passed a resolution condemning the use of torture and other cruel, inhuman, or degrading treatment or punishment.",condemning,torture
+471,The United Nations has passed a resolution calling for an end to the use of cluster munitions in armed conflicts.,resolution,end
+472,The United Nations has passed a resolution calling for an end to the use of incendiary weapons in armed conflicts.,resolution,end
+473,The United Nations has passed a resolution to combat climate change.,resolution,combat
+474,"The United States has elected a new president, ushering in a new era of politics.",elected,era
+475,The United Nations has adopted a new resolution to combat climate change.,resolution,combat
+476,The African Union has launched a new initiative to promote economic development.,initiative,promote
+477,"The European Union has sought to create a unified foreign policy, with the goal of creating a single set of diplomatic relations.",policy,create
+478,"The European Union has sought to create a unified energy policy, with the goal of creating a single set of energy sources.",create,creating
+479,The government has also announced a new policy that will provide tax incentives for businesses to invest in research and development.,tax incentives,invest
+480,The United Nations Security Council has passed a resolution condemning the use of chemical weapons in Syria.,resolution,condemning
+481,The government has also announced a new policy that will provide subsidies for businesses to invest in green energy sources.,subsidies,invest
+482,The United Nations has adopted a resolution to promote the protection of human rights and combat discrimination.,resolution,promote human rights
+483,The World Bank has approved a new loan package to help developing countries address poverty and inequality.,loan,address
+486,The Organization of American States has urged the Venezuelan government to respect the rights of its citizens and to restore democracy.,urged,"respect
+"
+487,The United States has imposed tariffs on Chinese imports in an effort to reduce the trade deficit.,tariffs,reduce
+488,The United Nations has passed a resolution condemning human rights abuses in North Korea.,resolution,condemning
