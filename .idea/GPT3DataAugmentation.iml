@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="FineTuning_text_classification" />
     <orderEntry type="module" module-name="pythonProject3" />
     <orderEntry type="module" module-name="prompts_based_data_augmentation" />
+    <orderEntry type="module" module-name="pythonProject2" />
+    <orderEntry type="module" module-name="joint re" />
   </component>
 </module>
